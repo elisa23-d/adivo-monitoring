@@ -1,0 +1,33 @@
+{
+  "pmid": "41673463",
+  "title": "Major depressive disorder shares systemic immune signatures and potential therapeutic targets with inflammatory skin diseases.",
+  "abstract": "Major depressive disorder (MDD) is a prevalent neuropsychiatric disorder associated with significant morbidity and mortality. Increasing evidence suggests that a subset of MDD patients exhibit a dysregulated immune system. However, few clinical studies have tested the efficacy of anti-inflammatory drugs in reducing symptoms of depression. In contrast, targeted immunomodulatory drugs have revolutionized the treatment of inflammatory skin disorders, such as atopic dermatitis (AD) and psoriasis. To assess the viability of a targeted treatment approach in MDD, we first compared the blood proteomic profiles of patients with MDD to those of patients with AD, psoriasis, and healthy controls (HCs). We demonstrated that the proteomic signatures of MDD patients share Th2 skewing and dysregulation of other immune/neurovascular-related proteins with AD. Next, we performed an in-silico drug repurposing analysis to test whether common biologics used in dermatology could also affect the dysregulated proteomic signature observed in MDD patients. This computational approach identified dupilumab, which targets the IL-4 receptor α subunit (IL-4Rα) and thus inhibits the Th2 axis, as significantly affecting the MDD signature by reversing the dysregulation of several inflammatory proteins related to Th2 signaling. Finally, in a mouse model of chronic social defeat stress (CSDS), we showed that pharmacological inhibition of IL-4Rα prevented stress-induced social avoidance behavior. Our findings underscore the potential role of the Th2 axis in MDD, highlighting the potential of specifically targeting Th2 as a disease-modifying treatment. Additionally, the back-translational drug repurposing strategy employed in this study may offer a novel approach to identify immunomodulatory drugs in psychiatry.",
+  "pub_date": "2026-02-11",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Brain-Body Research Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Brain-Body Research Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Depression and Anxiety Center for Discovery and Treatment, Department of Psychiatry, Icahn School of Medicine of Mount Sinai, New York, NY, USA.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Brain-Body Research Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA. james.murrough@mssm.edu.",
+    "Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. james.murrough@mssm.edu.",
+    "Depression and Anxiety Center for Discovery and Treatment, Department of Psychiatry, Icahn School of Medicine of Mount Sinai, New York, NY, USA. james.murrough@mssm.edu.",
+    "VISN 2 Mental Illness Research, Education, and Clinical Center (MIRECC), James J. Peters VA Medical Center, Bronx, NY, USA. james.murrough@mssm.edu."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41673463/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

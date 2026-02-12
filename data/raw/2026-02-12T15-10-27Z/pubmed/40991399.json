@@ -1,0 +1,37 @@
+{
+  "pmid": "40991399",
+  "title": "TYK2 Promotes Immunosurveillance of Colorectal Cancer Liver Metastasis.",
+  "abstract": "Colorectal cancer liver metastasis (CRLM) is a major clinical problem. The regulators of immunosurveillance of CRLM could hold potential for developing therapeutic strategies to prevent or treat metastasis. In this study, using a murine colorectal cancer organoid-based transplantation model, we identified TYK2 as a key factor controlling CRLM. Evaluation of the effects of Tyk2 deletion in different subsets of immune cells and in colorectal cancer cells demonstrated that TYK2 was not required in cancer cells, macrophages, NK cells, T cells, or Kupffer cells. Instead, TYK2 controlled CRLM via a dendritic cell-dependent mechanism that relied on MHC-I-mediated cross-presentation of antigens to CD8+ T cells. Analysis of single-cell RNA sequencing data from primary colorectal cancer and CRLM revealed that TYK2 was predominantly expressed in a dendritic cell population destined to present antigens in tumor-draining lymph nodes. Treatment with the TYK2 inhibitor deucravacitinib, which is approved by the FDA for treating plaque psoriasis and is under clinical investigation for other autoimmune diseases, promoted CRLM. Together, these data demonstrate that TYK2 controls CRLM immunosurveillance, which should be carefully considered when treating patients with TYK2 inhibitors.\nTYK2 restricts the metastasis of colorectal tumors to the liver by supporting dendritic cell-dependent induction of antitumor CD8+ T cells, which could impact the use of TYK2 inhibitors in patients.",
+  "pub_date": "2026-01-02",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Department of Pathology, Medical University of Vienna, Vienna, Austria.",
+    "Institute for Animal Breeding and Genetics, University of Veterinary Medicine, Vienna, Austria.",
+    "Institute of Pharmacology, Center of Physiology and Pharmacology & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of Vienna, Vienna, Austria.",
+    "Institute for Animal Breeding and Genetics, University of Veterinary Medicine, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Department of Pathology, Medical University of Vienna, Vienna, Austria.",
+    "Institute for Animal Breeding and Genetics, University of Veterinary Medicine, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria.",
+    "Center for Cancer Research & Comprehensive Cancer Center (CCC), Medical University of Vienna, Vienna, Austria."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40991399/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

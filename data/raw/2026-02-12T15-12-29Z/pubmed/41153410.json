@@ -1,0 +1,26 @@
+{
+  "pmid": "41153410",
+  "title": "A Genome-Wide Association Study Identifying Novel Genetic Markers of Response to Treatment with Interleukin-23 Inhibitors in Psoriasis.",
+  "abstract": "Background/Objectives: The advent of biologics targeting key inflammatory pathways has significantly advanced psoriasis treatment. Among them, the Interleukin-23 inhibitors Guselkumab and Risankizumab have demonstrated high efficacy and rapid clinical response in both clinical trials and real-world studies. However, up to 30% of patients fail to respond. This study aimed to identify pharmacogenetic markers associated with treatment response using a genome-wide association study (GWAS) and protein network-based approach. Methods: Fifty-three patients of Greek origin with moderate-to-severe plaque psoriasis were treated with Guselkumab or Risankizumab. Based on Psoriasis Area and Severity Index (PASI) improvement at 3 and 6 months, patients were categorized as responders or non-responders. Approximately 730,000 single-nucleotide polymorphisms (SNPs) were genotyped. After filtering, a GWAS was performed to identify variants associated with treatment response. Additionally, protein-protein interaction (PPI) network analysis was applied to the two Interleukin-23 subunits and SNPs within or near genes encoding Interleukin-23-interacting proteins to test for their association. Results: The GWAS identified two novel variants, rs73641950 and rs6627462, significantly associated with treatment response, with both surpassing the genome-wide significance threshold after Bonferroni correction. The PPI-based approach revealed rs13086445, located downstream of the Interleukin-12 subunit alpha (IL12A) gene, as another associated variant. All three SNPs lie in genomic regions with potential regulatory roles. Conclusions: This study identifies three novel genetic variants associated with response to Interleukin-23 inhibitors in psoriasis. These findings provide promising pharmacogenetic markers which, upon validation in larger, independent cohorts, will enable the translation of a patient's genotype into a response phenotype, thereby guiding clinical decisions and improving drug effectiveness.",
+  "pub_date": "2025-10-13",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Biochemistry and Biotechnology, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Biochemistry and Biotechnology, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Biochemistry and Biotechnology, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Dermatology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Dermatology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Dermatology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Animal Science, University of Thessaly, Gaiopolis, 41334 Larissa, Greece.",
+    "Department of Biochemistry and Biotechnology, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "Department of Rheumatology and Clinical Immunology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Viopolis, 41500 Larissa, Greece.",
+    "School of Medicine, University of Patras, 26500 Patras, Greece.",
+    "Foundation for Research and Technology Hellas, Institute of Chemical Engineering Sciences, 26504 Patras, Greece.",
+    "Department of Biochemistry and Biotechnology, University of Thessaly, Viopolis, 41500 Larissa, Greece."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41153410/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

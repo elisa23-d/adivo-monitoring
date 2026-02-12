@@ -1,0 +1,22 @@
+{
+  "pmid": "37513344",
+  "title": "Fast and Sensitive Bioanalytical Method for the Determination of Deucravacitinib in Human Plasma Using HPLC-MS/MS: Application and Greenness Evaluation.",
+  "abstract": "Plaque psoriasis is a common, long-lasting illness that affects the immune system and causes significant negative impacts on a patient's physical health, well-being, and ability to work effectively. Deucravacitinib (DEU) is the first oral medication used in the treatment of plaque psoriasis, a chronic skin condition that causes red, scaly patches on the skin. DEU is a type of medication called an oral Janus kinase (JAK) inhibitor, which works by blocking specific enzymes that play a role in the inflammation and immune response associated with psoriasis. Therefore, a quick, easy, novel, reliable, sensitive, and straightforward liquid chromatography-tandem mass spectrometry (LC-MS/MS) approach was used to analyze DEU in plasma samples. The LC-MS/MS method for the determination of DEU in human plasma was based on using trimethoprim as an internal standard (IS). The separation of DEU and IS was carried out via liquid-liquid extraction (LLE). The extract was then subjected to the chromatographic system separation using the ACE-C18 column (4.6 × 100 mm, 5 µm). The mobile phase employed consisted of methanol and a solution of 2 mM ammonium formate (80:20 v/v, respectively). The flow rate used was set at 0.9 mL min-1. The creative strategy was performed by running an ABSCIEX API 4000 mass spectrometer with an electron spray ionization source in multiple reaction monitoring (MRM) mode. The ion transitions m/z 426.3 → 358.2 were used for DEU quantitation, while the ion transitions m/z 291.1 → 261.1 were used for trimethoprim quantitation. The accuracy, precision, linearity, recovery, and selectivity of DEU were deemed acceptable when validated for a concentration range between 0.500 and 601.050 ng/mL, utilizing a weighting factor of 1/x2.",
+  "pub_date": "2023-07-17",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Pharmaceutical Analysis, Anurag University, Venkatapur, Ghatkesar Rd., Hyderabad 500088, Telangana, India.",
+    "Department of Pharmaceutical Analysis, Anurag University, Venkatapur, Ghatkesar Rd., Hyderabad 500088, Telangana, India.",
+    "Pharmaceutical Analytical Chemistry Department, Faculty of Pharmacy, Al-Azhar University, Assiut Branch, Assiut 71524, Egypt.",
+    "Pharmaceutical Analytical Chemistry Department, Faculty of Pharmacy, University of Alexandria, Alexandria 21521, Egypt.",
+    "Pharmaceutical Analytical Chemistry Department, Faculty of Pharmacy, Port-Said University, Port-Said 42511, Egypt.",
+    "Natural and Medical Sciences Research Center, University of Nizwa, Birkat Al Mauz, Nizwa 616, Oman.",
+    "Institute of Medicinal and Pharmaceutical Chemistry, Technische Universitaet Braunschweig, Beethovenstr. 55, 38106 Braunschweig, Germany.",
+    "Institute of Pharmacy, Freie Universität Berlin, Queen-Luise-Strasse 2 and 4, 14195 Berlin, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37513344/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "41060492",
+  "title": "Bimekizumab Efficacy in Psoriasis by Subgroups: Post Hoc Analysis of Phase 3/3b Clinical Trials.",
+  "abstract": "Patient demographics, disease characteristics, and treatment history can impact the efficacy of biologic treatments in patients with psoriasis. Understanding the efficacy of biologics, such as bimekizumab, across diverse patient subgroups is important for optimising treatment outcomes. Here, we assess whether high overall clinical responses observed in bimekizumab-treated patients with moderate to severe plaque psoriasis are consistent across subgroups, both versus comparators and with long-term treatment.\nData were analysed post hoc from the BE SURE, BE VIVID, and BE READY phase 3 trials, their open-label extension (OLE) BE BRIGHT, and the BE RADIANT phase 3b trial. Patients received either bimekizumab or adalimumab to week 24 (BE SURE), bimekizumab or ustekinumab to week 52 (BE VIVID), and bimekizumab or secukinumab to week 48 (BE RADIANT). In the 3-year pooled analysis (all trials), included patients received bimekizumab continuously from baseline into the OLE. Subgroups of patients with moderate to severe plaque psoriasis were defined by age, sex, weight, disease duration, disease severity, nail involvement (modified Nail Psoriasis Severity Index > 0), and prior biologic exposure, at baseline. The proportions of patients achieving complete skin clearance (PASI 100; 100% improvement from baseline in Psoriasis Area and Severity Index) in each subgroup are reported alongside 95% confidence intervals (CI). Modified non-responder imputation (mNRI) was used for missing data.\nFollowing comparator-controlled periods, the proportion of bimekizumab-treated patients who achieved PASI 100 was consistent across subgroups and numerically greater versus patients who received adalimumab (to week 24), ustekinumab (to week 52), and secukinumab (to week 48) in all subgroups. Among patients who received bimekizumab continuously for 3 years (N = 1107), PASI 100 response rates remained consistent across age (68.6% [40 to < 65 years]-73.7% [≥ 65 years]), sex (69.6% [male]-71.4% [female]), weight (63.4% [≥ 103.9 kg]-75.5% [< 74.3 kg]), disease duration (65.5% [≤ 5 years]-71.1% [> 20 years]), disease severity (67.7% [PASI 12 to < 15]-71.1% [PASI ≥ 20]), nail involvement (69.1% [yes]/71.3% [no]), and prior biologic exposure (71.7% [yes]/69.1% [no]; prior anti-TNF exposure 67.6% [yes]/70.6% [no]) subgroups; 95% CIs overlapped in all instances, indicating no meaningful differences between subgroups.\nBimekizumab demonstrated consistently high long-term efficacy in patients with psoriasis across diverse subgroups. Higher rates of PASI 100 were achieved with bimekizumab versus adalimumab, ustekinumab, and secukinumab, across all subgroups. These results highlight bimekizumab as an effective treatment for a broad range of people living with psoriasis.\nNCT03412747, NCT03370133, NCT03410992, NCT03598790, NCT03536884.",
+  "pub_date": "2025-10-08",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Yale University, New Haven, CT, USA. brucestrober30@me.com.",
+    "Central Connecticut Dermatology Research, Cromwell, CT, USA. brucestrober30@me.com.",
+    "Division of Dermatology and Venereology, Department of Medicine, Geneva University Hospitals, and Department of Pathology and Immunology, Faculty of Medicine, University of Geneva, Geneva, Switzerland.",
+    "Centre for Clinical and Translational Science, The Rockefeller University, New York, NY, USA.",
+    "Department of Dermatology, University Hospital Münster, Münster, Germany.",
+    "Dermatrials Research Inc., Hamilton, ON, Canada.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "UCB, Madrid, Spain.",
+    "UCB, Morrisville, NC, USA.",
+    "UCB, Monheim am Rhein, Germany.",
+    "Section of Dermatology and Venereology, Department of Medicine, University of Verona, Verona, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41060492/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "40785802",
+  "title": "Utilization and Costs of Laboratory Monitoring in Biological and Non-Biological Psoriasis Treatment - Large-Scale Claims Data Analysis.",
+  "abstract": "Psoriasis vulgaris is a chronic systemic inflammatory disease that imposes a significant physical, emotional, and social burden on affected individuals. There is a growing recognition of the importance of comprehensive monitoring and management to optimize treatment outcomes, particularly with the advent of advanced systemic therapies. This study aims to characterize the prevalence of laboratory monitoring and associated costs in persons with psoriasis undergoing systemic treatment. A specific focus was placed on the differences by treatment modality, patient characteristics, and economic burden to the payers.\nA retrospective longitudinal analysis was conducted using German health insurance data from the DAK-Gesundheit. The study population included persons diagnosed with psoriasis who received systemic therapies between 2016 and 2020. Laboratory service utilization and costs were assessed during the initiation and course of treatment, factoring in demographic parameters and comorbidities.\nAmong 62,063 persons with psoriasis, 8018 (12.9%) were identified as having received systemic treatment, which of 92.5% utilized at least one laboratory service. The average annual laboratory monitoring cost per person was higher for those on biologic therapies (57.88 €) compared to systemic treatments (23.70 €). Laboratory service utilization and costs were associated with the comorbidity index (CCI) and age.\nBiologic therapies for psoriasis induce considerably higher monitoring costs than non-biological systemic drugs. Age and CCI were main predictors for higher utilization of laboratory services, indicating a medical rationale to perform more lab screenings in risk groups for safety events. The laboratory costs add to the higher drug costs of biologicals but need to be related to the benefits from treatment. Furthermore, the monitoring costs are far lower than the drug costs and thus may not be major decision drivers.",
+  "pub_date": "2025-08-05",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute for Health Services Research in Dermatology and Nursing (IVDP), University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+    "Institute for Health Services Research in Dermatology and Nursing (IVDP), University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+    "Institute for Health Services Research in Dermatology and Nursing (IVDP), University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+    "Institute for Health Services Research in Dermatology and Nursing (IVDP), University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+    "Institute for Health Services Research in Dermatology and Nursing (IVDP), University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+    "Dermatologische Spezial- und Schwerpunktpraxis, Dr. Ralph von Kiedrowski, Selters, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40785802/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

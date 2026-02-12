@@ -1,0 +1,36 @@
+{
+  "pmid": "41296263",
+  "title": "Real-World Evidence of Effectiveness and Safety of Abrocitinib, Baricitinib and Upadacitinib in Atopic Dermatitis: A Systematic Review and Meta-Analysis.",
+  "abstract": "Oral Janus kinase inhibitors (JAKi) have proven effective in the treatment of atopic dermatitis (AD) in multiple clinical trials, providing rapid response, deep efficacy when given at the highest formulated dose, and in the case of abrocitinib and upadacitinib, superiority to biologics treatments in the first 4-16 weeks. However, it is unclear how this translates to real-world efficacy and safety.\nTo assess the real-world effectiveness and safety of abrocitinib, baricitinib and upadacitinib in the treatment of AD.\nPubMed and EMBASE were systematically searched from inception until 3 January 2025 for observational studies investigating effectiveness and safety of abrocitinib, baricitinib and upadacitinib for the treatment of AD. The primary outcomes were the proportion of patients achieving a ≥ 75% improvement in the Eczema Area and Severity Index (EASI-75) following treatment with abrocitinib, baricitinib or upadacitinib after 12 and 16 weeks. Secondary outcomes included the proportion of patients achieving EASI-50, EASI-90 and the proportion of patients experiencing adverse events (AE). Tertiary outcomes included the Dermatology Life Quality Index (DLQI) and the Peak-Pruritus Numerical rating scale (PP-NRS).\nA total of 63 studies including 517 patients treated with abrocitinib (50 mg [0.2%], 100 mg [50.9%], 200 mg [34.2%], mixed/unknown [14.7%]), 574 with baricitinib (2 mg [14.8%], 4 mg [71.9%], mixed/unknown [13.3%]) and 2779 with upadacitinib were included (15 mg [46.6%], 30 mg [33.3%], mixed/unknown [20.0%]). Most studies reported outcomes for doses combined. Across all doses, the proportion of patients achieving EASI-75 and -90 was 75% and 38% for abrocitinib, 51% and 24% for baricitinib and 83% and 55% for upadacitinib after 16 weeks, respectively. Acne and herpes simplex virus (HSV) were frequently reported across all doses of abrocitinib (21%, 2%), baricitinib (8%, 6%) and upadacitinib (15%, 6%), but patients treated with 100 mg abrocitinib and 30 mg upadacitinib reported the highest prevalence of acne and HSV, respectively. Few studies reported serious AEs across all treatments and doses.\nData from real-world studies of JAKis in AD show effectiveness and safety similar to clinical trials using the highest treatment doses. It is important to be aware of HSV and acne risk as these AEs are the most common reasons for discontinuation. Interpretation of results was complicated by the lack of studies reporting dosage information.",
+  "pub_date": "2025-11-26",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark.",
+    "Department of Dermatology, Yale School of Medicine, Yale University, New Haven, CT, 06511, USA.",
+    "Program in Translational Biomedicine, Yale School of Medicine, Yale University, New Haven, CT, 06511, USA.",
+    "Chicago Medical School, Rosalind Franklin University of Medicine and Science, North Chicago, IL, USA.",
+    "Center for Medical Dermatology + Immunology Research, Chicago, IL, USA.",
+    "Department of Dermatology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark.",
+    "Department of Dermatology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology, Aarhus University Hospital, Aarhus, Denmark.",
+    "Deptartment of Dermatology and Allergy, University Hospital Augsburg, Augsburg, Germany.",
+    "Comprehensive Centre for Inflammation Medicine, University of Luebeck, Luebeck, Germany.",
+    "Department of Dermatology and Allergy, Ludwig-Maximilian University, Munich, Germany.",
+    "Department of Dermatology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark. nikolai.nguyen.loft@regionh.dk.",
+    "Department of Dermatology and Allergy, Herlev and Gentofte Hospital, University of Copenhagen, Hellerup, Denmark. nikolai.nguyen.loft@regionh.dk."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41296263/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

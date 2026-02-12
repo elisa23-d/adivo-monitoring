@@ -1,0 +1,29 @@
+{
+  "pmid": "41396391",
+  "title": "Influence of Biological Sex on Participant Characteristics, Guselkumab Efficacy and Radiographic Progression in Active Psoriatic Arthritis: Post Hoc Analysis of Three Randomized Trials.",
+  "abstract": "Psoriatic arthritis (PsA) is a heterogeneous disease, and clinical manifestations can differ between sexes. Sex-disaggregated baseline characteristics, guselkumab efficacy, and radiographic progression were assessed in a pooled cohort of randomized controlled trial (RCT) participants with active PsA.\nPost hoc analyses of DISCOVER-1 (N = 381), DISCOVER-2 (N = 739), and COSMOS (N = 285) assessed sex-related baseline characteristics differences. Week (W) 24 clinical response rates with guselkumab 100 mg at W0/W4/every 8W (Q8W) were compared between sexes using multivariate logistic regression. In DISCOVER-2, multivariate repeated-measures mixed models evaluated associations between sex and radiographic progression with guselkumab Q4W + Q8W through W100, and between early (W8) response in joint disease activity with guselkumab Q4W + Q8W and radiographic progression, stratifying by sex.\nFemales were older; had higher body mass index; longer PsA duration; less severe psoriasis; more prevalent enthesitis; and reported more fatigue, pain, and functional impairment. Analyses adjusting for sex-specific differences in baseline characteristics showed no significant sex impact on guselkumab clinical response. Through W100, males exhibited significantly greater radiographic progression than females in unadjusted and adjusted models. Early clinical improvement in joint disease activity with guselkumab afforded significantly less radiographic progression through W100 in males (p = 0.0288) and numerically less in females.\nDespite being associated with significant differences in characteristics at baseline, sex had no independent effect on guselkumab clinical efficacy in this RCT cohort. The known independent association between male sex and radiographic progression was confirmed; males exhibited a stronger relationship between early improvement in joint disease activity and lower long-term rates of radiographic progression.\nClinicalTrials.gov identifier NCT03162796, NCT03158285, NCT03796858.",
+  "pub_date": "2025-12-15",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Medicine, Center for Prognosis Studies in Rheumatic Diseases, Schroeder Arthritis Institute, Krembil Research Institute, Toronto Western Hospital, 14MC409C, 399 Bathurst Street, Toronto, ON, M5T 2S8, Canada. dafna.gladman@utoronto.ca.",
+    "University of Toronto and Women's College Hospital, Toronto, Canada.",
+    "Rheumatology and Clinical Immunology, IRCCS Humanitas Research Hospital, Rozzano, MI, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, Milan, Italy.",
+    "Rheumatology Research, Providence Swedish Medical Center, Seattle, WA, USA.",
+    "University of Washington School of Medicine, Seattle, WA, USA.",
+    "University of Pennsylvania School of Medicine, Philadelphia, PA, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Johnson & Johnson, Dubai, United Arab Emirates.",
+    "Department of Pediatrics, McGill University, Montreal, QC, Canada.",
+    "Scientific Affairs, JSS Medical Research, Inc, Montreal, QC, Canada.",
+    "Epidemiology in Dermatology and Evaluation of Therapeutics (EpiDermE), University Paris-Est Créteil Val de Marne, Créteil, France.",
+    "Rheumatology, Hospital Henri Mondor, AP-HP, Créteil, France.",
+    "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Botnar Research Centre, Oxford, England, UK."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41396391/",
+  "snapshot_id": "2026-02-12T15-48-55Z",
+  "ingested_at": "2026-02-12T15:48:57.253777+00:00"
+}

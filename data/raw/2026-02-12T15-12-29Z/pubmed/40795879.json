@@ -1,0 +1,22 @@
+{
+  "pmid": "40795879",
+  "title": "Real-world Effectiveness of the Adjuvanted Recombinant Zoster Vaccine in ≥50-year-old Adults With Autoimmune Diseases.",
+  "abstract": "Real-world data on the vaccine effectiveness (VE) of the adjuvanted recombinant zoster vaccine (RZV) to prevent herpes zoster (HZ) among individuals with autoimmune diseases (AIDs) are limited. To address this knowledge gap, we aimed to evaluate the VE of 2 RZV doses against HZ in ≥50-year-old adults with selected AIDs (rheumatoid arthritis, inflammatory bowel disease, systemic lupus erythematosus, multiple sclerosis (MS), psoriasis (PsO), and psoriatic arthritis).\nWe conducted a retrospective matched cohort study using Optum's deidentified Clinformatics® Data Mart Database datasets from January 2018 to December 2021. Patients were matched by AID condition, age, and medication category, then 1:3 by propensity scores that accounted for the likelihood of receiving RZV, adjusted on selected confounders. For each AID, we calculated HZ incidence rates and RZV VE, overall and stratified by age, sex, time interval between 2 RZV doses, medication category, and time since vaccination.\nThe 2-dose cohort included 36 645 RZV-vaccinated and 109 229 unvaccinated patients. Two RZV doses offer protection against HZ in patients with AIDs, with VEs ranging from 48.1% for MS to 77.2% for PsO. An overall reduction in HZ incidence from 12.9 (95% confidence interval [CI]: 12.3; 13.5) to 4.3 (95% CI: 3.8; 4.9) per 1000 person-years among vaccinated individuals was found, corresponding to an overall VE against HZ of 66.3% (95% CI: 61.4; 70.7).\nOur analysis shows that RZV vaccination prevents HZ in ≥50-year-old adults with selected AIDs, consistent with prior studies.",
+  "pub_date": "2025-12-20",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "GSK, Rockville, Maryland, USA.",
+    "GSK, Wavre, Belgium.",
+    "GSK, Wavre, Belgium.",
+    "GSK, Bengaluru, Karnataka, India.",
+    "GSK, Wavre, Belgium.",
+    "GSK, Rockville, Maryland, USA.",
+    "GSK, Rockville, Maryland, USA.",
+    "GSK, Rockville, Maryland, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40795879/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

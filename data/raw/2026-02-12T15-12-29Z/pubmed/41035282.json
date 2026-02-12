@@ -1,0 +1,28 @@
+{
+  "pmid": "41035282",
+  "title": "Population Pharmacokinetic and Pharmacodynamic Modeling for the Prediction of the Extended Amlitelimab Phase 3 Dosing Regimen in Atopic Dermatitis.",
+  "abstract": "Amlitelimab is a fully human, nondepleting, anti-OX40 ligand monoclonal antibody being investigated for the treatment of moderate-to-severe atopic dermatitis (AD) in adults and adolescents. Population pharmacokinetic (PopPK) and pharmacokinetic/pharmacodynamic-Eczema Area and Severity Index (PopPK/PD-EASI) models were used to inform dosing regimen selection for amlitelimab phase 3 trials. The PopPK model was developed using phase 1 (healthy volunteers) and phase 2 (participants with AD) trial data, including individual exposure variables from the STREAM-AD phase 2b trial following subcutaneous amlitelimab doses ranging from 62.5 to 250 mg given every 4 weeks (Q4W). The PopPK model was used to compute exposures for an extended dosing regimen of 250 mg Q12W (with 500 mg loading dose [+LD]). The PopPK/PD-EASI model was developed from phase 2 trials to predict treatment responses (EASI values) with selected dosing scenarios. Finally, the dose for individuals with lower body weight (i.e., < 40 kg) was determined. Utilizing the PopPK model, the amlitelimab 250 mg Q12W + LD computed exposures were between the exposures of 62.5 mg Q4W and 250 mg Q4W + LD efficacious doses in the STREAM-AD trial. Using the PopPK/PD-EASI model, the simulated efficacy for dosing scenarios of 250 mg Q12W + LD regimen from initiation or 250 mg Q4W + LD for 24 weeks followed by Q12W to Week 60 was similar to continuous 250 mg Q4W. Simulations identified that a twofold dose reduction would allow participants < 40 kg to achieve amlitelimab exposures within the range observed in participants ≥ 40 kg on 250 mg Q4W or Q12W. These results support evaluation of a Q12W dosing regimen for adults and adolescents in phase 3 trials.",
+  "pub_date": "2025-10-01",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Clinical Trial, Phase I"
+  ],
+  "affiliations": [
+    "Sanofi, Montpellier, France.",
+    "Alliance Clinical Trials and Probity Medical Research, Waterloo, Ontario, Canada.",
+    "Division of Dermatology, Temerty School of Medicine, University of Toronto, Toronto, Ontario, Canada.",
+    "Christine Kühne-Center for Allergy Research and Education, Medicine Campus, Davos, Switzerland.",
+    "Department of Dermatology and Allergy, University Hospital Schleswig-Holstein, Kiel, Germany.",
+    "Department of Dermatology, University of Rochester Medical Center, Rochester, New York, USA.",
+    "Department of Dermatology, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan.",
+    "Formerly Sanofi, Cambridge, Massachusetts, USA.",
+    "Sanofi, Rotkreuz, Switzerland.",
+    "Sanofi, Paris, France.",
+    "Sanofi, Montpellier, France.",
+    "Sanofi, Montpellier, France."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41035282/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

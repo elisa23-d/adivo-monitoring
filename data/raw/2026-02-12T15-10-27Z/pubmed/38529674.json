@@ -1,0 +1,30 @@
+{
+  "pmid": "38529674",
+  "title": "Improvements in Patient-Reported Outcomes After Treatment With Deucravacitinib in Patients With Psoriatic Arthritis: Results From a Randomized Phase 2 Trial.",
+  "abstract": "Deucravacitinib, a tyrosine kinase 2 inhibitor, was assessed in a phase 2 trial in patients with active psoriatic arthritis (PsA). Here, we report effects of deucravacitinib from the patient perspective.\nThis phase 2, double-blind trial (NCT03881059) randomized patients with active PsA 1:1:1 to deucravacitinib 6 mg once daily (QD), 12 mg QD, or placebo, for 16 weeks. Key secondary end points were changes from baseline (CFBs) at week 16 in Health Assessment Questionnaire-Disability Index (HAQ-DI) and 36-item Short-Form Health Survey (SF-36) physical component summary (PCS) scores. Additional patient-reported outcomes (PROs) assessed disease impact, including fatigue, pain, and mental health. The mean CFBs in PROs and percentages of patients reporting improvements with minimum clinically important differences (MCIDs) or scores of greater than normal values were also assessed.\nThis study comprised 203 patients (51.2% female; mean ± SD age, 49.8 ± 13.5 years). At week 16, the adjusted mean difference (95% confidence interval) versus placebo in HAQ-DI and SF-36 PCS CFB was significant for each deucravacitinib group (HAQ-DI 6 mg, -0.26 [-0.42 to -0.10], P = 0.0020; HAQ-DI 12 mg, -0.28 [-0.45 to -0.12], P = 0.0008; SF-36 PCS 6 mg, 3.3 [0.9 to 5.7], P = 0.0062; SF-36 PCS 12 mg, 3.5 [1.1 to 5.9], P = 0.0042). MCID at week 16 were reported for all PROs with either dose of deucravacitinib. Improvements of MCID or to normative values were reported by more patients receiving deucravacitinib than placebo.\nDeucravacitinib groups demonstrate significant and clinically meaningful improvements in PROs versus placebo in patients with active PsA, which warrants further study.",
+  "pub_date": "2024-05-07",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "affiliations": [
+    "Stanford University, Palo Alto, California.",
+    "Sorbonne Université, INSERM, Institut Pierre Louis d'Epidémiologie et de Santé Publique, and Pitié-Salpêtrière Hospital, Paris, France.",
+    "University of Oxford, Oxford, United Kingdom.",
+    "Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Swedish Medical Center/Providence St. Joseph Health and University of Washington, Seattle, Washington.",
+    "Oregon Health & Science University, Portland, Oregon."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38529674/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

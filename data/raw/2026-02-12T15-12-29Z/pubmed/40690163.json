@@ -1,0 +1,24 @@
+{
+  "pmid": "40690163",
+  "title": "Guselkumab Efficacy in Biologic-Naïve Participants with Psoriatic Arthritis and Severe Disease Activity: Post Hoc Analysis of a Phase 3 Study.",
+  "abstract": "The aim of this study was to evaluate guselkumab efficacy through week 100 in participants with psoriatic arthritis (PsA) and severe disease activity or patient global assessment (PtGA).\nThis post hoc analysis utilized DISCOVER-2 (NCT03158285) data from 739 biologic-naïve adults with active PsA (≥ 5 swollen/tender joints, C-reactive protein ≥ 0.6 mg/dL) randomized to guselkumab every 4 weeks (Q4W) or at weeks 0 and 4, then every 8 weeks (Q8W); or placebo with crossover to guselkumab Q4W at week 24. Severe disease activity was defined as clinical Disease Activity Index for Psoriatic Arthritis (cDAPSA) > 27, Psoriatic Arthritis Disease Activity Score (PASDAS) ≥ 5.4, and PtGA Arthritis + Psoriasis ≥ 80 mm. Least squares mean (LSM) changes in cDAPSA, PASDAS, and PtGA were estimated with mixed models for repeated measures adjusted for baseline factors.\nBaseline characteristics among 648 (88%), 639 (86%), and 218 (29%) participants meeting the cDAPSA, PASDAS, and PtGA criteria for severe disease activity, respectively, were generally balanced across cohorts. LSM improvements from baseline with guselkumab Q4W/Q8W vs. placebo were -5.9 (p = 0.3905)/-7.2 (p = 0.0379) for cDAPSA at week 2; -1.5/-1.5 for PASDAS (both p < 0.0001); and -30.0/-32.1 for PtGA at week 8 (both p < 0.01). Differences vs. placebo increased through week 24 in the respective cohorts with guselkumab Q4W/Q8W: -9.8/-9.0, -1.1/-1.1, -24.0/-20.2 (all p < 0.0001). Through week 100 of guselkumab Q4W/Q8W treatment, LSM improvements of 69/74%, 52/54%, and 64/63% from baseline in cDAPSA (-35.9/-35.6), PASDAS (-3.6/-3.7), and PtGA (-56.8, -55.5), respectively, were observed. Regardless of severe disease activity definition, approximately 80% of guselkumab-randomized participants who achieved low disease activity at week 24 maintained this response at week 100.\nIn biologic-naïve participants with PsA and severe disease activity, guselkumab demonstrated early and durable clinically meaningful improvements in key PsA domains through 2 years.\nClinicalTrials.gov, NCT03158285.",
+  "pub_date": "2025-07-21",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Medicine, Allergy/Immunology and Rheumatology, University of Rochester Medical Center, 400 Red Creek Dr, Ste 240, Rochester, NY, 14623, USA. christopher_ritchlin@URMC.Rochester.edu.",
+    "Vincenzo Tiberio Department of Medicine and Health Sciences, University of Molise, Campobasso, Italy.",
+    "Rheumatology, Allergology and Clinical Immunology, Department of System Medicine, University of Rome Tor Vergata, Rome, Italy.",
+    "Immunology, Johnson & Johnson, Horsham, PA, USA.",
+    "Immunology, Johnson & Johnson, Dubai, United Arab Emirates.",
+    "Department of Pediatrics, McGill University, Montreal, QC, Canada.",
+    "JSS Medical Research, Inc, Montreal, QC, Canada.",
+    "Nantel Medsci Consult, Montreal, QC, Canada.",
+    "Johnson & Johnson, Issy Les Moulineaux, France.",
+    "Division of Arthritis and Rheumatic Diseases, Oregon Health & Science University, Portland, OR, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40690163/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

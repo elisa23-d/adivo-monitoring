@@ -1,0 +1,22 @@
+{
+  "pmid": "41502380",
+  "title": "Relative Efficacy of Immunomodulatory Monotherapies for Psoriasis of the Scalp: A Network Meta-Analysis Study.",
+  "abstract": "Recently, the literature has expanded with peer-reviewed studies on immunomodulatory agents' efficacy on scalp psoriasis-which, in turn, widened knowledge gaps regarding these agents' relative effectiveness. We determined the relative efficacy of immunomodulatory monotherapies for scalp psoriasis.\nWe ran Bayesian network meta-analyses (NMAs) using outcomes related to Psoriasis Scalp Severity Index (PSSI) and scalp-specific Physician's Global Assessment of clear (0) or almost clear (1) (Sc-PGA 0/1).\nWe estimated the relative efficacy of 22 interventions (including placebo), and analyzed 9 outcomes, namely: proportion of participants who attained Sc-PGA 0/1, proportion of participants who achieved 100% improvement in PSSI (PSSI-100), and proportion of participants who achieved 90% improvement in PSSI (PSSI-90) at 8, 12, and 16 weeks.\nWe are the first to provide comparative evidence on the efficacy of newly investigated agents such as deucravacitinib, tildrakizumab, roflumilast and icotrokinra. In general, the IL-17 inhibitors (bimekizumab, ixekizumab, secukinumab, brodalumab) and IL-23 inhibitors (icotrokinra, guselkumab, tildrakizumab) were effective depending upon the outcome and time-point being considered. At 16 weeks, for PSSI-100, ixekizumab 150 mg at weeks 0, 2, 4, 8, and 12 ranked highest; at 16 weeks, for Sc-PGA 0/1 bimekizumab 320 mg every 4 weeks ranked highest; at 8 weeks, for PSSI-100 ixekizumab 80 mg every 2 weeks ranked highest; at 8 weeks, for Sc-PGA 0/1 secukinumab 300 mg at weeks 1, 2, 3 and then every 4 weeks ranked highest. Small-molecule therapies (apremilast, deucravacitinib, roflumilast) improved scalp psoriasis modestly. Our work would guide the design of future studies and clinical decision-making.",
+  "pub_date": "2026-01",
+  "publication_types": [
+    "Journal Article",
+    "Network Meta-Analysis"
+  ],
+  "affiliations": [
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "Division of Dermatology, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "Division of Dermatology, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
+    "Division of Dermatology, Women's College Hospital, Toronto, Ontario, Canada.",
+    "School of Pharmacy, BRAC University, Dhaka, Bangladesh."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41502380/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

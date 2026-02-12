@@ -1,0 +1,20 @@
+{
+  "pmid": "37901688",
+  "title": "Comparative short-term risks of infection and serious infection in patients receiving biologic and small-molecule therapies for psoriasis and psoriatic arthritis: a systemic review and network meta-analysis of randomized controlled trials.",
+  "abstract": "Infection events are a major concern for patients and physicians when making psoriasis treatment decisions.\nTo estimate the relative short-term risks of infection and serious infection for biologic and small molecule therapies in the treatment of moderate-to-severe plaque psoriasis (PsO) and psoriatic arthritis (PsA).\nA systematic literature search of the PubMed, EMBASE, and Web of Science databases was conducted on 17 June 2022. We included phase II, III, or IV randomized controlled trials (RCTs) of biologic and small-molecule therapies that are licensed or likely to gain approval soon for PsO and PsA, as well as infection data reports. Two investigators independently extracted the data based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Network meta-analysis (NMA) was performed to estimate the pooled relative risks (RRs) and corresponding 95% confidence intervals of total infections and serious infections for treatments during placebo-controlled phases of RCTs. The surface under the cumulative ranking area (SUCRA) was calculated to rank the infection risk for each treatment.\nA total of 94 RCTs with a total of 19 treatment arms involving 54,369 participants were analyzed. For patients with PsO, bimekizumab, secukizumab, risankizumab, ustekinumab, apremilast, guselkumab, and adalimumab were associated with significantly higher risks of infection than placebo; SUCRA ranked infliximab, deucravacitinib, and bimekizumab with the highest risks of infection. For patients with PsA, bimekizumab, apremilast, and upadacitinib (30 mg daily) were associated with higher risks of infection; SUCRA ranked bimekizumab with the highest risk of infection. No treatments, except for upadacitinib (30 mg daily), were associated with a higher risk of serious infection than placebo in PsA.\nThis NMA provides a comprehensive assessment of the comparative short-term risks of infection, which could help physicians and patients to select individualized treatments for psoriasis.\nCRD42022359873.",
+  "pub_date": "2023-10-27",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, National Taiwan University Hospital Hsin-Chu Branch, Hsinchu.",
+    "Department of Medical Research, National Taiwan University Hospital Hsin-Chu Branch, Hsinchu.",
+    "Department of Dermatology, National Taiwan University Hospital, Taipei.",
+    "Department of Dermatology, College of Medicine, National Taiwan University, Taipei.",
+    "Department of Dermatology, Chang Gung Memorial Hospital, Linkou Branch, Taoyuan.",
+    "Department of Dermatology, Chang Gung Memorial Hospital, Linkou Branch, No. 5, Fuxing St., Guishan Dist., Taoyuan City 333 School of Medicine, Chang Gung University, Taoyuan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37901688/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

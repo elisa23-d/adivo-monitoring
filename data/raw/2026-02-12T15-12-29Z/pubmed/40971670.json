@@ -1,0 +1,28 @@
+{
+  "pmid": "40971670",
+  "title": "Impact of dactylitis and enthesitis resolution on disease control in guselkumab-treated psoriatic arthritis patients with TNFi-IR: COSMOS post hoc analysis.",
+  "abstract": "To evaluate guselkumab efficacy on dactylitis resolution (DR) and enthesitis resolution (ER), and their impact on subsequent disease control, in patients with active psoriatic arthritis (PsA) and prior inadequate response to tumour necrosis factor inhibitors (TNFi-IR).\nIn the Phase IIIb COSMOS trial, 285 adults with TNFi-IR PsA were randomized (2:1) to receive guselkumab 100 mg or placebo at Week (W)0, W4, then every 8 weeks until W44. The Dactylitis Severity Score (DSS) and Leeds Enthesitis Index (LEI) assessed dactylitis and enthesitis, respectively. This post hoc analysis evaluated associations between W24 DR or ER and W48 achievement of stringent disease control measures using logistic regression.\nAt baseline, 103/285 (36.1%) patients had dactylitis (DSS ≥ 1) and 190/285 (66.7%) had enthesitis (LEI ≥ 1). Patients with dactylitis were more likely to have enthesitis, more joint (SJC/DAPSA) and skin involvement, higher PGA score and lower BMI vs those without dactylitis. Patients with enthesitis were more likely to be female, and have dactylitis, more joints affected (SJC/TJC/DAPSA) and worse physical functioning (HAQ-DI/SF-36 PCS) vs those without enthesitis. Greater proportions of guselkumab- vs placebo-treated patients achieved DR/ER (W24: 44.8%/39.7% vs 25.0%/18.8%); rates increased through W48 among guselkumab-randomized patients (67.2%/55.6%). W24 resolution was associated with W48 achievement of stringent measures, including ACR50/70, DAPSA LDA/remission, PASI100, PASDAS LDA/VLDA and MDA/VLDA (odds ratios: DR, 3.28-13.38; ER, 2.88-6.09).\nGuselkumab treatment resulted in high DR/ER rates through W48 in TNFi-IR PsA patients. W24 DR/ER was associated with W48 disease control, providing valuable insights for clinical decision-making based on W24 treatment responses.",
+  "pub_date": "2026-01-08",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+  ],
+  "affiliations": [
+    "NIHR Leeds Biomedical Research Centre, The Leeds Teaching Hospitals NHS Trust and Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, Leeds, UK.",
+    "MVLS College Office, University of Glasgow, Glasgow, UK.",
+    "Johnson & Johnson, Middle East TZ LLC, Dubai, UAE.",
+    "Rheumatology Institute, Azienda Sanitaria Universitaria del Friuli Centrale, Udine, Italy.",
+    "Department of Pediatrics, McGill University, Montreal, QC, Canada.",
+    "JSS Medical Research Inc., Scientific Affairs, Montreal, QC, Canada.",
+    "NIHR Leeds Biomedical Research Centre, The Leeds Teaching Hospitals NHS Trust and Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, Leeds, UK.",
+    "Department of Rheumatology, Al Zahra Hospital, Dubai, UAE.",
+    "Al-Azhar Faculty of Medicine, Al-Azhar University, Cairo, Egypt.",
+    "Rheumatology Department, Lariboisière Hospital, Paris Cité University, AP-HP, Paris, France.",
+    "Department of Medicine 3-Rheumatology and Immunology, Friedrich-Alexander-Universität Erlangen-Nürnberg and Universitätsklinikum Erlangen, Erlangen, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40971670/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

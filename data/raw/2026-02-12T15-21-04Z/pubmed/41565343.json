@@ -1,0 +1,38 @@
+{
+  "pmid": "41565343",
+  "title": "Time trends in newly recorded diagnoses of 19 long term conditions before, during, and after the covid-19 pandemic: population based cohort study in England using OpenSAFELY.",
+  "abstract": "To evaluate temporal changes in rates of newly recorded diagnoses for 19 long term conditions in England in relation to the covid-19 pandemic by disease, age group, sex, socioeconomic status, and ethnicity.\nPopulation based cohort study.\nPrimary care and hospital admission data, with the approval of NHS England.\n29 995 025 individuals registered with general practices in England contributing data to the OpenSAFELY-TPP platform.\nTemporal trends in age and sex standardised incident and prevalent diagnosis rates for 19 long term conditions between 1 April 2016 and 30 November 2024. Differences between expected and observed diagnosis rates after the onset of the covid-19 pandemic were compared using seasonal autoregressive integrated moving-average models, based on modelled projections of expected rates from pre-pandemic patterns.\nAll 19 conditions showed a sharp decline in newly recorded diagnoses during the first year of the pandemic, followed by variable recovery. As of November 2024, cumulative reductions in diagnoses remained evident for conditions such as depression (734 800 (27.7%) fewer diagnoses than expected; 95% prediction interval (PI) 703 100 to 766 400), asthma (152 900 (16.4%) fewer diagnoses; 95% PI 137 500 to 168 300), chronic obstructive pulmonary disease (COPD) (90 100 (15.8%) fewer diagnoses; 95% PI 81 400 to 98 900), psoriasis (54 700 (17.1%) fewer diagnoses; 95% PI 50 100 to 59 200), and osteoporosis (54 100 (11.5%) fewer diagnoses; 95% PI 47 100 to 61 100). Conversely, diagnoses of chronic kidney disease have increased by 34.8% above expected levels during the pandemic recovery period, corresponding to 359 000 additional diagnoses (95% PI 333 500 to 384 500). Unadjusted subgroup analyses stratified by ethnicity and socioeconomic status indicated that, after an initial decrease, dementia diagnosis rates have risen above pre-pandemic levels for people of white ethnicity and in less deprived socioeconomic areas, but not for those from other ethnicities and more deprived areas.\nSince the covid-19 pandemic, there have been fewer diagnoses than expected for conditions such as depression, asthma, COPD, and osteoporosis, in contrast with a rapid increase in diagnoses of chronic kidney disease since 2022. Unadjusted analyses stratified by ethnicity and socioeconomic status suggest differential patterns of recovery, particularly for individuals with dementia. This study highlights the potential for near real time monitoring of disease epidemiology using routinely collected health data, informing strategies to enhance case detection and investigate inequities in healthcare.",
+  "pub_date": "2026-01-21",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK mark.russell@kcl.ac.uk.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Bennett Institute for Applied Data Science, Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "King's College Hospital NHS Foundation Trust, London, UK.",
+    "Great Western Hospital NHS Foundation Trust, Swindon, UK.",
+    "Department of Inflammation Biology, King's College London, London, UK.",
+    "Centre for Nephrology, Urology, and Transplantation, King's College London, London, UK.",
+    "Institute of Psychiatry, Psychology, and Neuroscience, King's College London, London, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK.",
+    "Centre for Rheumatic Diseases, King's College London, SE5 9RJ, UK."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41565343/",
+  "snapshot_id": "2026-02-12T15-21-04Z",
+  "ingested_at": "2026-02-12T15:21:06.169368+00:00"
+}

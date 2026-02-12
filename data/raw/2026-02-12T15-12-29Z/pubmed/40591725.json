@@ -1,0 +1,20 @@
+{
+  "pmid": "40591725",
+  "title": "Associations of genetic risk and modifiable lifestyle factors with comorbid psoriasis and Crohns disease.",
+  "abstract": "Psoriasis and Crohn disease (CD) are epidemiologically associated with each other. The contribution of genetics and modifiable lifestyle factors to the development of comorbid disease is unclear.\nTo investigate the associations between polygenic risk score (PRS) and modifiable lifestyle factors and the development of comorbid psoriasis and CD.\nThis is a prospective cohort study utilizing PRS and survey data on modifiable lifestyle factors. We examined their associations with the development of comorbid psoriasis and CD in patients of European ancestry in the UK Biobank. Kaplan-Meier survival analysis and multivariable Cox proportional hazards regression models were used to evaluate the association between the studied variables and the risk of comorbid disease development.\nThe study included 430 758 participants, with 124 cases (comorbid psoriasis and CD) and 430 634 controls. A significant difference (P < 0.001; log-rank test) in disease-free survival time was observed across the four genetic risk groups (higher vs. lower risk). In the multivariable Cox proportional hazards regression analysis, the PsO-Hi and CD-Hi groups demonstrated a higher hazard ratio than the PsO-Lo and CD-Lo genetic reference group (hazard ratio 8.34, 95% confidence interval 4.17-16.7; P < 0.001). This trend was also observed in both the group with psoriasis onset first and the group with CD onset first.\nThese findings suggest that the development of comorbid psoriasis and CD is significantly associated with a higher genetic risk of both conditions, a trend that was consistent regardless of the disease of first onset. Future studies should validate these findings in an independent cohort.",
+  "pub_date": "2025-10-27",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, TX, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, NM, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, NM, USA.",
+    "Department of Dermatology, Yale School of Medicine, New Haven, CT, USA.",
+    "Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, TX, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, NM, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40591725/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

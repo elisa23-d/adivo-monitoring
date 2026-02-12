@@ -1,0 +1,24 @@
+{
+  "pmid": "41459381",
+  "title": "Assessing T-Cell Profile Shifts through IL-23 Inhibition by Guselkumab on Psoriasis.",
+  "abstract": "Anti-IL-23 antibody therapies improve the underlying immunopathology of psoriasis. Immune profile dynamics after anti-IL-23 treatment and their association with the treatment response are unclear. Focusing on guselkumab, an anti-IL-23p19 antibody, we comprehensively analyzed immune cells, serum inflammatory molecules, and CD4+ T-cell transcriptomics to identify drug effects in psoriasis. Peripheral and lesional skin blood samples were collected from 24 biologic-naïve patients at baseline and after treatment with guselkumab. We conducted FACS analysis of regulatory T cells, resident memory T cells, and dendritic cells; measured serum cytokine and chemokine levels; and analyzed RNA-sequencing data for gene expression changes in peripheral CD4+ T cells. Guselkumab administration increased regulatory T cells and decreased resident memory T cells. Gene expression differences at baseline defined 2 groups on the basis of the treatment response: transcriptomic profile-based high responders and transcriptomic profile-based moderate responders. Expression of certain chemokines, such as CXCL1 and CXCL5, was higher in the moderate responders, suggesting their association with a lower treatment response. RNA-sequencing analysis revealed gene expression changes related to T helper 17 cells and regulatory T cell activity. We observed alterations in regulatory T cells and resident memory T cells in response to guselkumab treatment that may contribute to the long-term suppression of the IL-23-driven inflammatory pathology in psoriasis. Furthermore, baseline peripheral blood transcriptomic immune findings may predict therapeutic outcomes. The G-Grope trial was registered as jRCTs041200070 with the Japan Registry of Clinical Trials on December 8, 2020.",
+  "pub_date": "2025-11-07",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan.",
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan.",
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan.",
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan.",
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan.",
+    "Medical Affairs Division, Immunology Department, Johnson&Johnson, Tokyo, Japan.",
+    "Medical Affairs Division, Immunology Department, Johnson&Johnson, Tokyo, Japan.",
+    "Medical Affairs Division, Immunology Department, Johnson&Johnson, Tokyo, Japan.",
+    "Medical Affairs Division, Immunology Department, Johnson&Johnson, Tokyo, Japan.",
+    "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya, Japan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41459381/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

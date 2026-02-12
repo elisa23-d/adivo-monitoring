@@ -1,0 +1,20 @@
+{
+  "pmid": "37873392",
+  "title": "Triple-action inhibitory mechanism of allosteric TYK2-specific inhibitors.",
+  "abstract": "Deucravacitinib, 6-(cyclopropanecarbonylamido)-4-[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)anilino]-N-(trideuteriomethyl)pyridazine-3-carboxamide, is a highly selective inhibitor of protein tyrosine kinase 2 (TYK2) that targets the Janus kinase (JAK)-signal transducer and activator of transcription (STAT) pathway. The structural basis for its selectivity and allosteric inhibition remains poorly understood. Here, we investigate the inhibition mechanism through analysis of available structures relevant to the STAT pathway, including crystal structures of the truncated TYK2 FERM-SH2 domain bound to the IFNα type I receptor (IFNαR1) and the truncated TYK2 JH2-JH1 domain. Our computational analysis provides a mechanistic hypothesis for the relatively rapid interferon-induced gene expression mediated by TYK2 relative to other cytokines. We find that deucravacitinib inhibits TYK2 kinase in three distinct states: the autoinhibited state and two activated states for autophosphorylation and phosphorylation of downstream protein substrates. Its binding to the TYK2 pseudokinase domain in the autoinhibited state restricts the essential dynamics of the TYK2 kinase domain required for kinase activity. Furthermore, it binds competitively with ATP in the pseudokinase domain, and also directly prevents formation of the active state of TYK2 through steric clashes.",
+  "pub_date": "2023-10-09",
+  "publication_types": [
+    "Journal Article",
+    "Preprint"
+  ],
+  "affiliations": [
+    "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA.",
+    "Department of Chemistry, Yale University, New Haven, CT06520, USA.",
+    "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA.",
+    "Department of Dermatology, Yale University, New Haven, CT06520, USA.",
+    "Program in Translational Biomedicine, Yale School of Medicine, New Haven, CT 06511, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37873392/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

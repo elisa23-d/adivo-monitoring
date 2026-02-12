@@ -1,0 +1,27 @@
+{
+  "pmid": "41105233",
+  "title": "Psoriatic arthritis risk in psoriasis patients receiving anti-IL-23 vs anti-IL-17: comparison of drug classes and individual agents.",
+  "abstract": "Biologic therapies for skin psoriasis (PsO) have been linked to a lower risk of developing psoriatic arthritis (PsA), but their efficacy across different mechanisms of action remains to be fully explored. This study aimed to compare PsA risk in PsO patients prescribed IL-23 inhibitors (IL23i) vs IL-17 inhibitors (IL17i).\nThis retrospective cohort study utilized the TriNetX database to categorize adult PsO patients into two cohorts: those newly prescribed IL23i (without IL17i exposure) and those newly prescribed IL17i (without IL23i exposure). Patients with a history of PsA or previous use of anti-TNF-α or anti-IL-12/23 agents were excluded. A total of 5490 patients, matched 1:1 by propensity scores, were analysed for PsA risk using hazard ratios (HR) from Cox regression.\nThe 5-year cumulative incidence of PsA was significantly lower in IL23i users compared with IL17i users (11.68% vs 19.94%; P < 0.001). IL23i treatment was associated with a reduced PsA risk (HR 0.475; 95% CI: 0.382, 0.590). This reduced risk persisted across various subgroups defined by age, sex, race, PsO subtypes, obesity and elevated inflammatory markers. Similar results were observed in individual drug comparisons, with lower risks for guselkumab vs secukinumab (0.480; 0.358, 0.645) and ixekizumab (0.698; 0.509, 0.956), risankizumab vs secukinumab (0.433; 0.306, 0.612) and ixekizumab (0.504; 0.347, 0.732), and tildrakizumab vs secukinumab (0.339, 0.131, 0.875). The comparison of tildrakizumab vs ixekizumab (0.451; 0.171, 1.191) also suggested a lower risk but was not statistically significant.\nPsO patients treated with IL23i had a lower subsequent PsA risk compared with those treated with IL17i.",
+  "pub_date": "2026-01-08",
+  "publication_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Chiayi, Taiwan.",
+    "Ph.D. Program of Interdisciplinary Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
+    "Department of Pediatrics, Chung Shan Medical University Hospital, Taichung, Taiwan.",
+    "Division of Chest Medicine, Department of Internal Medicine, Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Chiayi, Taiwan.",
+    "Department of Dermatology, Taichung Veterans General Hospital, Taichung, Taiwan.",
+    "Department of Dermatology, Taichung Veterans General Hospital, Taichung, Taiwan.",
+    "Department of Post-Baccalaureate Medicine, National Chung-Hsing University, Taichung, Taiwan.",
+    "Faculty of Medicine and Institute of Clinical Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
+    "Faculty of Medicine and Institute of Clinical Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
+    "Institute of Biomedical Informatics, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
+    "Division of Translational Research, Taipei Veterans General Hospital, Taipei, Taiwan.",
+    "College of Public Health, China Medical University, Taichung, Taiwan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41105233/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

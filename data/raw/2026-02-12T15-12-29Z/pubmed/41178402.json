@@ -1,0 +1,25 @@
+{
+  "pmid": "41178402",
+  "title": "Real-world effectiveness and predictors of complete skin clearance (PASI 100) with anti-IL-23 monoclonal antibodies in moderate-to-severe psoriasis: a retrospective cohort study.",
+  "abstract": "Anti-IL-23 monoclonal antibodies have shown strong efficacy in achieving complete clearance (PASI 100) in psoriasis. Real-world evidence is needed to confirm these outcomes and define predictors of response.\nWe performed a monocentric retrospective study on 243 adults with moderate-to-severe psoriasis treated with guselkumab, risankizumab, or tildrakizumab at the University of Pisa. The primary endpoint was PASI 100 achievement; secondary endpoints were maintenance and predictors of response. Survival analysis and Cox regression were applied.\nPASI 100 was achieved in 67.4% of patients, on average at 27 weeks. Among responders, 81.7% maintained clearance for a mean of 90 weeks. Palmoplantar involvement reduced the likelihood of achieving PASI 100 (HR 0.575), while facial involvement (HR 2.261) and longer disease duration (HR 1.020) favored maintenance. Prior cyclosporine use (HR 0.644) and higher baseline PASI (HR 0.973) were negative predictors. No unexpected safety issues were observed.\nAnti-IL-23 therapies are effective in achieving and sustaining PASI 100 in routine care. Outcomes are influenced by disease localization, duration, prior treatments, and baseline severity. Limitations include retrospective design, single-center setting, and absence of comparators.",
+  "pub_date": "2025-11-04",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Interdisciplinary Center of Health Science, Sant'Anna School of Advanced Studies of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Interdisciplinary Center of Health Science, Sant'Anna School of Advanced Studies of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Statistical Support to Clinical Trials Department, University of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy.",
+    "Department of Dermatology, University of Pisa, Pisa, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41178402/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

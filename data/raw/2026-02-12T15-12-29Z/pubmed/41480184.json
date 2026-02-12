@@ -1,0 +1,24 @@
+{
+  "pmid": "41480184",
+  "title": "Real-World Experience of Guselkumab in the Elderly Population.",
+  "abstract": "Psoriasis is a chronic inflammatory disease whose burden peaks in older age groups. Despite the increasing prevalence of elderly patients with moderate-to-severe psoriasis, real-world data on biologics in this population remain limited, particularly for anti-IL-23 agents like guselkumab. This study evaluates the long-term effectiveness and safety of guselkumab in patients aged ≥65 years.\nThis retrospective study included 66 patients aged ≥65 years with plaque psoriasis treated with guselkumab 100 mg between June 2019 and June 2024. PASI scores were recorded at baseline and during follow-up visits at weeks 4, 16, 24, 36, 52, 76, and 104. Effectiveness was assessed using PASI75/90/100 and PASI ≤ 2 responses. Multivariable logistic regression with Firth correction identified baseline predictors of PASI90 and PASI100 at weeks 16 and 52. Safety outcomes included treatment-emergent adverse events (TEAEs).\nMean PASI improved from 13.3 at baseline to 1.0 at week 24 and remained stable through week 104. PASI90 and PASI100 were achieved by 83.9% and 71.0% at week 36 and maintained in 69.2% and 61.5% at week 104. Higher baseline PASI independently predicted PASI90 and PASI100 at week 16, while lower eosinophil-to-lymphocyte ratio (ELR) independently predicted PASI100. At week 52, chronic beta-blocker intake and PASI90 at week 16 predicted PASI90 response, while PASI100 was independently associated with low-dose aspirin use and positive family history of psoriasis. TEAEs occurred in 16.7% of patients, with treatment discontinued in 9.1%. Eczematous or urticarial AEs were associated with elevated baseline eosinophils and ELR.\nGuselkumab is effective and well tolerated in older adults with psoriasis. Baseline ELR, early PASI response, and chronic use of beta-blockers or aspirin may influence long-term treatment outcomes. While limited by the small sample size (66 patients), our findings represent the longest real-world follow-up to date among older psoriatic patients treated with guselkumab and support its use as a valuable therapeutic option in this population.",
+  "pub_date": "2025-12-26",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute of Dermatology, Department of Medicine, University of Udine, Udine, Italy.",
+    "Dermatology Department, University of Brescia, ASST Spedali Civili Di Brescia, Brescia, Italy.",
+    "Dermatology Department, University of Brescia, ASST Spedali Civili Di Brescia, Brescia, Italy.",
+    "Dermatology Department, University of Brescia, ASST Spedali Civili Di Brescia, Brescia, Italy.",
+    "Dermatology Department, University of Brescia, ASST Spedali Civili Di Brescia, Brescia, Italy.",
+    "Dermatology Department, University of Brescia, ASST Spedali Civili Di Brescia, Brescia, Italy.",
+    "Institute of Dermatology, Santa Maria Della Misericordia University Hospital, Udine, Italy.",
+    "Institute of Dermatology, Santa Maria Della Misericordia University Hospital, Udine, Italy.",
+    "Institute of Dermatology, Department of Medicine, University of Udine, Udine, Italy.",
+    "Institute of Dermatology, Department of Medicine, University of Udine, Udine, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41480184/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

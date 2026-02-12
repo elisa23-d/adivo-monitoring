@@ -1,0 +1,18 @@
+{
+  "pmid": "41029430",
+  "title": "Cost-effectiveness of deucravacitinib versus apremilast of moderate-to-severe plaque psoriasis in China.",
+  "abstract": "The study aimed to assess the cost-effectiveness of deucravacitinib versus apremilast for treating moderate-to-severe plaque psoriasis from the Chinese healthcare system's perspective.\nThe treatment efficacy of deucravacitinib was compared with apremilast using response rates derived from the head-to-head phase 3 clinical trials, POETYK PSO-1 and PSO-2. A decision-tree (first 24-week)/ Markov model (later period) was constructed to estimate the incremental cost per quality-adjusted life-year (QALY) gained over a lifetime horizon. The efficacy inputs were based on randomized controlled trials, while adverse event rates, discontinuation probabilities, costs, and utility data were obtained from relevant literature and Chinese sources. A 5% annual discount rate was used for the analysis of outcomes and costs. Model outcomes were characterized by quality-adjusted life-years (QALYs) and incremental cost-effectiveness ratio (ICER). One-way sensitivity analysis and probability sensitivity analysis (PSA) were performed to examine the robustness of the results.\nAccording to the assumed lifetime horizon and model, the ICER of deucravacitinib 6 mg once daily compared with apremilast 30 mg twice daily was 140,047 CNY per QALY. Deucravacitinib was more cost-effective than apremilast at the willingness-to-pay (WTP) threshold of 287,247 CNY per QALY. In the One-way sensitivity analysis, the cost of deucravacitinib was identified as the parameter exerting the greatest impact on the base-case results. The results of PSA showed the probability of deucravacitinib being cost-effective was 99.4%.\nAt the WTP threshold of 287,247 CNY, deucravacitinib 6 mg once daily was a cost-effective treatment strategy for moderate-to-severe plaque psoriasis compared with apremilast 30 mg twice daily from the Chinese healthcare system perspective over a lifetime horizon.",
+  "pub_date": "2025-09-30",
+  "publication_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "affiliations": [
+    "Department of Pharmacy, Yantai Yuhuangding Hospital, Yantai, Shandong, China.",
+    "Department of Pharmacy, Yantai Yuhuangding Hospital, Yantai, Shandong, China.",
+    "Department of Pharmacy, Yantai Yuhuangding Hospital, Yantai, Shandong, China. 15192315196@163.com."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41029430/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

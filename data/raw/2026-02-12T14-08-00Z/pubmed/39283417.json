@@ -1,0 +1,19 @@
+{
+  "pmid": "39283417",
+  "title": "Pharmacodynamic Response to Deucravacitinib, an Oral, Selective, Allosteric TYK2 Inhibitor, in a Global, Phase 2, Randomized, Double-Blind, Placebo-Controlled Psoriasis Trial.",
+  "abstract": "Psoriasis, a chronic, immune-mediated, inflammatory disease, affects 2‒3% of the population. Tyrosine kinase 2 (TYK2) mediates cytokine signaling involved in adaptive [interleukin (IL)-12, IL-23] and innate (type-I interferons) immune responses; IL-23-driven T-helper (Th)17 pathways play a key role in chronic inflammation in psoriasis. In a phase 2 trial, deucravacitinib, an oral, selective, allosteric TYK2 inhibitor, reduced IL-23/Th17 and type-I interferon pathway expression in the skin of patients with moderate to severe plaque psoriasis, reductions that were accompanied by clinical improvement of psoriatic lesions.\nThe aim of this study was to identify biomarkers of psoriatic disease in serum from patients enrolled in the phase 2 trial and to assess the effects of deucravacitinib on those biomarkers.\nSerum biomarkers from Olink proteomics and other quantitative assays were evaluated for a pharmacodynamic response to deucravacitinib treatment and correlation with psoriasis disease activity measures.\nSerum biomarkers associated with the IL-23/Th17 pathway [IL-17A, IL-17C, IL-19, IL-20, beta-defensin, and peptidase inhibitor 3 (PI3)] were upregulated in patients with psoriasis versus healthy controls. Deucravacitinib treatment reduced IL-17A (adjusted mean change from baseline at Day 85; 12 mg once daily versus placebo; -0.240 versus -0.067), IL-17C (-14.850 versus -1.664), IL-19 (-96.445 versus -8.119), IL-20 (-0.265 versus -0.064), beta-defensin (-65,025.443 versus -7553.961), and PI3 (-14.005 versus -1.360) expression. Reductions in serum biomarker expression occurred in a dose- and time-dependent manner, with significant reductions from baseline seen with deucravacitinib doses ≥ 3 mg twice daily (P ≤ 0.05). Biomarker expression correlated with disease activity measures such as Psoriasis Area and Severity Index (PASI) at baseline. Biomarker expression also correlated with PASI scores at Week 12.\nIL-23/Th17 pathway expression in the serum of patients with psoriasis is an indicator of disease activity and response to deucravacitinib treatment.\nNCT02931838.",
+  "pub_date": "2024-09-16",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Bristol Myers Squibb, 3401 Princeton Pike, Lawrenceville, NJ, 08648, USA.",
+    "Bristol Myers Squibb, 3401 Princeton Pike, Lawrenceville, NJ, 08648, USA. Lu.Gao@bms.com.",
+    "Bristol Myers Squibb, 3401 Princeton Pike, Lawrenceville, NJ, 08648, USA.",
+    "Bristol Myers Squibb, 3401 Princeton Pike, Lawrenceville, NJ, 08648, USA.",
+    "The Rockefeller University, New York, NY, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39283417/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

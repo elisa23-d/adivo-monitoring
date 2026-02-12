@@ -1,0 +1,19 @@
+{
+  "pmid": "38904160",
+  "title": "Targeting TYK2 for Fighting Diseases: Recent Advance of TYK2 Inhibitors.",
+  "abstract": "TYK2 (tyrosine-protein kinase 2) is a non-receptor protein kinase belonging to the JAK family and is closely associated with various diseases, such as psoriasis, inflammatory bowel disease, systemic lupus erythematosus. TYK2 activates the downstream proteins STAT1-5 by participating in the signal transduction of immune factors such as IL-12, IL-23, and IL-10, resulting in immune expression. The activity of the inhibitor TYK2 can effectively block the transduction of excessive immune signals and treat diseases. TYK2 inhibitors are divided into two types of inhibitors according to the different binding sites. One is a TYK2 inhibitor that binds to JH2 and inhibits its activity through an allosteric mechanism. The representative inhibitor is BMS-986165, developed by Bristol-Myers Squibb. The other class binds to the JH1 adenosine triphosphate (ATP) site and prevents the catalytic activity of the kinase by blocking ATP and downstream phosphorylation. This paper mainly introduces the protein structure, signaling pathway, synthesis, structure-activity relationship and clinical research of TYK2 inhibitors.",
+  "pub_date": "2024",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "affiliations": [
+    "College of Pharmaceutical Science, Institute of Drug Development & Chemical Biology, Zhejiang University of Technology, Hangzhou, 310014, P. R. China.",
+    "College of Pharmaceutical Science, Zhejiang University of Technology, and Institute of Drug Development & Chemical Biology, Zhejiang University of Technology, Hangzhou 310014, P. R. China.",
+    "College of Pharmaceutical Science, Institute of Drug Development & Chemical Biology, Zhejiang University of Technology, Hangzhou, 310014, P. R. China.",
+    "College of Pharmaceutical Science, Institute of Drug Development & Chemical Biology, Zhejiang University of Technology, Hangzhou, 310014, P. R. China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38904160/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

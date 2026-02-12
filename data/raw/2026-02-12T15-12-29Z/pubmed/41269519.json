@@ -1,0 +1,32 @@
+{
+  "pmid": "41269519",
+  "title": "Real-World Comparison of On-Label Treatment Persistence Through 24 Months Between Patients with Psoriatic Arthritis Initiating Guselkumab or Subcutaneous Interleukin-17A Inhibitors.",
+  "abstract": "Patients with active psoriatic arthritis (PsA) initiating guselkumab are nearly two times more likely to remain persistent with on-label therapy at 12 months compared to those initiating subcutaneous (SC) interleukin-17A inhibitors (IL-17Ai). In this real-world study, on-label treatment persistence at 24 months was compared between patients with active PsA initiating guselkumab versus SC IL-17Ai, overall and among biologic-naïve and biologic-experienced subgroups.\nAdult patients with active PsA initiated on guselkumab or SC IL-17Ai (secukinumab, ixekizumab) between July 14 2020 and December 31 2022 were identified from the IQVIA PharMetrics® Plus database. The first claim defined the index date, and results were stratified based on previous biologic (bDMARD) use. Treatment cohorts were balanced using propensity score overlap weighting. On-label treatment persistence (no treatment discontinuation or dose modification) through 24 months was assessed using weighted Kaplan-Meier curves and compared between cohorts using Cox proportional hazards models.\nOverall, 849 patients initiating guselkumab (biologic-naïve: 362, biologic-experienced: 487) and 2601 patients initiating SC IL-17Ai (biologic-naïve: 845, biologic-experienced: 1756) were included. On-label treatment persistence rates at 24 months were 44.9% and 35.0% for patients initiating guselkumab or SC IL-17Ai, respectively, with patients initiating guselkumab being 1.49 times more likely to be persistent with on-label therapy (hazard ratio [95% confidence interval]: 1.49 [1.29, 1.72]; P < 0.001). Results were consistent among biologic-naïve (1.70 [1.32, 2.20]; P < 0.001) and biologic-experienced (1.33 [1.11, 1.59]; P = 0.002) subgroups.\nThis real-world study identified greater on-label treatment persistence rates at 24 months in patients with active PsA initiating guselkumab versus SC IL-17Ai, overall and among biologic-naïve and biologic-experienced subgroups.",
+  "pub_date": "2025-11-21",
+  "publication_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "affiliations": [
+    "Rheumatology Research, Providence Swedish Medical Center, Nordstrom Medical Tower, 1229 Madison St, Suite 1450, Seattle, WA, 98104, USA. pmease@philipmease.com.",
+    "University of Washington School of Medicine, Seattle, WA, USA. pmease@philipmease.com.",
+    "Salt Lake City Veterans Affairs Health, Salt Lake City, UT, USA.",
+    "University of Utah Health, Salt Lake City, UT, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Drexel University College of Medicine, Philadelphia, PA, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Analysis Group, Inc., Montreal, QC, Canada.",
+    "Medical College of Wisconsin, Milwaukee, WI, USA.",
+    "Department of Dermatology, and Department of Medicine, Division of Rheumatology, UT Southwestern Medical Center, Dallas, TX, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41269519/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

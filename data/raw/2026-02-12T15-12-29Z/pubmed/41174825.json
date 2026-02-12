@@ -1,0 +1,25 @@
+{
+  "pmid": "41174825",
+  "title": "Super-Response to Guselkumab Treatment in Patients With Moderate-to-Severe Psoriasis: Real-World Data With Up to Five Years of Follow-Up in The Czech Republic.",
+  "abstract": "Guselkumab, a selective interleukin (IL)-23 inhibitor, is approved for the treatment of moderate-to-severe plaque psoriasis. While randomized clinical trials have introduced the concept of \"super-responders\" (SRe)-patients achieving complete skin clearance (Psoriasis Area and Severity Index [PASI] 100) at defined early timepoints-real-world evidence on their characteristics and long-term outcomes remains limited. This study aimed to identify baseline predictors of super-response (PASI 100 at Weeks 16 and 24) and to evaluate long-term effectiveness, safety, and drug survival over a 5-year period in a routine clinical setting.\nThis retrospective multicenter study analyzed 435 patients from the Czech BIOREP registry treated with guselkumab. Predictors of super-response were identified using multivariable logistic regression. PASI outcomes and drug survival were assessed with descriptive statistics and Kaplan-Meier analysis.\nAmong the cohort, 130 patients (29.9%) were classified as super-responders. Lower body mass index (BMI) and absence of prior biologic therapy were independent predictors of SRe status (odds ratio [OR] = 0.94 and 0.73, respectively). While PASI 75/90/100 rates were significantly higher in SRe throughout follow-up, drug survival was comparable between SRe and non-SRe. At 60 months, PASI 100 was maintained in 79.2% of SRe versus 35.4% of non-SRe. Obesity and female sex were associated with lower long-term treatment persistence.\nSuper-response to guselkumab is linked to distinct baseline features. Despite differences in PASI outcomes, treatment persistence was similar across groups. These findings underscore the value of early identification of super-responders and support personalized treatment strategies in clinical practice.",
+  "pub_date": "2025-10-31",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatovenereology, First Faculty of Medicine and General University Hospital, Charles University, Prague, Czech Republic.",
+    "Value Outcomes, Prague, Czech Republic.",
+    "Department of Dermatovenereology, First Faculty of Medicine and General University Hospital, Charles University, Prague, Czech Republic.",
+    "Department of Dermatovenereology, Faculty of Medicine and University Hospital in Pilsen, Charles University, Pilsen, Czech Republic.",
+    "Department of Dermatovenereology, Third Faculty of Medicine and Kralovske Vinohrady University Hospital, Charles University, Prague, Czech Republic.",
+    "Department of Dermatovenereology, University Hospital Motol, Prague, Czech Republic.",
+    "Department of Dermatovenereology, Third Faculty of Medicine and Kralovske Vinohrady University Hospital, Charles University, Prague, Czech Republic.",
+    "Department of Dermatovenereology, First Faculty of Medicine and General University Hospital, Charles University, Prague, Czech Republic.",
+    "Value Outcomes, Prague, Czech Republic.",
+    "Department of Dermatology and Venereology, Faculty of Medicine and Dentistry, Palacky University Olomouc, Olomouc, Czech Republic.",
+    "Department of Dermatology and Venereology, University Hospital Olomouc, Olomouc, Czech Republic."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41174825/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

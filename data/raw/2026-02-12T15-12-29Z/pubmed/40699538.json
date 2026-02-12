@@ -1,0 +1,25 @@
+{
+  "pmid": "40699538",
+  "title": "Comparative Effectiveness and Durability of Biologics Through 24 Months for Patients with Moderate-to-Severe Psoriasis: Results from the International, Observational Psoriasis Study of Health Outcomes (PSoHO).",
+  "abstract": "The Psoriasis Study of Health Outcomes (PSoHO) is an international, prospective, non-interventional study investigating the comparative effectiveness and durability of biologic treatments for patients with moderate-to-severe psoriasis (PsO) over 36 months. Patients were grouped into cohorts based on biologic class: anti-interleukin (IL)-17A/receptor A (anti-IL-17A), anti-IL-12/23, anti-IL-23 and anti-tumor necrosis factor (TNF)-α for the purpose of comparison. Additionally, the durability and effectiveness of individual biologic treatments were compared to ixekizumab (IXE).\nEffectiveness was assessed using Psoriasis Area and Severity Index (PASI) 90 and PASI100 response rates and durability, defined as achieving therapeutic response (PASI90/100) at week 12 and its maintenance at months 6, 12, 18 and 24. Statistical analysis included unadjusted descriptive summaries and model-based comparisons that accounted for baseline confounders using the frequentist model averaging (FMA) framework and marginal structural models (MSM) that accounted for both baseline and time-varying confounders.\nResults demonstrated that patients treated with anti-IL-17A biologics had significantly higher odds of achieving PASI100 and PASI90 compared to those treated with anti-IL-12/23 and anti-TNFα biologics. Specifically, at 24 months, IXE showed greater PASI100 and PASI90 response rates compared to adalimumab (ADA) and ustekinumab (UST), with adjusted odds ratios of 1.9 and 2.3 for PASI100 and 2.0 and 2.5 for PASI90, respectively. IXE-treated patients also exhibited higher durability rates for PASI100 and PASI90 compared to ADA, UST, secukinumab (SEC), tildrakizumab (TILD) and guselkumab (GUS), with adjusted odds ratios (non-responder imputation [NRI]) between 1.7 and 4.3 (PASI100) and 1.6 and 4.2 (PASI90), while being similar to risankizumab (RIS).\nThis study provides valuable real-world data on the long-term effectiveness and durability of biologic treatments for PsO, emphasizing the advantages of anti-IL-17A biologics, particularly IXE, in achieving and maintaining therapeutic responses. These findings support dermatologists in making informed decisions regarding PsO treatment strategies.\nThe study was registered at the European Network of Centers for Pharmacoepidemiology and Pharmacovigilance (ENCEPP24207).",
+  "pub_date": "2025-07-23",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "University Hospital Frankfurt, Frankfurt am Main, Germany.",
+    "Eli Lilly and Company, Indianapolis, USA.",
+    "Section of Dermatology, Department of Medical, Surgical and Neurological Science, University of Siena, Siena, Italy.",
+    "Department of Dermatology, Hospital de la Santa Creu i Sant Pau, Universitat Autònoma de Barcelona, Barcelona, Spain.",
+    "Department of Dermatology, Hospital Universitari Germans Trias i Pujol, Universitat Autònoma of Barcelona, IGTP, Carretera de Canyet, S/N, Badalona, 08916, Barcelona, Spain.",
+    "Department of Dermatology, Sainte Anne Military Hospital, Toulon, France.",
+    "Dermatology Unit, Department of Clinical Medicine and Surgery, University of Naples Federico II, Naples, Italy.",
+    "Eli Lilly and Company, Indianapolis, USA.",
+    "Eli Lilly and Company, Indianapolis, USA.",
+    "Department of Dermatology, University Hospital Zurich, Zurich, Switzerland. julia-tatjana.maul@usz.ch.",
+    "Faculty of Medicine, University of Zurich, Zurich, Switzerland. julia-tatjana.maul@usz.ch."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40699538/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "38770592",
+  "title": "Phase 2 Trial of Deucravacitinib in Psoriatic Arthritis: Biomarkers Associated With Disease Activity, Pharmacodynamics, and Clinical Responses.",
+  "abstract": "Our objective was to evaluate the association of serum biomarkers with baseline psoriatic arthritis (PsA) disease activity, pharmacodynamic effects of deucravacitinib on biomarker levels, and the relationship between biomarkers and clinical responses to deucravacitinib.\nThe phase 2 trial (ClinicalTrials.gov identifier: NCT03881059) randomly assigned 203 patients with PsA 1:1:1 to placebo, deucravacitinib at 6 mg once daily (QD), or deucravacitinib at 12 mg QD. Serum biomarkers associated with the interleukin 23 (IL-23) pathway (IL-17A, β-defensin [BD-2], and IL-19), type I interferon pathway, inflammation, and collagen matrix turnover were measured by immunoassay. Clinical responses (≥75% improvement from baseline in the Psoriasis Area and Severity Index [PASI75] and ≥20% improvement from baseline in American College of Rheumatology criteria [ACR20] responses) were measured at week 16. Hematologic variables were also assessed.\nIL-17A, BD-2, and IL-19 had a modest association with PASI scores (r = 0.4, r = 0.56, and r = 0.5, respectively) at baseline. In deucravacitinib groups, IL-17A, BD-2, IL-19, C-X-C motif ligand 9 (CXCL9), CXCL10, C-reactive protein, matrix metalloproteinase 3, and collagen type 4 degradation marker levels were significantly reduced at week 16 versus baseline (P < 0.01); higher levels of IL-23 pathway-associated biomarkers predicted higher PASI75 and ACR20 response rates in deucravacitinib-treated patients. Significantly higher PASI75 response rates were seen in patients with high baseline IL-17A (odds ratio 15.76) and BD-2 levels (odds ratio 15.41) versus low baseline IL-17A and BD-2 levels. Changes in hematologic variables that are characteristic of JAK inhibition were not observed with deucravacitinib.\nDeucravacitinib significantly impacted biomarkers associated with Tyk2 signaling pathways of key inflammatory cytokines, including IL-23 and type I interferon, and those related to collagen matrix turnover. These biomarkers may predict treatment responses to deucravacitinib.",
+  "pub_date": "2024-07-01",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial"
+  ],
+  "affiliations": [
+    "University College Dublin, Dublin, Ireland.",
+    "University of Toronto, Toronto, Ontario, Canada.",
+    "Swedish Medical Center, Seattle, Washington.",
+    "University of Rochester Medical Center, Rochester, New York.",
+    "Medical University of Vienna and Hietzing Hospital, Vienna, Austria.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey.",
+    "Bristol Myers Squibb, Princeton, New Jersey."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38770592/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

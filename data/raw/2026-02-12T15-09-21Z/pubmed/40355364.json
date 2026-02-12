@@ -1,0 +1,36 @@
+{
+  "pmid": "40355364",
+  "title": "Deucravacitinib in patients with inflammatory bowel disease: 12-week efficacy and safety results from 3 randomized phase 2 studies in Crohn's disease and ulcerative colitis.",
+  "abstract": "Tyrosine kinase 2 is a downstream intracellular mediator of interleukin-23 signaling, which has a key role in the pathogenesis of inflammatory bowel disease. Deucravacitinib is a novel, oral, selective, allosteric tyrosine kinase 2 inhibitor currently approved for the treatment of adults with moderate to severe plaque psoriasis.\nHere we describe 3 randomized, double-blind, placebo-controlled phase 2 studies of deucravacitinib in patients with moderately to severely active Crohn's disease (LATTICE-CD [NCT03599622]) or ulcerative colitis (LATTICE-UC [NCT03934216] and IM011-127 [NCT04613518]). Patients were randomized to receive placebo or twice-daily deucravacitinib 3 or 6 mg (LATTICE-CD), 6 mg (LATTICE-UC), or 12 mg (IM011-127) for 12 weeks. Coprimary endpoints for LATTICE-CD were clinical remission and endoscopic response at week 12. The primary endpoint was clinical remission (per modified Mayo score) at week 12 for LATTICE-UC and clinical response (per modified Mayo score) at week 12 for IM011-127.\nA total of 239 (LATTICE-CD), 131 (LATTICE-UC), and 38 (IM011-127) patients were randomized. The primary endpoints were not met for all 3 studies, which resulted in early study termination for LATTICE-CD and IM011-127. High efficacy rates were observed in placebo groups throughout the studies. In all studies, the safety profile of deucravacitinib was consistent with the known safety profile observed in patients with psoriasis, and no new safety signals were observed.\nDeucravacitinib at multiple doses did not demonstrate significant clinical benefit vs placebo in moderately to severely active Crohn's disease or ulcerative colitis. Deucravacitinib was safe and well tolerated.",
+  "pub_date": "2025-06-04",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+  ],
+  "affiliations": [
+    "Department of Gastroenterology and Hepatology, Amsterdam University Medical Centers, Amsterdam, The Netherlands.",
+    "Department of Gastroenterology and Endoscopy, IRCCS Ospedale San Raffaele and Vita-Salute San Raffaele University, Milan, Italy.",
+    "Department of Medicine, Inflammatory Bowel Disease Clinic, Calgary, Alberta, Canada.",
+    "Inflammatory Bowel Disease Center, University of Chicago Medicine, Chicago, IL, United States.",
+    "Department of Gastroenterology, INFINY Institute, INSERM NGERE, CHRU Nancy, Vandœuvre-lès-Nancy, France.",
+    "Groupe Hospitalier Privé Ambroise Paré - Hartmann, Paris IBD Center, Neuilly sur Seine, France.",
+    "Division of Gastroenterology and Hepatology, McGill University Health Centre, Montreal, Quebec, Canada.",
+    "Division of Gastroenterology and Hepatology, Toho University Sakura Medical Center, Sakura, Chiba, Japan.",
+    "Division of Gastroenterology and Hepatology, Mayo Clinic College of Medicine and Science, Rochester, MN, United States.",
+    "Kitasato University Kitasato Institute Hospital, Tokyo, Japan.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Bristol Myers Squibb, Princeton, NJ, United States.",
+    "Department of Internal Medicine I, University Hospital Schleswig-Holstein, Kiel University, Kiel, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40355364/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

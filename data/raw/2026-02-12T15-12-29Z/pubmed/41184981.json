@@ -1,0 +1,27 @@
+{
+  "pmid": "41184981",
+  "title": "Long-term comparative analysis of secukinumab versus TNFα inhibitors in patients with spondyloarthritis: treatment persistence is differentially affected by disease phenotype, obesity and sex.",
+  "abstract": "The anti-interleukin 17A agent secukinumab has been approved for the treatment of spondyloarthritis (SpA) patients as an alternative to tumor necrosis factor inhibitors (TNFis). Our aim was to compare long-term treatment persistence and relevant effect modifiers, as well as 6-month clinical responses, in SpA patients starting secukinumab versus TNFis in routine clinical care.\nThis was a prospective single-center cohort study of consecutive axial SpA (axSpA) or peripheral SpA (perSpA) patients, including psoriatic arthritis (PsA) patients, who started or switched to either secukinumab or TNFis from 2016-2022. Drug persistence and low/minimal disease activity rates were assessed via Kaplan‒Meier curves and multivariable and propensity score-adjusted regression analyses. Confounding and effect modification were tested for several baseline demographic, clinical and laboratory characteristics.\nA total of 644 patients (secukinumab: 214, TNFis: 430) were analyzed. Unadjusted 4-year treatment persistence was greater with secukinumab than with TNFis in the total SpA cohort (38.7% versus 30.5%, respectively, log-rank p = 0.004); including the axSpA (37% versus 34.5%, p = 0.044) and perSpA (40% versus 18.2%, p = 0.011) cohorts. Multivariable analysis confirmed a greater risk for discontinuation of TNFis [HR (95% CI): 1.62 (1.23-2.14), p < 0.001] both for inefficacy [1.38 (1.01-1.90)] and safety reasons [2.95 (1.22-7.14)]. Psoriatic arthritis, obesity and female sex significantly modified the differential efficacy-related persistence. The 2-year persistence in obese female psoriatic arthritis patients was 76% with secukinumab versus 39% with TNFis, whereas in nonobese axSpA males, it was 48% versus 78%, respectively. Six-month treatment target achievement rates were comparable between the two agents in axSpA, perSpA, and PsA patients.\nThe differential persistence of biologic agents commonly used in SpA has been shown in this real-life prospective study. Should the distinct effects of obesity, sex and specific SpA diagnosis on persistence be confirmed in other cohorts, it could optimize clinical decision-making and improve patient outcomes.",
+  "pub_date": "2025-11-03",
+  "publication_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "affiliations": [
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece.",
+    "Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas, (FORTH), Heraklio, Crete, Greece.",
+    "Rheumatology, Clinical Immunology and Allergy Department, University of Crete, Medical School, Voutes 1, Heraklio, Crete, 71500, Greece. sidiropp@uoc.gr.",
+    "Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas, (FORTH), Heraklio, Crete, Greece. sidiropp@uoc.gr."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41184981/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

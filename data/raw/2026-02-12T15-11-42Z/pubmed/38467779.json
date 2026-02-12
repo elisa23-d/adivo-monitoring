@@ -1,0 +1,20 @@
+{
+  "pmid": "38467779",
+  "title": "TYK2: an emerging therapeutic target in rheumatic disease.",
+  "abstract": "Tyrosine kinase 2 (TYK2) is a member of the JAK kinase family of intracellular signalling molecules. By participating in signalling pathways downstream of type I interferons, IL-12, IL-23 and IL-10, TYK2 elicits a distinct set of immune events to JAK1, JAK2 and JAK3. TYK2 polymorphisms have been associated with susceptibility to various rheumatic diseases including systemic lupus erythematosus and dermatomyositis. In vitro and animal studies substantiate these findings, highlighting a role for TYK2 in diseases currently managed by antagonists of cytokines that signal through TYK2. Various inhibitors of TYK2 have now been studied in human disease, and one of these inhibitors, deucravacitinib, has now been approved for the treatment of psoriasis. Phase II trials of deucravacitinib have also reported positive results in the treatment of psoriatic arthritis and systemic lupus erythematosus, with a preliminary safety profile that seems to differ from that of the JAK1, JAK2 and JAK3 inhibitors. Two other inhibitors of TYK2, brepocitinib and ropsacitinib, are also in earlier stages of clinical trials. Overall, TYK2 inhibitors hold promise for the treatment of a distinct spectrum of autoimmune diseases and could potentially have a safety profile that differs from other JAK inhibitors.",
+  "pub_date": "2024-03-11",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "affiliations": [
+    "Centre for Inflammatory Diseases, Monash University, and Department of Rheumatology, Monash Health, Clayton, Victoria, Australia. eric.morand@monash.edu.",
+    "Department of Medicine, Division of Rheumatology and Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+    "The First Department of Internal Medicine, University of Occupational and Environmental Health, Japan, Kitakyushu, Japan.",
+    "Schroeder Arthritis Institute, Krembil Research Institute, Toronto Western Hospital, Division of Rheumatology University of Toronto, Toronto, Ontario, Canada.",
+    "Metroplex Clinical Research Center, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38467779/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

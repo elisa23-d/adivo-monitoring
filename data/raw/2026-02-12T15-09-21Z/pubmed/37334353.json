@@ -1,0 +1,27 @@
+{
+  "pmid": "37334353",
+  "title": "Oral small-molecule tyrosine kinase 2 and phosphodiesterase 4 inhibitors in plaque psoriasis: a network meta-analysis.",
+  "abstract": "Orally administered small-molecule drugs including tyrosine kinase 2 (TYK2) inhibitors and phosphodiesterase 4 (PDE4) inhibitors are new candidates for systemic therapy in plaque psoriasis. However, no previous articles evaluated the benefit and risk profile of TYK2 and PDE4 inhibitors in psoriasis.\nThe objective of this study was to compare the efficacy and safety of oral small-molecule drugs, including TYK2 and PDE4 inhibitors, in treating moderate-to-severe plaque psoriasis.\nPubMed, Embase, and Cochrane library were searched for eligible randomized clinical trials (RCTs). Response rates for a 75% reduction from baseline in Psoriasis Area and Severity Index (PASI-75) and Physician's Global Assessment score of 0 or 1 (PGA 0/1) were used for efficacy assessment. Safety was evaluated with the incidence of adverse events (AEs). A Bayesian multiple treatment network meta-analysis (NMA) was performed.\nIn total, 13 RCTs (five for TYK2 inhibitors and eight for PDE4 inhibitors) involving 5274 patients were included. The study found that deucravacitinib at any dose (except for 3 mg QOD), ropsacitinib (200 and 400 mg QD), and apremilast (20 and 30 mg BID) had higher PASI and PGA response rates than placebo. In addition, deucravacitinib (3 mg BID, 6 mg QD, 6 mg BID, and 12 mg QD), and ropsacitinib (400 mg QD) showed superior efficacy than apremilast (30 mg BID). In terms of safety, deucravacitinib or ropsacitinib at any dose did not lead to a higher incidence of AEs than apremilast (30 mg BID). The ranking analysis of efficacy revealed that deucravacitinib 12 mg QD and deucravacitinib 3 mg BID had the highest chance of being the most effective oral treatment, followed by deucravacitinib 6 mg BID and ropsacitinib 400 mg QD.\nOral TYK2 inhibitors demonstrated satisfactory performance in treating psoriasis, surpassing apremilast at certain doses. More large-scale, long-term studies focusing on novel TYK2 inhibitors are needed.\nPROSPERO (ID: CRD42022384859), available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022384859, identifier CRD42022384859.",
+  "pub_date": "2023-06-02",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't",
+    "Network Meta-Analysis"
+  ],
+  "affiliations": [
+    "Department of Dermatology, West China Hospital, Sichuan University, Chengdu, China.",
+    "Laboratory of Dermatology, Clinical Institute of Inflammation and Immunology, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, China.",
+    "Department of Dermatology, West China Hospital, Sichuan University, Chengdu, China.",
+    "Laboratory of Dermatology, Clinical Institute of Inflammation and Immunology, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, China.",
+    "Department of Dermatology, West China Hospital, Sichuan University, Chengdu, China.",
+    "Laboratory of Dermatology, Clinical Institute of Inflammation and Immunology, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, China.",
+    "Department of Dermatology, West China Hospital, Sichuan University, Chengdu, China.",
+    "Laboratory of Dermatology, Clinical Institute of Inflammation and Immunology, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, China.",
+    "Department of Dermatology, West China Hospital, Sichuan University, Chengdu, China.",
+    "Laboratory of Dermatology, Clinical Institute of Inflammation and Immunology, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37334353/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

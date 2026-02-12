@@ -1,0 +1,23 @@
+{
+  "pmid": "37845748",
+  "title": "A novel highly selective allosteric inhibitor of tyrosine kinase 2 (TYK2) can block inflammation- and autoimmune-related pathways.",
+  "abstract": "As a member of the Janus kinase (JAK) family, which includes JAK1, JAK2 and JAK3, tyrosine kinase 2 (TYK2) plays an important role in signal transduction and immune system regulation. Moreover, it is also involved in the development of many types of inflammatory and autoimmune diseases, such as psoriasis and systemic lupus erythematosus (SLE). TYK2 is an attractive therapeutic target, and selective inhibition of TYK2 over other JAK family members is critical for the development of TYK2 small molecule inhibitors. However, targeting the catalytic region of the TYK2 ATP-binding site is a major challenge due to the high structural homology between the catalytic regions of the JAK family proteins.\nIn this study, we developed a novel small molecule inhibitor (QL-1200186) by targeting the pseudokinase regulatory domain (Janus homology 2, JH2) of the TYK2 protein. The binding sites of QL-1200186 were predicted and screened by molecular docking. The inhibitory effects on IFNα, IL-12 and IL-23 signaling were tested in cell lines, human peripheral blood cells and human whole blood. The pharmacokinetic (PK) and pharmacodynamic properties of QL-1200186 were verified in mice. QL-1200186 showed high affinity for TYK2 JH2 and had no apparent selectivity for the TYK2 and JAK homologous kinase domains; these effects were demonstrated using biochemical binding, signaling pathway transduction (JAK1/2/3) and off-target effect assays. More importantly, we revealed that QL-1200186 was functionally comparable and selectivity superior to two clinical-stage TYK2 inhibitors (BMS-986165 and NDI-034858) in vitro. In the PK studies, QL-1200186 exhibited excellent exposure, high bioavailability and low clearance rates in mice. Oral administration of QL-1200186 dose-dependently inhibited interferon-γ (IFNγ) production after interleukin-12 (IL-12) challenge and significantly ameliorated skin lesions in psoriatic mice.\nThese findings suggest that QL-1200186 is a highly selective and potent inhibitor of TYK2. QL-1200186 could be an appealing clinical drug candidate for the treatment of psoriasis and other autoimmune diseases. Video Abstract.",
+  "pub_date": "2023-10-16",
+  "publication_types": [
+    "Video-Audio Media",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "affiliations": [
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China.",
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China.",
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China.",
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China.",
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China. Yidong.Zhu@qilu-pharma.com.",
+    "Department of Immunology and Inflammation, Shanghai Qilu Pharmaceutical R&D Center Limited, Shanghai, China. Bo1.chen@qilu-pharma.com.",
+    "Present address: China Resources Pharmaceutical Group Limited, Beijing, China. Bo1.chen@qilu-pharma.com."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37845748/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

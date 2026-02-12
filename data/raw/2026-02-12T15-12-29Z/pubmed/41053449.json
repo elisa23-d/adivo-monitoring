@@ -1,0 +1,32 @@
+{
+  "pmid": "41053449",
+  "title": "Sonelokimab, an IL-17A/IL-17F-inhibiting nanobody for active psoriatic arthritis: a randomized, placebo-controlled phase 2 trial.",
+  "abstract": "Psoriatic arthritis (PsA) is a progressive, multidomain and interleukin-17 (IL-17)-linked disease that results in substantial quality-of-life deficits. Thereby, we conducted a phase 2 randomized, double-blind, placebo (PBO)-controlled trial of sonelokimab (SLK), a nanobody that binds with a similarly high affinity to IL-17A and IL-17F, inhibiting all dimers. Overall, 207 patients with active PsA were randomized to SLK 120-mg or 60-mg every 4 weeks (Q4W; both with induction (WI)), or to 60-mg Q4W with no induction, PBO or adalimumab (reference arm). The primary endpoint of American College of Rheumatology (ACR) 50 at week 12 was met for SLK 60-mg and 120-mg WI (60-mg WI = 46.3% (19/41; odds ratio (OR) = 3.6; 95% confidence interval (CI) = 1.3-9.9; P < 0.05); 120-mg WI = 46.5% (20/43; OR = 4.0; 95% CI = 1.4-11.3; P < 0.01) versus PBO = 20.0% (8/40)). SLK resulted in significant benefits across the key secondary endpoints of ACR20 (60-mg WI = 78.0% (32/41; P < 0.001) and 120-mg WI = 72.1% (31/43; P = 0.002) versus PBO = 37.5% (15/40)) and Psoriasis Area and Severity Index (PASI) 90 at week 12 (60-mg WI = 76.9% (20/26; P < 0.001) and 120-mg WI = 59.3% (16/27; P = 0.003) versus PBO = 15.4% (4/26)). Robust responses were observed among patients randomized to SLK at week 24 for the high-threshold composite endpoints of ACR70 + PASI 100 (exploratory) and minimal disease activity (secondary), achieved by up to 48% (13/27; 120-mg WI) and 61% (25/41; 60-mg WI), respectively. SLK was well-tolerated; the most common treatment-emergent adverse events were nasopharyngitis (60 mg = 6.1%; 120 mg = 5.2%), upper respiratory tract infection (60 mg = 6.1%; 120 mg = 4.1%), injection-site erythema (60 mg = 3.7%; 120 mg = 3.1%) and headache (60 mg = 2.4%; 120 mg = 4.1%). Four cases of mild to moderate oral candidiasis occurred (60 mg = 2.4%; 120 mg = 2.1%). Overall, SLK delivered substantial improvements in the signs and symptoms of PsA across various outcomes and domains. ClinicalTrials.gov registration: NCT05640245 .",
+  "pub_date": "2025-10-06",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+  ],
+  "affiliations": [
+    "College of Medical Veterinary & Life Sciences (MVLS), University of Glasgow, Glasgow, UK. iain.mcinnes@glasgow.ac.uk.",
+    "Nuffield Department of Orthopaedics Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK.",
+    "Providence Swedish Medical Center and University of Washington, Seattle, WA, USA.",
+    "University of Pennsylvania, Philadelphia, PA, USA.",
+    "University of California, San Diego, La Jolla, CA, USA.",
+    "Department of Medicine, Women's College Hospital and University of Toronto, Toronto, Ontario, Canada.",
+    "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany.",
+    "Altoona Center for Clinical Research, Duncansville, PA, USA.",
+    "Leeds Institute of Rheumatic and Musculoskeletal Medicine (LIRMM), University of Leeds, Leeds, UK.",
+    "MoonLake Immunotherapeutics AG, Zug, Switzerland.",
+    "MoonLake Immunotherapeutics AG, Zug, Switzerland.",
+    "MoonLake Immunotherapeutics AG, Zug, Switzerland.",
+    "MoonLake Immunotherapeutics AG, Zug, Switzerland.",
+    "Translational Research in Inflammatory Skin Diseases, Institute for Health Services Research in Dermatology and Nursing, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+    "Allergy, Immunology and Rheumatology Division, University of Rochester Medical School, Rochester, NY, USA.",
+    "Department of Dermatology and Department of Medicine Division of Rheumatology, UT Southwestern Medical Center, Dallas, TX, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41053449/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

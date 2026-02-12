@@ -1,0 +1,26 @@
+{
+  "pmid": "41575731",
+  "title": "Guselkumab Improves Patient-Reported Outcomes Among Participants with Psoriatic Arthritis and Inadequate Response to Tumor Necrosis Factor Inhibitors in the COSMOS Study.",
+  "abstract": "The aim of this work was to evaluate the achievement of minimal clinically important improvement (MCII) in patient-reported outcomes (PROs) with guselkumab among participants with active psoriatic arthritis (PsA) and inadequate response to tumor necrosis factor inhibitors (TNFi-IR).\nPost hoc analysis of phase 3b COSMOS study of participants with PsA and TNFi-IR randomized to guselkumab (N = 189) or placebo (N = 96) at week (W)0, W4 then every 8W through W44, with W16 (early escape) or W24 placebo-to-guselkumab transition. Time to MCII achievement (> 15-point) in patient global assessment of arthritis (PtGA Arthritis), PtGA Psoriasis, PtGA Arthritis + Psoriasis, and Patient Pain, Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue, ≥ 4-point), Health Assessment Questionnaire-Disability Index (HAQ-DI, ≥ 0.35-point), 36-item Short-Form Health Survey physical component summary score (≥ 5-point), Dermatology Life Quality Index (DLQI, ≥ 5-point), and DLQI 0/1 with guselkumab vs. placebo was determined using Cox regression adjusting for baseline factors. Logistic regression compared MCII achievement rates between treatment groups. All p values are nominal.\nTime to MCII achievement across PROs through W24 was significantly faster with guselkumab vs. placebo (hazard ratio [HR] range 1.59 for PtGA Arthritis to 5.89 for DLQI), except for FACIT-Fatigue (HR 1.29, 95% confidence interval 0.93-1.81). Guselkumab treatment delivered significant improvements in PROs vs. placebo as early as W8 and through W24. Across all measures, odds of achieving MCII were higher with guselkumab vs. placebo at W8 (odds ratio [OR] range 1.43 for FACIT-Fatigue to 9.33 for DLQI) and W24 (OR range 3.12 for HAQ-DI to 19.42 for DLQI 0/1). MCII achievement rates for all PROs increased through W48 of guselkumab treatment, with consistent patterns following placebo-to-guselkumab transition.\nIn these hypothesis-generating analyses of a TNFi-IR PsA population, guselkumab demonstrated rapid (W8) MCII achievement in patient-reported skin and joint symptoms, and pain, followed by improvements in fatigue, functional status, and quality of life, with response rates increasing further through W48.\nClinicalTrials.gov identifier, NCT03796858.",
+  "pub_date": "2026-01-23",
+  "epub_date": null,
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institut Pierre Louis d'Epidémiologie et de Santé Publique, Sorbonne Université, INSERM, Paris, France. laure.gossec@aphp.fr.",
+    "Rheumatology Department, AP-HP, Pitié-Salpêtrière Hospital, Paris, France. laure.gossec@aphp.fr.",
+    "Rheumazentrum Ruhrgebiet Herne, Ruhr-University Bochum, Bochum, Germany.",
+    "Centre for Rheumatic Diseases, King's College London, London, UK.",
+    "Centre for Rheumatology, Academic Specialist Centre, Stockholm Region and Rheumatology Unit, Department of Medicine, Karolinska Institutet, Stockholm, Sweden.",
+    "First Department of Propaedeutic Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece.",
+    "Department of Pediatrics, McGill University, Montreal, QC, Canada.",
+    "JSS Medical Research, Montreal, QC, Canada.",
+    "Johnson & Johnson, Dubai, United Arab Emirates.",
+    "Johnson & Johnson, Issy les Moulineaux, France.",
+    "College of Medical Veterinary and Life Sciences, University of Glasgow, Glasgow, UK."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41575731/",
+  "snapshot_id": "2026-02-12T16-32-54Z",
+  "ingested_at": "2026-02-12T16:32:55.577559+00:00"
+}

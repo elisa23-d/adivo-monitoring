@@ -1,0 +1,41 @@
+{
+  "pmid": "41236286",
+  "title": "Long-Term Persistence with Guselkumab: A 5-Year Multicenter Retrospective Study across 14 Dermatology Centers in Italy.",
+  "abstract": "Psoriasis is a chronic systemic inflammatory disease that requires long-term treatment strategies to maintain sustained disease control. Treatment persistence is an important real-world indicator of therapeutic effectiveness and tolerability. Guselkumab, an IL-23 inhibitor, has shown favorable persistence in several studies, but extended long-term data remain limited.\nTo assess 3- and 5-year drug survival rates of guselkumab in patients with moderate-to-severe plaque psoriasis and to examine the relationship between persistence and clinical variables such as PASI, BMI, prior biologic exposure, and involvement of difficult-to-treat areas.\nThis was a multicenter retrospective observational study conducted across 14 dermatology centers in Italy. Adult patients with moderate-to-severe plaque psoriasis who started guselkumab were included. Data collected included demographics, clinical history, disease severity, comorbidities, and treatment details. Drug survival was analyzed using Kaplan-Meier curves and Cox proportional hazards models.\nA total of 247 patients were included. At three years, 80.2% of patients remained on guselkumab, and at five years, 72.8% continued treatment. Persistence was not significantly influenced by BMI, PASI, or age. However, prior biologics exposure was associated with a higher risk of discontinuation (hazard ratio (HR): 1.84; P=0.0208), especially in those previously treated with IL-17 inhibitors (HR:2.14; P=0.0150). The involvement of difficult-to-treat areas did not significantly affect persistence, although a trend toward reduced discontinuation was observed in patients with genital involvement (P=0.0539).\nGuselkumab demonstrated high long-term persistence in real-world clinical practice. Drug survival remained consistently high across various subgroups, with prior IL-17 inhibitor exposure being the main predictor of decreased persistence.",
+  "pub_date": "2025-10-01",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Dermatology Unit, A. Fiorini Hospital, Sapienza University of Rome - Polo Pontino, Terracina, Italy.",
+    "Section of Dermatology, Department of Translational Medicine and Surgery, Catholic University of the S. Heart, Rome, Italy.",
+    "Department of Internal Medicine and Medical Specialties, Sapienza University of Rome, Policlinico Umberto I, Rome, Italy.",
+    "Unit of General and Oncologic Dermatology, San Salvatore Hospital, L'Aquila, Italy.",
+    "IDI-IRCCS, Luigi Maria Monti Foundation, Rome, Italy.",
+    "Dermatology Unit, Local Health Authority ASL2 Abruzzo, Chieti, Italy.",
+    "Dermatology Unit, Local Health Authority ASL2 Abruzzo, Chieti, Italy.",
+    "Clinical Dermatology - Psoriasis Center, San Gallicano Dermatological Institute (IRCCS), Rome, Italy.",
+    "IFO-San Gallicano Hospital, Rome, Italy.",
+    "Dermatology Clinic, Terni, Italy.",
+    "Sant' Andrea Hospital, Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), Sapienza University of Rome, Rome, Italy.",
+    "Sant' Andrea Hospital, Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), Sapienza University of Rome, Rome, Italy.",
+    "Dermatology Unit, San Camillo Forlanini Hospital, Rome, Italy.",
+    "IDI-IRCCS, Luigi Maria Monti Foundation, Rome, Italy.",
+    "IDI-IRCCS, Luigi Maria Monti Foundation, Rome, Italy.",
+    "IDI-IRCCS, Luigi Maria Monti Foundation, Rome, Italy.",
+    "Department of Medical Sciences and Public Health, Dermatology Clinic, University of Cagliari, Cagliari, Italy.",
+    "Department of Medical Sciences and Public Health, Dermatology Clinic, University of Cagliari, Cagliari, Italy.",
+    "San Sebastiano Hospital, Frascati, Italy.",
+    "Dermatology Unit, Campus Bio-Medico University Hospital, Rome, Italy.",
+    "Dermatology Clinic, Azienda Ospedaliero-Universitaria Ospedali Riuniti, Ancona, Italy.",
+    "Dermatology Clinic, Azienda Ospedaliero-Universitaria Ospedali Riuniti, Ancona, Italy.",
+    "Unit of General and Oncologic Dermatology, San Salvatore Hospital, L'Aquila, Italy.",
+    "Section of Dermatology, Department of Translational Medicine and Surgery, Catholic University of the S. Heart, Rome, Italy.",
+    "Department of Internal Medicine and Medical Specialties, Sapienza University of Rome, Policlinico Umberto I, Rome, Italy.",
+    "Dermatology Unit, A. Fiorini Hospital, Sapienza University of Rome - Polo Pontino, Terracina, Italy.",
+    "Department of Internal Medicine and Medical Specialties, Sapienza University of Rome, Policlinico Umberto I, Rome, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41236286/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

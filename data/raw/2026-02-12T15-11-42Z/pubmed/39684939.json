@@ -1,0 +1,24 @@
+{
+  "pmid": "39684939",
+  "title": "Characterising a Novel Therapeutic Target for Psoriasis, TYK2, Using Functional Genomics.",
+  "abstract": "Psoriasis (Ps) is a debilitating immune-mediated chronic skin condition. It affects about 1-3% of the world population, with an 8-11% prevalence in Northern European populations. Tyrosine kinase 2 (TYK2) is a newly identified target for Ps. An independent non-coding genetic association with Ps has been identified ~400 kb upstream of TYK2. The variants making up the credible Ps Single-Nucleotide Polymorphism (SNP) set were identified in their genomic context with the potential to influence TYK2 expression by interacting with regulatory elements involved in gene regulation. Previous evidence from our laboratory has suggested that credible SNP sets in intronic regions can be distal regulators of the genes of interest through long-range chromatin interactions. We hypothesise that SNPs at ILF3 are distal regulators of TYK2 expression via long-range chromatin interactions and Ps risk. The dysregulation of the TYK2 pathway in Ps may be mediated by a combination of GWAS risk SNPs at ILF3 and TYK2 and downstream genes. We investigated this by employing functional genomics and molecular biology methods. We developed a CD4 T cell model system with Jurkat-dCAS9-VP64 and Jurkat-dCAS9-KRAB cells using CRISPR activation and CRISPR inhibition of the risk variants rs892086 and rs7248205, selected from the latest Ps GWAS SNP set for their long-range interaction and light Linkage Disequilibrium (R2 > 0.8), respectively. Using CRISPR activation, we demonstrate here that these risk SNPs, although distal to TYK2, do indeed regulate the TYK2 gene. Investigations into annotating the TYK2 pathway using RNA-seq analysis revealed differentially regulated genes, including VEGFA, C1R, ADORA1, GLUD2, NDUFB8, and FCGR2C, which are thought to be implicated in Ps. These genes were observed to be associated with conditions such as psoriatic arthritis, atopic dermatitis, and systemic sclerosis when compared using published databases, which confirms their relevance and importance in inflammatory conditions. With the developed cell model systems using CRISPR technology and differential gene regulation, we demonstrate here that these genes have the potential to define the TYK2/Ps pathway and our understanding of the disease biology.",
+  "pub_date": "2024-12-09",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester M13 9PT, UK.",
+    "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester M13 9PL, UK.",
+    "School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester M13 9PT, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust, Manchester M6 8HD, UK.",
+    "School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester M13 9PT, UK.",
+    "School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester M13 9PT, UK.",
+    "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester M13 9PL, UK.",
+    "School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester M13 9PT, UK.",
+    "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester M13 9PL, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust, Manchester M6 8HD, UK."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39684939/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

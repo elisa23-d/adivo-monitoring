@@ -1,0 +1,23 @@
+{
+  "pmid": "41258759",
+  "title": "Exonic Variation in HLA-C, CFB, and TAP2 Associated With Increased Risk for Comorbid Crohn's Disease and Psoriasis.",
+  "abstract": "Psoriasis (PS) and Crohn's disease (CD) are chronic immune-mediated inflammatory diseases with overlapping immunologic mechanisms. Although comorbidity is rare, epidemiologic and genetic studies have highlighted a significant association between PS and CD.\nWe performed a focused exome-wide association study (ExWAS) comparing individuals with comorbid PS and CD to healthy controls (case-control design) and to individuals with PS or CD alone (within-cases design) in the UK Biobank (UKB) and performed validation analyses in the All of Us (AoU) Research Program.\nThe exonic architecture of comorbid PS and CD more closely resembles that of PS alone. Three protein-coding variants, including two putatively functional variants and one proxy variant, were significantly associated with comorbidity: a missense variant in HLA-C (Asn104Lys), a missense variant in CFB (Gly252Ser), and a synonymous variant in TAP2. A significantly greater proportion of individuals with comorbid disease harbored at least one risk variant in all three genes (trigenic risk variant) compared to controls and PS-only individuals in both the UKB (odds ratio [OR] = 4.52, 95% confidence interval [CI] = 1.55-10.30, p = 5.8 × 10-4) and the AoU (2.44, 95% CI = 1.07-4.81, p = 0.02).\nThis study identifies novel exonic, protein-coding genetic variation associated with the comorbidity of PS and CD, in addition to identifying an association between combined carriage of three risk variants with comorbid disease compared to controls and PS alone in multiple datasets. These risk variants may serve as prognostic biomarkers and guide personalized biologic treatment strategies in affected individuals.",
+  "pub_date": "2025-11-19",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, Texas, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, New Mexico, USA.",
+    "Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, Texas, USA.",
+    "Department of Medicine, Division of Gastroenterology and Hepatology, Baylor College of Medicine, Houston, Texas, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, New Mexico, USA.",
+    "Department of Dermatology, Yale School of Medicine, New Haven, Connecticut, USA.",
+    "Department of Biomedical Informatics and Data Science, Yale School of Medicine, New Haven, Connecticut, USA.",
+    "Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, Texas, USA.",
+    "Department of Internal Medicine, University of New Mexico Health Science Center, Albuquerque, New Mexico, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41258759/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

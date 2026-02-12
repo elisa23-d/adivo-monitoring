@@ -1,0 +1,20 @@
+{
+  "pmid": "40468645",
+  "title": "A cost-effectiveness analysis of deucravacitinib vs. apremilast in moderate-to-severe psoriasis patients in Japan.",
+  "abstract": "This study aimed to evaluate the cost-effectiveness of deucravacitinib vs. apremilast as a treatment for moderate-to-severe psoriasis patients from a Japan healthcare system perspective.\nA Markov sequence model was developed, consisting of an induction phase, maintenance phase, best supportive care and death. Clinical inputs were predominantly derived from the POETYK-PSO-1 and -2 trials (NCT03624127 and NCT03611751), and cost and resource use inputs were derived from several Japanese sources, including Ministry of Health and Welfare (MHLW) data and the outputs of a Delphi survey with Japanese clinical experts. Health-related quality of life inputs were based on the change in utility associated with different levels of Psoriasis Area and Severity Index (PASI) response. Deterministic and probabilistic sensitivity analyses were conducted to account for uncertainty around the base case and several scenario analyses were performed to explore structural uncertainty related to assumptions and methodological choices.\nIn the base case, treatment with deucravacitinib results in a discounted QALY gain of 0.30 and discounted incremental costs of ¥459,771 compared to apremilast, resulting in an ICUR of ¥1,546,713 per QALY which is below the Japanese willingness to pay threshold of ¥5,000,000 per QALY. Deterministic and probabilistic sensitivity analyses support the results of the base case. The latter shows that deucravacitinib has a 97.8% probability of being cost-effective compared to apremilast at the ¥5,000,000 per QALY threshold. The outcomes of all scenarios confirmed the cost-effectiveness of deucravacitinib compared to apremilast, with deucravacitinib being dominant in one scenario.\nDeucravacitinib is cost-effective compared to apremilast in patients with moderate-to-severe plaque psoriasis in Japan, primarily driven by improvements in health-related quality of life associated with a more favorable PASI response. This conclusion is supported by extensive sensitivity and scenario analyses.",
+  "pub_date": "2025-06-17",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Executive Director, Modelling & Meta-Analysis, OPEN Health, Rotterdam, The Netherlands.",
+    "Health Economics Outcomes Research (HEOR), Market Access & Government Affairs (MAx & GA), Bristol Myers Squibb, Tokyo, Japan.",
+    "Global Health Economics and Outcomes Research, Bristol Myers Squibb, Uxbridge, UK.",
+    "Health Economics Outcomes Research (HEOR), Market Access & Government Affairs (MAx & GA), Bristol Myers Squibb, Tokyo, Japan.",
+    "Associate Market Access Consultant-SMA, OPEN Health, York, UK.",
+    "Department of Dermatology, Teikyo University, Tokyo, Japan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40468645/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

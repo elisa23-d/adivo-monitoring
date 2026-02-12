@@ -1,0 +1,29 @@
+{
+  "pmid": "41629128",
+  "title": "Comparative effectiveness and persistence of ixekizumab and other b/tsDMARDs in patients with PsA from a real-world setting: 12-month results from the PRO-SPIRIT study.",
+  "abstract": "This prespecified interim analysis of the PRO-SPIRIT observational study compares the effectiveness and persistence of ixekizumab (IXE) with other biologic or targeted synthetic disease-modifying antirheumatic drugs (b/tsDMARDs) among patients with psoriatic arthritis (PsA) after 12 months of real-world treatment.\nData were collected from a multinational cohort (n=1192) initiating IXE or other b/tsDMARDs. Comparative effectiveness between IXE and other b/tsDMARDs was assessed using frequentist model averaging, with multiple imputation for missing data. Pairwise comparisons were performed between IXE and tumour necrosis factor inhibitors (TNFi), secukinumab (SEC), Janus kinase inhibitors and pooled interleukin (IL)-12/23i & IL-23i groups.\nAt month 12, IXE-treated patients displayed improvement in clinical Disease Activity in PsA index (cDAPSA) and body surface area (BSA) and the highest remission rate (cDAPSA score≤4; 18.8%). Versus pooled IL-12/23i and IL-23i, IXE patients were more likely to achieve cDAPSA remission (OR 2.0 (95% CI 1.2 to 6.0)) or very low disease activity (VLDA; OR 2.5 (1.1 to 13.6)), with greater pain reduction (least squares mean (LSM) (95% CI) -7.3 (-13.2 to -0.7)). Compared with TNFi, IXE patients exhibited greater BSA improvement (LSM (95% CI) -0.9 (-1.4 to -0.1)). IXE and SEC results were similar; most SEC patients received the 300 mg dose. Persistence rates were similar across groups, with varying reasons for discontinuation.\nIXE patients had significantly greater odds of achieving cDAPSA remission and VLDA, plus greater pain reduction versus the pooled IL-12/23i and IL-23i group, with significant improvements in BSA versus TNFi. Treatment persistence was similar among all b/tsDMARDs.",
+  "pub_date": "2026-02-02",
+  "publication_types": [
+    "Journal Article",
+    "Observational Study",
+    "Comparative Study",
+    "Multicenter Study"
+  ],
+  "affiliations": [
+    "NIHR Leeds Biomedical Research Centre, The Leeds Teaching Hospitals NHS Trust & Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, Leeds, UK.",
+    "Rheumazentrum Ruhrgebiet Herne, Ruhr University Bochum Claudiusstr, Herne, Germany.",
+    "Rheumatology and Clinical Immunology Unit, IRCCS Humanitas Research Hospital, Humanitas University, Milan, Italy.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Hospital Don Benito-Villanueva, Don Benito, Spain.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "University of Toronto, Toronto, Ontario, Canada.",
+    "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Botnar Research Centre, University of Oxford, Oxford, UK laura.coates@ndorms.ox.ac.uk."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41629128/",
+  "snapshot_id": "2026-02-12T15-21-04Z",
+  "ingested_at": "2026-02-12T15:21:06.169368+00:00"
+}

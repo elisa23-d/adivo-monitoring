@@ -1,0 +1,28 @@
+{
+  "pmid": "41499137",
+  "title": "Drug Survival of Biologics in Bionaive and Bioexperienced Patients With Psoriasis.",
+  "abstract": "Drug survival is an important measure to help guide treatment selection. However, clinical evidence for newer biologics, including bimekizumab, is limited.\nTo determine the drug survival of biologics used for treating psoriasis in a routine clinical practice setting.\nThis cohort study was based on data from the DERMBIO registry, which includes all patients treated with biologics for psoriasis in Denmark. All adult patients enrolled in DERMBIO from its inception in May 2007 until June 2025 were assessed for eligibility. Data were extracted in June 2025 and analyzed separately among those without previous biologic exposure (bionaive patients) and those with previous biologic exposure (bioexperienced patients).\nAdalimumab, secukinumab, and ustekinumab among bionaive patients and adalimumab, bimekizumab, brodalumab, guselkumab, ixekizumab, risankizumab, secukinumab, and ustekinumab among bioexperienced patients.\nThe main outcome was standardized absolute risks of treatment discontinuation at 1, 2, and 5 years. Kaplan-Meier estimator was used to determine crude drug survival estimates and the Aalen-Johansen estimator was used to determine crude cause-specific absolute risks.\nThe study included 4438 unique patients with psoriasis (2717 [61.2%] male; mean [SD] age, 45.0 [14.6] years at the time of their first treatment included in the study), 1039 (23.4%) of whom had comorbid psoriatic arthritis. A total of 3790 treatment series from bionaive patients were analyzed: 2646 were with adalimumab, 377 with secukinumab, and 767 with ustekinumab. The 5-year standardized risk of discontinuing ustekinumab was 0.37 (95% CI, 0.33-0.41), which was significantly lower than the standardized risks for adalimumab (0.51; 95% CI, 0.49-0.54) and secukinumab (0.54; 95% CI, 0.48-0.60). A total of 3403 treatment series from bioexperienced patients were analyzed: 790 were with adalimumab, 376 with bimekizumab, 192 with brodalumab, 218 with guselkumab, 556 with ixekizumab, 78 with risankizumab, 466 with secukinumab, and 727 with ustekinumab. The 2-year standardized absolute risk of discontinuing ustekinumab was 0.39 (95% CI, 0.36-0.43). Only bimekizumab (0.27; 95% CI, 0.20-0.34), guselkumab (0.29; 95% CI, 0.22-0.36), and risankizumab (0.25; 95% CI, 0.15-0.36) were associated with a significantly lower standardized absolute risk of discontinuation compared with ustekinumab.\nIn this cohort study in Denmark, among bionaive patients with psoriasis, ustekinumab had superior drug survival compared with adalimumab and secukinumab, and among bioexperienced patients with psoriasis, bimekizumab, guselkumab, and risankizumab had superior drug survival. These results offer insight into the performance of different biologics in the treatment of psoriasis in a routine clinical practice setting.",
+  "pub_date": "2026-01-07",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark.",
+    "Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark.",
+    "Department of Dermatology, Zealand University Hospital, Roskilde, Denmark.",
+    "Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.",
+    "Department of Dermatology, Copenhagen University Hospital-Bispebjerg, Copenhagen, Denmark.",
+    "Department of Dermatology, Odense University Hospital, Odense, Denmark.",
+    "Department of Dermatology, Aarhus University Hospital, Aarhus, Denmark.",
+    "Department of Dermatology, Aalborg University Hospital, Aalborg, Denmark.",
+    "Dermatology Clinic, Nykoebing Falster, Denmark.",
+    "Department of Dermatology, Aarhus University Hospital, Aarhus, Denmark.",
+    "Department of Dermatology, Aarhus University Hospital, Aarhus, Denmark.",
+    "Department of Dermatology and Allergy, Copenhagen University Hospital-Herlev and Gentofte, Copenhagen, Denmark.",
+    "Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41499137/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

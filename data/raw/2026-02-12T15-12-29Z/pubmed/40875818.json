@@ -1,0 +1,37 @@
+{
+  "pmid": "40875818",
+  "title": "SPECTREM phase IIIb clinical trial results through week 16: guselkumab efficacy and safety for the treatment of low body surface area, moderate psoriasis with high-impact site involvement.",
+  "abstract": "Patients with psoriasis affecting a low percentage of their body surface area (BSA) are under-represented in clinical studies and may face substantial disease burden if high-impact sites are affected.\nTo evaluate in a phase IIIb randomized placebo-controlled study (SPECTREM; NCT06039189) the efficacy and safety of guselkumab in participants with low BSA (2-15%), moderate [Investigator's Global Assessment (IGA) = 3] plaque psoriasis involving one or more high-impact site (scalp, face, genitals, intertriginous areas).\nEligible participants were randomized 2 : 1 to receive guselkumab 100 mg or placebo at week 0 and week 4, then every 8 weeks. The primary endpoint was the proportion of participants achieving IGA 0/1 (cleared/minimal) at week 16. Major secondary endpoints included the proportion of participants achieving ≥ 90% improvement in Psoriasis Area and Severity Index (PASI 90), IGA 0 and 100% improvement in PASI (PASI 100); mean percentage improvements from baseline to week 16 in BSA and PASI; and proportions of participants achieving site-specific IGA or Physician's Global Assessment (PGA) 0/1 among those with scalp, facial, genital or intertriginous site-specific IGA/PGA ≥ 3 at baseline.\nAmong the 338 randomized participants (guselkumab, n = 225; placebo, n = 113), mean (SD) baseline BSA was 7.6% (3.7) and PASI was 9.0 (3.8). At week 16, all primary and major secondary endpoints were met, with guselkumab demonstrating superiority vs. placebo (all P < 0.001) in the proportions of participants achieving IGA 0/1 (74.2% vs. 12.4%), IGA 0 (40.4% vs. 3.5%), PASI 90 (52.9% vs. 6.2%) and PASI 100 (32.4% vs. 2.7%), and mean percentage improvement from baseline in BSA (80.6% vs. 6.1%) and PASI (82.6% vs. 13.7%). Site-specific IGA/PGA 0/1 response rates for guselkumab vs. placebo were as follows: scalp 75.0% (n = 114/152) vs. 14.5% (n = 11/76); face 87.8% (n = 79/90) vs. 28.6% (n = 12/42); genital 78.0% (n = 64/82) vs. 37.5% (n = 15/40) and intertriginous 86.5% (n = 96/111) vs. 28.8% (n = 15/52). In the guselkumab and placebo groups, respectively, 37.8% and 39.8% experienced one or more adverse event; no new safety signals were identified.\nThrough week 16, guselkumab was effective and well tolerated in participants with low BSA, moderate plaque psoriasis with involvement of high-impact sites. Statistically significant improvements across multiple clearance measures, irrespective of baseline BSA, support the effectiveness of guselkumab across a broad range of patients.",
+  "pub_date": "2026-01-06",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Randomized Controlled Trial",
+    "Multicenter Study"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Henry Ford Medical Center, West Bloomfield, MI, USA.",
+    "Department of Dermatology, UT Southwestern Medical Center, Dallas, TX, USA.",
+    "Department of Dermatology, University of California Los Angeles, Los Angeles, CA, USA.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Innovaderm Research, Montreal, QC, Canada.",
+    "Division of Dermatology, Department of Medicine, Dalhousie University, Halifax, NS, Canada.",
+    "Laboratory for Investigative Dermatology, The Rockefeller University, New York, NY, USA.",
+    "Alliance Clinical Trials and Probity Medical Research, Waterloo, ON, Canada.",
+    "Division of Dermatology, Temetry Faculty of Medicine, University of Toronto, Toronto, ON, Canada.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Johnson & Johnson, Toronto, ON, Canada.",
+    "Johnson & Johnson, Horsham and Spring House, PA, USA.",
+    "Department of Dermatology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+    "Department of Dermatology, UT Southwestern Medical Center, Dallas, TX, USA.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Department of Dermatology, Yale University School of Medicine, New Haven, CT, USA.",
+    "Central Connecticut Dermatology Research, Cromwell, CT, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40875818/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

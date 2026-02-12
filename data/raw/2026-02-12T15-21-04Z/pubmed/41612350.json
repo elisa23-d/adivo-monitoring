@@ -1,0 +1,29 @@
+{
+  "pmid": "41612350",
+  "title": "Exploring clusters based on ultrasound-detected inflammation in patients with psoriatic arthritis: a post-hoc analysis from the ULTIMATE trial.",
+  "abstract": "Psoriatic arthritis (PsA) is characterized by heterogeneous musculoskeletal manifestations. The aim of this post-hoc cluster analysis from the ULTIMATE study was to explore whether objective assessment of inflammation, using power-Doppler ultrasound (PDUS), identified homogeneous groups of patients based on the level of severity of ultrasound-detected synovitis and then to determine the longitudinal trajectory of response with secukinumab vs. placebo for each cluster up to week 12.\nThe ULTIMATE study enrolled patients with PsA and active clinical and PDUS synovitis. Patients were randomized to either secukinumab 150 or 300 mg, according to psoriasis severity, or placebo for the first 12 weeks. Multiple factor analysis was performed on baseline B-mode and power Doppler (PD) signal core components of the composite Global EULAR-OMERACT synovitis score (GLOESS) at joint level.\nThree clusters were identified from all patients enrolled in the ULTIMATE study (N = 166), with 49 (30%), 54 (33%), and 63 (38%) patients assigned to clusters 1, 2, and 3, respectively. Higher GLOESS PDUS scores (± standard deviation) were observed in clusters 2 (35 ± 18) and 3 (30 ± 11) than cluster 1 (10 ± 6). While the B-mode core components of GLOESS were higher in clusters 2 (34 ± 18) and 3 (29 ± 11) than cluster 1 (10 ± 6), the PD signal core component was higher in cluster 2 (13 ± 10) than clusters 1 (5 ± 3) and 3 (5 ± 4). Overall, the pattern of distribution of PDUS-detected synovitis showed heterogeneity, with a predominance on small joints in cluster 2, more diffuse across small and large joints in cluster 3 and low frequency in small joints and knees in cluster 1. Change in GLOESS from baseline to week 12 showed a numerical trend toward a treatment difference favoring secukinumab vs. placebo in all three clusters.\nThree clusters of patients were identified by ultrasound highlighting the heterogeneity of a typical PsA trial population. The addition of ultrasound to complement clinical assessment of swollen joints may help in better selecting active patients for inclusion in PsA clinical trials, thereby limiting the variability of the therapeutic response usually observed.\nClinicalTrials.gov (identifier: NCT02662985; date: 26/01/2016).\nThe online version contains supplementary material available at 10.1186/s12891-025-09434-w.",
+  "pub_date": "2026-01-30",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "heDepartment of Rumatology, Catholic University of Sacred Heart, Roma, Italy. mariaantonietta.dagostino@unicatt.it.",
+    "NIHR Leeds Biomedical Research Centre, University of Leeds, Leeds, UK.",
+    "Novartis Pharma AG, Basel, Switzerland.",
+    "Department of Epidemiology and Data Science, Amsterdam Rheumatology and Immunology Center, Amsterdam UMC, Vrije Universiteit, Amsterdam, The Netherlands.",
+    "Department of Rheumatology and Joint and Bone Research Unit, Hospital Fundación, Jiménez Díaz and Autónoma University, Madrid, Spain.",
+    "Division of Rheumatology, Medical University of Vienna, Vienna, Austria.",
+    "Department of Rheumatology, University Hospital Ghent, Ghent, Belgium.",
+    "PSOAPS Psoriasis Clinical and Research Center, Guadalajara, Mexico.",
+    "Department of Rheumatology, General Hospital of Mexico, Ciudad de Mexico, Mexico.",
+    "Rheumatology Unit, Internal Medical Services, University Institute, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.",
+    "Intermountain Healthcare, Salt Lake City, US.",
+    "Rheumatology Unit, Instituto de Rehabilitación Psicofísica, Echeverria 955, Buenos Aires, Argentina.",
+    "Novartis Pharmaceuticals Corporation, East Hanover, US.",
+    "Novartis Pharma AG, Basel, Switzerland.",
+    "Department of Internal Medicine 3 - Rheumatology and Immunology, Universitätsklinikum Erlangen, Erlangen, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41612350/",
+  "snapshot_id": "2026-02-12T15-21-04Z",
+  "ingested_at": "2026-02-12T15:21:06.169368+00:00"
+}

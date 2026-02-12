@@ -1,0 +1,16 @@
+{
+  "pmid": "41189198",
+  "title": "Emerging biological therapies for psoriatic arthritis: A systematic review.",
+  "abstract": "Psoriatic arthritis (PsA) is a chronic inflammatory condition characterized by joint involvement, enthesitis, dactylitis, and skin psoriasis. The pathophysiology of PsA is complex, driven by dysregulated immune responses, making targeted therapies essential for managing symptoms. Despite the success of biologic disease-modifying anti-rheumatic drugs (bDMARDs) like tumor necrosis factor (TNF) inhibitors, many patients experience suboptimal responses or adverse effects, necessitating the development of new therapies. Emerging biologics targeting interleukin (IL)-17, IL-23, and Janus kinase (JAK) pathways offer promising alternatives. This review aims to evaluate the efficacy and safety of emerging biologics for PsA.\nA systematic review of studies published from 2000 to December 2024 was conducted. Randomized controlled trials (RCTs), cohort studies, and clinical trials were included to assess the efficacy, safety, and adverse effects of bDMARDs and targeted synthetic DMARDs (tsDMARDs) for PsA treatment. Studies focusing on other aspects of psoriasis or nonpharmacological treatments were excluded. Key data extracted included study design, treatment type, efficacy measures (e.g., ACR response), and safety outcomes.\nA total of 20 studies involving 77,124 participants were reviewed. Biologic DMARDs such as TNF inhibitors, IL-17 inhibitors (e.g., secukinumab, ixekizumab), and IL-23 inhibitors (e.g., guselkumab) showed high efficacy in managing both joint and skin symptoms. Emerging therapies like bimekizumab (targeting IL-17A and IL-17F) demonstrated enhanced efficacy compared to traditional biologics. Conventional DMARDs, such as cyclosporine and leflunomide, were less effective but still showed moderate benefits. Safety profiles were generally favorable, with biologics showing fewer adverse effects than conventional therapies.\nEmerging biologics have significantly advanced the management of PsA, offering greater efficacy and safety compared to conventional DMARDs. IL-17 and IL-23 inhibitors, along with newer agents like bimekizumab, present promising treatment options for patients with inadequate responses to TNF inhibitors. Personalized treatment strategies, based on disease phenotype and individual patient needs, are essential for optimizing outcomes in PsA management. Further research into long-term efficacy and safety is required to refine treatment protocols and improve patient outcomes.",
+  "pub_date": "2025-10-17",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "affiliations": [
+    "Department of Medicine, Ibn e Seena Hospital, Kabul, Afghanistan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41189198/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

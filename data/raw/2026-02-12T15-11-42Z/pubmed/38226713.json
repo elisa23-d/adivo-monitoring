@@ -1,0 +1,32 @@
+{
+  "pmid": "38226713",
+  "title": "Deucravacitinib in plaque psoriasis: 2-year safety and efficacy results from the phase III POETYK trials.",
+  "abstract": "In the phase III POETYK PSO-1 and PSO-2 trials, deucravacitinib, an oral selective allosteric tyrosine kinase 2 inhibitor, was well tolerated and efficacious over 1 year in patients with psoriasis.\nTo evaluate deucravacitinib safety and efficacy over 2 years in patients participating in the phase III trials.\nIn the POETYK long-term extension (LTE), an ongoing phase IIIb open-label trial, adults with moderate-to-severe plaque psoriasis who completed PSO-1 or PSO-2 receive deucravacitinib 6 mg once daily. Safety was assessed via adverse events (AEs) and laboratory parameter abnormalities. Efficacy endpoints, including ≥ 75% reduction from baseline Psoriasis Area and Severity Index score (PASI 75) and static Physician's Global Assessment (sPGA) score of 0/1 (clear/almost clear), were evaluated in patients originally randomized to deucravacitinib, patients who crossed over from placebo at week 16 and patients who achieved PASI 75 at week 24 (peak efficacy).\nAt data cutoff (1 October 2021), 1519 patients had received at least one dose of deucravacitinib; 79.0% and 39.9% had ≥ 52 weeks and ≥ 104 weeks of total deucravacitinib exposure, respectively. Exposure-adjusted incidence rates (EAIRs) per 100 person-years were similar at 1 year and 2 years for any AEs (229.2 vs. 154.4, respectively), serious AEs (5.7 vs. 6.1), discontinuations (4.4 vs. 2.8), deaths (0.2 vs. 0.4), serious infections (1.7 vs. 2.6), herpes zoster (0.9 vs. 0.8), major adverse cardiovascular events (0.3 vs. 0.4), venous thromboembolic events (0.2 vs. 0.1) and malignancies (1.0 vs. 0.9). EAIRs for COVID-19 infections were higher at 2 years than at 1 year (5.1 vs. 0.5) owing to the peak of the global COVID-19 pandemic occurring during the LTE. No clinically meaningful changes from baseline or trends were observed over 2 years in haematological, chemistry or lipid parameters. Clinical responses were maintained in patients who received continuous deu-cravacitinib treatment from baseline [PASI 75: week 52, 72.4%; week 112, 79.7%; sPGA 0/1: week 52, 57.9%; week 112, 61.1% (as observed)]. Responses at week 52 were also maintained in placebo crossovers and in week-24 PASI-75 responders.\nDeucravacitinib maintained efficacy and demonstrated consistent safety with no new safety signals observed through 2 years.",
+  "pub_date": "2024-04-17",
+  "publication_types": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust, Manchester, UK.",
+    "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.",
+    "University of California Los Angeles, David Geffen School of Medicine, Los Angeles, CA, USA.",
+    "Fukuoka University Hospital, Fukuoka, Japan.",
+    "Toulouse University and CHU, Toulouse, France.",
+    "Wroclaw Medical University, Wroclaw, Poland.",
+    "Veracity Clinical Research, Brisbane, QLD, Australia.",
+    "Université Côte d'Azur, University Hospital of Nice, Nice, France.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Cytel Inc, Waltham, MA, USA.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Institute and Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany.",
+    "Oregon Medical Research Center, Portland, OR, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38226713/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

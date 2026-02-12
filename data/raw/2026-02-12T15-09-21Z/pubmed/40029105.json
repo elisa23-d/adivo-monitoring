@@ -1,0 +1,20 @@
+{
+  "pmid": "40029105",
+  "title": "A Physiologically Based Pharmacokinetic Model of an Oral Tyrosine Kinase 2 Inhibitor Deucravacitinib in Healthy Adults.",
+  "abstract": "This study presents the first physiologically based pharmacokinetic (PBPK) model for deucravacitinib, a novel oral selective tyrosine kinase 2 (TYK2) inhibitor approved for treating moderate-to-severe plaque psoriasis. Using GastroPlus, we developed and validated a comprehensive PBPK model incorporating multiple elimination pathways and enterohepatic circulation. The model was calibrated using single-dose pharmacokinetic data (3-40 mg) from healthy adults and validated against external datasets from multiple clinical studies across different populations. Model predictions demonstrated strong agreement with observed data, with simulated/observed ratios for the area under the curve (AUC) and maximum plasma concentration (Cmax) consistently falling within 0.5-2.0 across all dosing regimens. Linear regression analysis showed a robust correlation between simulated and observed plasma concentrations for both single (R2 ≈ 0.78) and multiple (R2 ≈ 0.77) dosing scenarios. While the model accurately predicted early-phase pharmacokinetics and exposure metrics, slight underestimation was observed during the terminal elimination phase. The successful validation across Western and Chinese populations demonstrates the capability of the model to account for population-specific physiological differences. This validated PBPK model provides a mechanistic framework for investigating deucravacitinib pharmacokinetics in various clinical scenarios and could support future investigations in special populations, particularly those with renal or hepatic impairment where significant exposure changes have been observed clinically.",
+  "pub_date": "2025-03-03",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Environmental and Global Health, College of Public Health and Health Professions, University of Florida, Gainesville, FL, USA.",
+    "Center for Environmental and Human Toxicology, University of Florida, Gainesville, FL, USA.",
+    "Center for Pharmacometrics and Systems Pharmacology, University of Florida, Orlando, FL, USA.",
+    "Department of Environmental and Global Health, College of Public Health and Health Professions, University of Florida, Gainesville, FL, USA.",
+    "Center for Environmental and Human Toxicology, University of Florida, Gainesville, FL, USA.",
+    "Center for Pharmacometrics and Systems Pharmacology, University of Florida, Orlando, FL, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40029105/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

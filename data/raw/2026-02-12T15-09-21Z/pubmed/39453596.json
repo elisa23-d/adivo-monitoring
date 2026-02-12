@@ -1,0 +1,21 @@
+{
+  "pmid": "39453596",
+  "title": "Matching-Adjusted Indirect Comparison of Risankizumab Versus Deucravacitinib in Patients with Moderate-to-Severe Plaque Psoriasis.",
+  "abstract": "Despite advancements in the treatment of psoriasis (PsO), there are few head-to-head studies assessing comparative effectiveness of the newest therapies approved to treat PsO. Our objective was to assess the comparative clinical effectiveness of risankizumab and deucravacitinib in patients with moderate-to-severe PsO.\nThis placebo-anchored matching-adjusted indirect comparison (MAIC) analysis utilized data from UltIMMa-1/2 risankizumab and POETYK PSO-1/2 deucravacitinib trials. Individual patient data from UltiMMA-1/2 were weighted via propensity score to match POETYK PSO-1/2 published summary data. Rate differences between risankizumab and deucravacitinib were assessed for Psoriasis Area and Severity Index (PASI) 75/90/100, the Static Physician Global Assessment (sPGA = 0 or 0/1), and the Dermatology Life Quality Index (DLQI) 0/1.\nAt 16 weeks, risankizumab-treated patients demonstrated statistically significantly higher rates of skin clearance and greater improvement in quality of life (QoL) compared to those treated with deucravacitinib. Across all outcomes, risankizumab demonstrated a lower number needed to treat compared to deucravacitinib. Limitations are potential bias due to unobserved/unmeasurable differences and limited generalizability of the results.\nThis indirect comparison demonstrates that risankizumab has higher rates of skin clearance and greater improvements in QoL than deucravacitinib. This study will help inform healthcare providers in their treatment and management strategy of PsO.",
+  "pub_date": "2024-10-25",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Keck School of Medicine, University of Southern California, 1450 San Pablo St #5400, Los Angeles, CA, 90033, USA. aprilarmstrong@post.harvard.edu.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "Department of Medicine, Section of Dermatology and Venereology, University of Verona, Verona, Italy.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "Department of Dermatology, Yale University, New Haven, CT, USA.",
+    "Central Connecticut Dermatology, Cromwell, CT, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39453596/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "41156163",
+  "title": "Super Responders in Plaque Psoriasis: A Real-World, Multi-Agent Analysis Showing Bimekizumab Associated with the Highest Odds of PASI = 0 at Week 12.",
+  "abstract": "Introduction: Super responders (SRs)-patients achieving complete skin clearance (PASI = 0) soon after biologic initiation-represent a clinically relevant but underexplored phenotype. This study is one of the first real-world, multi-agent analyses comparing SR likelihood across biologic classes in plaque psoriasis. We assessed whether biologic choice predicts SR in routine clinical practice. Methods: We performed a retrospective, single-center study of 116 adults with moderate-to-severe plaque psoriasis initiating their first biologic (adalimumab, tildrakizumab, guselkumab, risankizumab, bimekizumab, or secukinumab). SR was defined as PASI = 0 at week 12. SR proportions (exact 95% CIs) were compared using Fisher's exact tests and odds ratios (ORs). Multivariable logistic regression estimated adjusted associations between biologic and SR, controlling for age, sex, disease duration, BMI, baseline PASI, and prior cyclosporine/acitretin. Sensitivity analyses included Firth bias-reduced regression, the exclusion of sparse drug strata, and an alternative endpoint (PASI ≤ 1 at week 12). Results: Overall, 26/116 patients (22.4%) achieved SR. SR proportions differed by agent, highest with bimekizumab (11/17; 64.7%); Fisher's p < 0.001 vs. others; OR = 12.83 (95% CI 4.17-39.50). In adjusted models, bimekizumab remained independently associated with SR (adjusted OR = 17.30; 95% CI 4.62-64.82; p = 2.35 × 10-5), while other covariates were not significant. Conclusions: In this real-world cohort, biologic selection-particularly bimekizumab-was the main determinant of early complete clearance. These findings highlight mechanistic class as a key driver of rapid, deep responses and support prospective validation with harmonized SR definitions and extended follow-up.",
+  "pub_date": "2025-10-16",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Clinical Department of Dermatology, Medical University of Silesia, 41-800 Zabrze, Poland.",
+    "Clinical Department of Dermatology, Medical University of Silesia, 41-800 Zabrze, Poland.",
+    "Clinical Department of Dermatology, Medical University of Silesia, 41-800 Zabrze, Poland.",
+    "Clinical Department of Dermatology, Medical University of Silesia, 41-800 Zabrze, Poland."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41156163/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "38895380",
+  "title": "TYK2 as a novel therapeutic target in Alzheimer's Disease with TDP-43 inclusions.",
+  "abstract": "Neuroinflammation is a pathological feature of many neurodegenerative diseases, including Alzheimer's disease (AD)1,2 and amyotrophic lateral sclerosis (ALS)3, raising the possibility of common therapeutic targets. We previously established that cytoplasmic double-stranded RNA (cdsRNA) is spatially coincident with cytoplasmic pTDP-43 inclusions in neurons of patients with C9ORF72-mediated ALS4. CdsRNA triggers a type-I interferon (IFN-I)-based innate immune response in human neural cells, resulting in their death4. Here, we report that cdsRNA is also spatially coincident with pTDP-43 cytoplasmic inclusions in brain cells of patients with AD pathology and that type-I interferon response genes are significantly upregulated in brain regions affected by AD. We updated our machine-learning pipeline DRIAD-SP (Drug Repurposing In Alzheimer's Disease with Systems Pharmacology) to incorporate cryptic exon (CE) detection as a proxy of pTDP-43 inclusions and demonstrated that the FDA-approved JAK inhibitors baricitinib and ruxolitinib that block interferon signaling show a protective signal only in cortical brain regions expressing multiple CEs. Furthermore, the JAK family member TYK2 was a top hit in a CRISPR screen of cdsRNA-mediated death in differentiated human neural cells. The selective TYK2 inhibitor deucravacitinib, an FDA-approved drug for psoriasis, rescued toxicity elicited by cdsRNA. Finally, we identified CCL2, CXCL10, and IL-6 as candidate predictive biomarkers for cdsRNA-related neurodegenerative diseases. Together, we find parallel neuroinflammatory mechanisms between TDP-43 associated-AD and ALS and nominate TYK2 as a possible disease-modifying target of these incurable neurodegenerative diseases.",
+  "pub_date": "2024-06-06",
+  "publication_types": [
+    "Journal Article",
+    "Preprint"
+  ],
+  "affiliations": [
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Broad Institute of MIT and Harvard, 75 Ames Street, Cambridge, MA 02142, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Broad Institute of MIT and Harvard, 75 Ames Street, Cambridge, MA 02142, USA.",
+    "Laboratory of Systems Pharmacology, Harvard Program in Therapeutic Science, Harvard Medical School, Armenise 132, 200 Longwood Avenue, Boston, MA 02115, USA.",
+    "Department of Neurology, Massachusetts General Hospital, 114 16 Street, Charlestown, MA 02129, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38895380/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

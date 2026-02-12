@@ -1,0 +1,19 @@
+{
+  "pmid": "37863021",
+  "title": "Allosteric TYK2 inhibition: redefining autoimmune disease therapy beyond JAK1-3 inhibitors.",
+  "abstract": "JAK inhibitors impact multiple cytokine pathways simultaneously, enabling high efficacy in treating complex diseases such as cancers and immune-mediated disorders. However, their broad reach also poses safety concerns, which have fuelled a demand for increasingly selective JAK inhibitors. Deucravacitinib, a first-in-class allosteric TYK2 inhibitor, represents a remarkable advancement in the field. Rather than competing at kinase domain catalytic sites as classical JAK1-3 inhibitors, deucravacitinib targets the regulatory pseudokinase domain of TYK2. It strikingly mirrors the functional effect of an evolutionary conserved naturally occurring TYK2 variant, P1104A, known to protect against multiple autoimmune diseases yet provide sufficient TYK2-mediated cytokine signalling required to prevent immune deficiency. The unprecedentedly high functional selectivity and efficacy-safety profile of deucravacitinib, initially demonstrated in psoriasis, combined with genetic support, and promising outcomes in early SLE clinical trials make this inhibitor ripe for exploration in other autoimmune diseases for which better, safe, and efficacious treatments are urgently needed.",
+  "pub_date": "2023-10-18",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "affiliations": [
+    "Department of Clinical Medicine, Aarhus University Hospital, Aarhus 8200, Denmark.",
+    "Nuffield Department of Clinical Neurosciences, Oxford Centre for Neuroinflammation, John Radcliffe Hospital, University of Oxford, Oxford OX3 9DU, UK.",
+    "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Kennedy Institute for Rheumatology, Botnar Research Institute, University of Oxford, Oxford OX3 7LD, UK.",
+    "Department of Clinical Medicine, Aarhus University Hospital, Aarhus 8200, Denmark; Nuffield Department of Clinical Neurosciences, Oxford Centre for Neuroinflammation, John Radcliffe Hospital, University of Oxford, Oxford OX3 9DU, UK; MRC Human Immunology Unit, John Radcliffe Hospital, University of Oxford, Oxford OX3 9DS, UK. Electronic address: lars.fugger@ndcn.ox.ac.uk."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37863021/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

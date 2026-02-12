@@ -1,0 +1,21 @@
+{
+  "pmid": "38169994",
+  "title": "Bibliometric analysis and description of research trends on T cells in psoriasis over the past two decades (2003-2022).",
+  "abstract": "It is now understood that T cells play a key role in the occurrence and development of psoriasis. Herein, a bibliometric analysis was conducted to summarize the content and trends of T cell-related research in psoriasis.\nA bibliometric analysis was conducted on publications pertaining to T cells in psoriasis between 2003 and 2022 retrieved from the Web of Science Core Collection (WoSCC) database using tools such as CiteSpace, the Bibliometrix R package, and VOSviewer.\nThe study included a total of 3595 articles authored by 14,188 individuals, including all coauthors in article bylines. The Laboratory for Investigative Dermatology at Rockefeller University, led by James G Krueger, has made significant contributions to this field through focusing on the pathogenesis of psoriasis and exploring the potential of using biological agents to treat psoriasis. Furthermore, targeted inhibitors have significantly impacted the treatment of psoriasis, with researchers focusing on small-molecule targeted drugs as a new area of research that could potentially replace biological agents.\nResearch has established the efficacy and long-term safety of targeted inhibition of T cell-related targets. Deucravacitinib, a psoriasis treatment drug targeting TYK2 as an allosteric inhibitor, has attracted significant attention and raised high expectations.",
+  "pub_date": "2023-12-10",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Graduate school, Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
+    "Graduate school, Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
+    "Graduate school, Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
+    "Graduate school, Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
+    "Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.",
+    "Dermatology department, Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, Tianjin, China.",
+    "Dermatology department, Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, Tianjin, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38169994/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

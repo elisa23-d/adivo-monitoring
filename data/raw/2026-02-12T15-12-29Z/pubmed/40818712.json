@@ -1,0 +1,30 @@
+{
+  "pmid": "40818712",
+  "title": "Comparative Molecular Analysis of IL-17A and IL-23 Pathway Inhibition in Moderate-to-Severe Psoriasis: 4-Week Results from IXORA-R.",
+  "abstract": "Ixekizumab (IXE), an IL-17A antagonist, and guselkumab (GUS), an IL-23p19 antagonist, are common psoriasis treatments. This longitudinal analysis assessed gene expression profiles in IXE- and GUS-treated patients with plaque psoriasis through week 4. In IXORA-R (NCT03573323), a head-to-head phase 4 study, adults with moderate-to-severe plaque psoriasis were assigned 1:1 to receive IXE or GUS. RNA expression was assessed in lesional tissue (n=72) from IXE-treated patients, GUS-treated patients, and healthy control groups (199 samples in total). Empirical Bayes was used to model RNA-sequencing data; differential expression was analyzed by tissue type, treatment, and time point, correcting for random effects. At week 1, lesions from IXE-treated patients had greater numbers of differentially expressed genes (392 upregulated, 696 downregulated) than those from GUS-treated patients (0 upregulated 0 downregulated). By week 4, the numbers of differentially expressed genes increased in both groups (IXE: 1882 upregulated, 1649 downregulated; GUS: 318 upregulated, 131 downregulated). Molecular shifts from baseline to week 4 occurred earlier with greater magnitude in IXE- than in GUS-treated patients. Rapid normalization of transcriptomic changes in patients receiving an IL-17A antagonist reflected downregulation of key inflammatory genes in psoriatic epidermis. Differentially expressed genes involved in epidermal IL-17A and IL-36 responses correlated with PASI 100 response.",
+  "pub_date": "2025-08-15",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "The Rockefeller University Hospital, The Rockefeller University, New York, New York, USA.",
+    "Department of Dermatology, Michigan Medicine, University of Michigan, Ann Arbor, Michigan, USA.",
+    "The Rockefeller University Hospital, The Rockefeller University, New York, New York, USA.",
+    "Oregon Medical Research Center, Portland, Oregon, USA.",
+    "Alliance Clinical Trials and Probity Medical Research, Waterloo, Canada; Division of Dermatology, Department of Medicine, University of Toronto, Toronto, Canada.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA. Electronic address: david.gemperline@lilly.com.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "Net2Source, Somerset, Indiana, USA.",
+    "Eli Lilly and Company, Indianapolis, Indiana, USA.",
+    "The Rockefeller University Hospital, The Rockefeller University, New York, New York, USA.",
+    "Department of Dermatology, Michigan Medicine, University of Michigan, Ann Arbor, Michigan, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40818712/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

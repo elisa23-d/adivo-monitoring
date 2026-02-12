@@ -1,0 +1,25 @@
+{
+  "pmid": "41575605",
+  "title": "Evaluating Risankizumab's Long-Term Effects in Psoriasis Using Optical Coherence Tomography.",
+  "abstract": "Psoriasis is a chronic inflammatory disease associated with multiple systemic comorbidities and reduced quality of life. Risankizumab, an interleukin (IL)-23 inhibitor, has demonstrated efficacy in achieving rapid and sustained skin clearance in moderate-to-severe psoriasis. However, its impact on chronic subclinical inflammation is less understood. Conventional clinical assessments like Psoriasis Area and Severity Index (PASI), Investigator's Global Assessment (IGA), and Body Surface Area (BSA) focus on evaluating visible symptoms and are limited in capturing underlying disease activity. Optical coherence tomography (OCT), a non-invasive imaging modality, offers real-time assessment of structural and vascular changes, providing valuable insights beyond the skin surface.\nThis sub-analysis of a prospective, single-center exploratory study included 22 patients with moderate-to-severe psoriasis treated with risankizumab. Clinical assessments (PASI, IGA, BSA) were conducted at baseline and weeks 2, 4, 16, 28, 40, and 52. OCT imaging performed at baseline and weeks 4, 16, and 52 evaluated epidermal thickness and vascular parameters (e.g., vessel density and diameter) in lesional and perilesional skin.\nBy week 16, mean (95% confidence interval [CI]) PASI score decreased from 16.3 (11.6-21.1) at baseline to 3.5 (1.8-5.2), and BSA involvement from 24.7% (16.1-33.3) to 5.2% (1.9-8.4) (both p < 0.001). By week 52, 86.7%, 73.3%, and 40.0% of patients achieved PASI 75, 90, and 100, respectively, and 93.3% achieved IGA 0/1. OCT showed lesional reductions in epidermal thickness (- 37.4%), vessel density (- 26.6% Δ area under the curve [AUC]), and vessel diameter (- 59.5% ΔAUC) over the 52-week period. Notably, vascular changes also occurred in uninvolved perilesional skin.\nRisankizumab improved both clinical and OCT parameters over 52 weeks, emphasizing the importance of long-term therapy with benefits extending beyond visible improvement. OCT emerged as a valuable tool for assessing deep (vascular) treatment response, thereby supporting a more comprehensive understanding of therapeutic outcomes in psoriasis.",
+  "pub_date": "2026-01-23",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute and Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany.",
+    "Institute and Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany.",
+    "Department of Dermatology, Allergology and Venerology, University Hospital Schleswig-Holstein Lübeck (UKSH), Lübeck, Germany.",
+    "Department of Dermatology, University Hospital Carl Gustav Carus, TU Dresden, Dresden, Germany.",
+    "Institute and Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany.",
+    "Department of Dermatology, University Hospital Carl Gustav Carus, TU Dresden, Dresden, Germany.",
+    "Department of Dermatology, Allergology and Venerology, University Hospital Schleswig-Holstein Lübeck (UKSH), Lübeck, Germany.",
+    "AbbVie Deutschland and Co. KG, Wiesbaden, Germany.",
+    "AbbVie Deutschland and Co. KG, Wiesbaden, Germany.",
+    "AbbVie Deutschland and Co. KG, Wiesbaden, Germany.",
+    "Institute and Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany. Diamant.Thaci@uksh.de."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41575605/",
+  "snapshot_id": "2026-02-12T15-21-04Z",
+  "ingested_at": "2026-02-12T15:21:06.169368+00:00"
+}

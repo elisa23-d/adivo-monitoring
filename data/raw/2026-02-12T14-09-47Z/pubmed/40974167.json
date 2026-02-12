@@ -1,0 +1,16 @@
+{
+  "pmid": "40974167",
+  "title": "Investigation of infection risk associated with Janus kinase inhibitors: a pharmacovigilance analysis using the Food and Drug Administration's Adverse Event Reporting System database.",
+  "abstract": "The use of Janus kinase inhibitors (JAKis) is growing in dermatology with approvals for atopic dermatitis, alopecia areata, plaque psoriasis and psoriatic arthritis.\nTo evaluate infectious adverse events (iAEs) associated with abrocitinib, baricitinib, deucravacitinib, ritlecitinib, tofacitinib and upadacitinib.\nData were retrieved from the US Food and Drug Administration's Adverse Event Reporting System (FAERS) database via the open-source AERSMine platform (Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA). Reports from the first quarter of 2004 to the second quarter of 2024 were screened under the MedDRA System Organ Class 'Infections and infestations' categorization. The analysis encompassed all indications, not solely dermatological use. Disproportionality metrics, including reporting odds ratio, proportional reporting ratio and information component, were calculated.\nTofacitinib had the highest number of iAE reports (n = 68 669), followed by upadacitinib (n = 17 822). When stratified by sex, most reports related to women and girls. When stratified by age, iAEs were most frequently reported in individuals aged 25-65 years, except baricitinib, for which iAEs were more frequently reported in individuals aged ≥ 66 years. Disproportionality analysis revealed sex- and age-related differences in iAE risk, with male sex generally associated with lower risk. Paediatric patients (0-14 years) had an elevated iAE risk with abrocitinib and upadacitinib, while adults aged ≥ 66 years showed increased risk with baricitinib and tofacitinib. Commonly reported iAEs included COVID-19, herpes zoster, nasopharyngitis, influenza, urinary tract infection, pneumonia and sinusitis. Each JAKi was associated with distinct high-signal iAEs.\nTo our knowledge, this is the most comprehensive real-world analysis of iAEs linked to oral JAKis to date. While infection risks varied across agents, both common and rare but serious events were identified. Findings highlight the importance of individualized monitoring and preventive strategies, and reinforce the value of postmarketing surveillance in ensuring safe JAKi use.",
+  "pub_date": "2026-01-27",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology and Venereology, Dinar State Hospital, Afyonkarahisar, Türkiye.",
+    "Department of Dermatology and Venereology, Giresun University Faculty of Medicine, Giresun, Türkiye."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40974167/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

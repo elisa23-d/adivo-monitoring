@@ -1,0 +1,24 @@
+{
+  "pmid": "40963613",
+  "title": "Assessment of gene signatures following the inhibition of IL-23: a study to evaluate the mechanistic effects behind the clinical efficacy of guselkumab in patients with psoriatic arthritis.",
+  "abstract": "The aim of this study was to evaluate the transcriptome of peripheral blood mononuclear cells (PBMCs) derived from patients affected by psoriasis (PSO) and psoriatic arthritis (PSA) following treatment with guselkumab, an interleukin (IL)-23 inhibitor.\nmRNA was extracted by PBMCs, before and after 24 weeks of treatment with guselkumab, and RNA sequencing was performed in paired-end mode by Illumina technology using the Novaseq6000 platform. log2FoldChange > 1 and p adj < 0.05 were the established cutoff to discriminate genes differentially expressed between pre- and post-therapy. For annotation and predictive enrichment analysis of deregulated genes in biological pathways, RStudio was used, and Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) databases were queried. Cytoscape_v3.10.3 was used for the development of the network between deregulated genes.\nSix naïve active patients with PSO and PSA, diagnosed with a duration <2 years, were assessed before and after 24 weeks of treatment with guselkumab. Performing the quality check and filtering analyses, we found 506 transcripts deregulated between pre- and post-therapy, of which 129 were upregulated and 377 were downregulated. The most upregulated mRNAs included SYTL3, CPT1A, TMEM208, GINS4, and TNFRSF13C. The most downregulated mRNAs included CCR2, TPT1, MYCBP, CMPK1, and TMEM65. Enrichment with the GO database showed the following main deregulated processes: \"protein targeting\", \"the establishment of protein localization to membrane\", and \"metabolism of fatty acids\". The analysis of the main macro-process showed the several pathways deregulated after therapy, including signaling related to ethanol metabolism, thermogenesis, oxidative phosphorylation, and fatty acid metabolism (KEGG).\nOur findings may give further insights into manipulated mechanistic pathways by IL-23 inhibition in patients with PSO and PSA.",
+  "pub_date": "2025-09-02",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "San Gallicano Dermatological Institute, Istituto di ricovero e cura a carattere scientifico (IRCCS), Rome, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy.",
+    "Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, L'Aquila, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40963613/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

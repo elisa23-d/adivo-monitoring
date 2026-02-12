@@ -1,0 +1,21 @@
+{
+  "pmid": "37525000",
+  "title": "Matching-Adjusted Indirect Comparison of the Long-Term Efficacy of Deucravacitinib Versus Adalimumab for Moderate to Severe Plaque Psoriasis.",
+  "abstract": "Deucravacitinib, an oral tyrosine kinase 2 (TYK2) inhibitor, is approved in the United States to treat adults with moderate-to-severe plaque psoriasis (PsO). This study compared the long-term efficacy of deucravacitinib and adalimumab using results from long-term extension (LTE) trials.\nOpen-label LTE trials were identified for an indirect treatment comparison (deucravacitinib: POETYK PSO-LTE [NCT04036435]; adalimumab: REVEAL extension [NCT00195676]). To ensure study design comparability, patients initially randomized to placebo and switched to deucravacitinib or adalimumab after week 16 were compared. The primary outcome was an ≥ 75% reduction in Psoriasis Area and Severity Index score (PASI 75) at week 112 postrandomization. Secondary outcomes were PASI 75 at week 52 and an ≥ 90% reduction in PASI score (PASI 90) at weeks 52 and 112. Missing PASI data were imputed. A matching-adjusted indirect comparison was conducted; individual patient-level data from POETYK PSO-LTE were reweighted to balance baseline characteristics with those from the REVEAL extension.\nBefore reweighting, on average, patients in the POETYK PSO-LTE (N = 329) versus the REVEAL (N = 345) extension were older, had a lower body weight, received more prior systemic treatments, and had higher baseline PASI scores and week 16 placebo PASI 75 and PASI 90 response rates. Following reweighting, adjusted week 112 PASI 75 response rates were significantly higher for deucravacitinib versus adalimumab (67.2% vs. 54.0%; mean difference [95% CI], 13.2 [4.0-22.5] percentage points). Deucravacitinib had a numerically higher adjusted week 112 PASI 90 response rate (41.3% vs. 34.0%; mean difference [95% CI], 7.3 [-2.0 to 16.7] percentage points). The treatments had similar week 52 adjusted PASI 75 and PASI 90 response rates.\nIn this interim analysis, adults with moderate to severe PsO had higher long-term response rates at 2 years when treated with deucravacitinib versus adalimumab. Deucravacitinib response rates remained stable whereas adalimumab response rates declined in year 2.",
+  "pub_date": "2023-07-31",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.",
+    "Bristol Myers Squibb, 3410 Princeton Pike, Princeton, NJ, 08648, USA.",
+    "Bristol Myers Squibb, 3410 Princeton Pike, Princeton, NJ, 08648, USA. Vardhaman.patel@bms.com.",
+    "Syneos Health, Toronto, Canada.",
+    "OPEN Health Evidence & Access, Parsippany, NJ, USA.",
+    "Bristol Myers Squibb, 3410 Princeton Pike, Princeton, NJ, 08648, USA.",
+    "OPEN Health Evidence & Access, Parsippany, NJ, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37525000/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

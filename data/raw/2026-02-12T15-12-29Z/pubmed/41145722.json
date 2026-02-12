@@ -1,0 +1,28 @@
+{
+  "pmid": "41145722",
+  "title": "Biologic Therapies and Major Cardiovascular Events in Psoriasis: Updated Systematic Review and Meta-analysis.",
+  "abstract": "Cardiovascular disease is a leading co-morbidity in psoriasis patients. The cutaneous benefits of biologic therapies for severe plaque psoriasis are well-established, but the impact of biologics on major adverse cardiovascular events (MACE) in psoriatic patients requires further elucidation. This study aimed to investigate the impact of biologic therapies on the risk of MACE in patients with chronic plaque psoriasis.\nWe conducted a systematic review and meta-analysis on 10 May 2022, using Medline, PubMed, Cochrane Central Register of Controlled Trials (CCTR), Cochrane Database of Systematic Reviews (CDSR) and EMBASE databases for relevant studies. The Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) methodology was applied, and all studies were critically appraised. All studies selected for inclusion were randomised control trials (RCTs) that contained data on MACE and compared licensed biologic therapies with placebo or other biologics in adults with moderate-severe plaque psoriasis.\nThe search of the databases revealed 36 papers (reporting on 43 RCTs) which met the inclusion criteria. No statistically significant difference in the risk for MACE between biologic therapies and placebo was found [Peto odds ratio (POR) 1.26, 95% confidence interval (CI) 0.53-3.01, P = 0.59]. A comparison of specific types of biologics also revealed no significant effect in adult patients with moderate-to-severe plaque psoriasis: tumour necrosis factor (TNF)-alpha inhibitors (adalimumab, infliximab, etanercept) (POR 1.13, 95% CI 0.29-4.32 P = 0.86), interleukin (IL)-17 inhibitors (secukinumab, ixekizumab, brodalumab, bimekizumab) (POR 0.60, 95% CI 0.16-2.25, P = 0.45); IL 12/23 inhibitors (usetekinumab) (POR 3.80, 95% CI 0.37-39.44, P = 0.26) and IL-23 (guselkumab, risankizumab, tildrakizumab) (POR 1.75, 95% CI 0.25-12.43 P = 0.58).\nAnti-psoriatic biologics were not associated with an increased risk of MACE in psoriasis patients. Given that most included RCTs were of relatively short duration, longer-term studies and post-marketing surveillance are needed to clarify the cardiovascular safety profile of biologic therapies. Further large-scale studies with extended follow-up are warranted.\nThis study was prospectively registered on PROSPERO (identification number CRD42022325792).",
+  "pub_date": "2025-10-27",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "affiliations": [
+    "Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.",
+    "Department of Dermatology, Westmead Hospital, Westmead, NSW, Australia.",
+    "St Vincent's Hospital Sydney, Darlinghurst, NSW, Australia.",
+    "School of Clinical Medicine, UNSW Medicine and Health, St Vincent's Clinical Campus, Darlinghurst, NSW, Australia.",
+    "ANU Medical School, ANU College of Health and Medicine, The Australian National University, Canberra, ACT, Australia.",
+    "The Dermatology and Skin Cancer Centre, St Leonards, Sydney, NSW, Australia.",
+    "Westmead Applied Research Centre, Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia.",
+    "Department of Cardiology, Westmead Hospital, Westmead, NSW, Australia.",
+    "Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia. asmi3525@uni.sydney.edu.au.",
+    "Department of Dermatology, Westmead Hospital, Westmead, NSW, Australia. asmi3525@uni.sydney.edu.au.",
+    "St Vincent's Hospital Sydney, Darlinghurst, NSW, Australia. asmi3525@uni.sydney.edu.au.",
+    "School of Clinical Medicine, UNSW Medicine and Health, St Vincent's Clinical Campus, Darlinghurst, NSW, Australia. asmi3525@uni.sydney.edu.au.",
+    "Westmead Applied Research Centre, Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia. asmi3525@uni.sydney.edu.au."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41145722/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

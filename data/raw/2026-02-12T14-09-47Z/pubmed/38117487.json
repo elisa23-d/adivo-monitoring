@@ -1,0 +1,30 @@
+{
+  "pmid": "38117487",
+  "title": "Meaningful Change Thresholds for the Psoriasis Symptoms and Signs Diary: A Secondary Analysis of a Randomized Clinical Trial.",
+  "abstract": "Change from baseline score on the validated Psoriasis Symptoms and Signs Diary (PSSD) is a widely used, patient-reported end point in clinical trials for psoriasis. Meaningful score change thresholds anchored to patient-reported assessments have not been established in a clinical trial setting.\nTo evaluate meaningful within-patient score change thresholds for the PSSD using data from the phase 3 Program to Evaluate the Efficacy and Safety of Deucravacitinib, a Selective TYK2 Inhibitor (POETYK), PSO-1 clinical trial, which compared the efficacy and safety of deucravacitinib vs placebo and apremilast among adults with moderate to severe plaque psoriasis.\nIn this predefined analysis using data from the POETYK PSO-1 multicenter, randomized, double-blind, placebo-controlled phase 3 clinical trial, conducted from August 7, 2018, to September 2, 2020, 666 adults with moderate to severe plaque psoriasis completed the PSSD daily throughout the trial. Meaningful change thresholds were derived by anchoring mean PSSD score change from baseline to week 16 to category improvements on the Patient Global Impression of Change (PGI-C) and the Patient Global Impression of Severity (PGI-S).\nDeucravacitinib, 6 mg, once daily; placebo; or apremilast, 30 mg, twice daily.\nThe main outcome was score change from baseline to week 16 on the PSSD, anchored to the PGI-C and PGI-S.\nThe trial included 666 patients (mean [SD] age, 46.1 [13.4] years; 453 men [68.0%]). Three thresholds were identified using an analysis set of 609 patients. Score improvement of at least 15 points from baseline reflected meaningful within-patient change anchored to the PGI-C. Score improvements of 25 points were supported by both the PGI-C and the PGI-S, while a 30-point score change identified patients with greater improvements in their psoriasis symptoms and signs.\nThis analysis suggests that PSSD score improvements of 15, 25, or 30 points represent increasing improvements in disease burden that are meaningful to patients with psoriasis.",
+  "pub_date": "2024-02-01",
+  "publication_types": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Probity Medical Research, Waterloo, Ontario, Canada.",
+    "Department of Dermatology, Medical College of Wisconsin, Milwaukee.",
+    "Department of Dermatology, Yale University, New Haven, Connecticut.",
+    "Central Connecticut Dermatology, Cromwell.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Clinical Outcomes Solutions, Tucson, Arizona.",
+    "Clinical Outcomes Solutions, Tucson, Arizona.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Bristol Myers Squibb, Lawrenceville, New Jersey.",
+    "Department of Dermatology, Keck School of Medicine, University of Southern California, Los Angeles."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38117487/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

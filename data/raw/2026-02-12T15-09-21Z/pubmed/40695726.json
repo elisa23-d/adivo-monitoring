@@ -1,0 +1,16 @@
+{
+  "pmid": "40695726",
+  "title": "A Validated Quantitative LC-MS/MS Method for Determination of Deucravacitinib in Rat Plasma and Its Application to a Pharmacokinetic Study.",
+  "abstract": "We developed and validated a novel analytical methodology for the precise quantification of deucravacitinib, an oral TYK2 inhibitor for treating moderate-to-severe plaque psoriasis in adults. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) was employed in this method for sensitive detection of the compound in rat plasma. Analytical separation was performed utilizing an ACE C18 column (4.6 × 100 mm, 5-μm particle size) with a carefully optimized mobile phase composition of methanol and 2-mM ammonium formate (90:10, v/v), maintained at a consistent flow rate of 0.9 mL/min. Detection was executed in positive ionization mode, targeting multiple reaction monitoring (MRM) transitions of m/z 426.8 → 358.4 for the analyte and m/z 394.1 → 363.2 for the internal standard. The validation of the analytical method encompassed an assessment of selectivity, linearity, accuracy, precision, recovery, and stability. This method demonstrated stability, specificity, and no matrix effect at three concentration levels (1.606, 267.600, 507.780 ng/mL). The method's lower limit of quantification (LLOQ) is 0.556 ng/mL. The calibration curve demonstrates linearity from the LLOQ up to 668.132 ng/mL, exhibiting a high correlation coefficient (r2 = 0.9976). The intraday and interday precisions were less than 6.62% and 5.95%, respectively, with accuracies ranging from 90.68% to 103.80%. The recovery of deucravacitinib ranged from 95.34% to 103.80% and remained stable under different conditions. After successful validation, the method was used for pharmacokinetic profiling of deucravacitinib in rats following oral administration.",
+  "pub_date": "2025-09",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "School of Pharmacy, Anurag University, Hyderabad, Telangana, India.",
+    "School of Pharmacy, Anurag University, Hyderabad, Telangana, India."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40695726/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

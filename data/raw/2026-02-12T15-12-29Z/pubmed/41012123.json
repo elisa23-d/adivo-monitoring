@@ -1,0 +1,24 @@
+{
+  "pmid": "41012123",
+  "title": "Evaluation of T-Cell Responses Following Sequential Vaccination with PCV13 and PPSV23 Against Streptococcus pneumoniae in Patients with Psoriasis.",
+  "abstract": "Characterization of cellular responses to vaccinations in immunocompromised patients remains an evolving area of research. This particularly applies for pneumococcal vaccination in diseases such as psoriasis and in the setting of immunosuppressive therapy.\nThis prospective study included 42 patients with moderate-to-severe psoriasis. Following German guidelines at the time, patients underwent a sequential vaccination protocol against Streptococcus pneumoniae, consisting of Prevenar 13 (PCV13) and Pneumovax 23 (PPSV23). Over a 7-month period, we analyzed T-cell responses to common serotypes of Streptococcus pneumoniae using an interferon-γ ELISpot assay. For comparison, we performed an ELISA to measure pneumococcus-specific antibody production.\nPatients undergoing anti-TNF-α blocker therapy, monoclonal antibody therapy (specifically anti-IL-12/23, IL-23, and IL-17), and methotrexate therapy showed significantly different responses to the pneumococcal serotype PS14 at onset (p = 0.02). T-cell responses ranged from strong (PS9N, PS14, PS25F) and intermediate (PS2) to weak (PS6A and PS11A). We did not observe a significant correlation of IgG antibodies with the magnitude of cellular immune responses.\nImmunosuppressive therapy alters vaccination-induced cellular immunity in psoriasis patients. Further research is needed to clarify the mechanisms involved.",
+  "pub_date": "2025-08-29",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute for Transfusion Medicine, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Infectious Diseases, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Infectious Diseases, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Infectious Diseases, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Infectious Diseases, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Institute for Transfusion Medicine, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Infectious Diseases, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Institute for Virology, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Department of Dermatology, Venereology and Allergology, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany.",
+    "Institute for Transfusion Medicine, University Hospital Essen, University Duisburg-Essen, 45147 Essen, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41012123/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "41364352",
+  "title": "Risk of Incident Immune-Mediated Inflammatory Diseases with Second Tumor Necrosis Factor Inhibitor Versus Alternative Biologic Therapy in Patients with Inflammatory Bowel Disease and First TNFi Exposure: A Real-World Cohort Study.",
+  "abstract": "Immune-mediated inflammatory diseases (IMIDs) can develop during tumor-necrosis-factor inhibitor (TNFi) therapy for inflammatory bowel disease (IBD). The impact of exposure to a second TNFi compared to alternative biologic therapy on the risk of IMIDs is unknown.\nUsing the US Collaborative Network (2014-2023), we identified adults with Crohn's disease (CD) or ulcerative colitis (UC) with previous exposure to a TNFi who were either switched to a second TNFi or ustekinumab/vedolizumab. Patients with any pre-existing IMID prior to switching to a second biologic were excluded. The primary outcome was the risk of IMID in the TNFi cohort compared to ustekinumab/vedolizumab cohort (reference treatment cohort) within 5 years. A 1:1 propensity score matching (PSM) was performed. Cox proportional hazard model was used to identify risk factors for new onset IMID in the TNFi cohort.\nAmong 14,360 patients, 5962 (41.5%) received a second TNFi (mean age 34.4 ± 16.7, 49.6% female, 73.9% White, 80% CD) and 8398 (58.5%) were switched to ustekinumab or vedolizumab (mean age 39.7 ± 17 years, 51.3% female, 75.3% White, 77.3% CD). After PSM, the second TNFi cohort had a higher risk of IMID compared to the reference treatment cohort (10.8% vs 6.9%, adjusted hazard ratio [aHR] 1.57, 95% CI 1.37-1.79). The increased risk was seen in both UC (aHR 1.90, 95% CI 1.53-2.37) and CD (aHR 1.43, 95% CI 1.22-1.67). Sensitivity analysis after excluding psoriasis, rheumatoid arthritis and ankylosing spondylitis also showed an increased risk of IMID in the TNFi cohort (aHR 1.67, 95% CI 1.37-2.05). Sub-group analysis based on age and sex also showed an increased risk of IMID in the TNFi cohort. Within the TNFi cohort, age ≥ 40 years, primary sclerosing cholangitis and methotrexate use predicted IMID, whereas male sex and concomitant azathioprine were protective.\nIn this large real-world IBD cohort with exposure to a TNFi, second TNFi use was associated with a higher risk of de-novo IMIDs compared to ustekinumab or vedolizumab.",
+  "pub_date": "2025-12-09",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Drexel University College of Medicine, Philadelphia, PA, USA. akdesai03@gmail.com.",
+    "Division of Gastroenterology, Hepatology and Nutrition, Allegheny Health Network, 1307 Federal St., Suite 305, Pittsburgh, PA, 15212, USA. akdesai03@gmail.com.",
+    "Division of Gastroenterology, Hepatology & Nutrition, Allegheny Health Network, Pittsburgh, PA, USA.",
+    "Drexel University College of Medicine, Philadelphia, PA, USA.",
+    "Department of Medicine, Allegheny Health Network, Pittsburgh, PA, USA.",
+    "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, FL, USA.",
+    "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, FL, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41364352/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

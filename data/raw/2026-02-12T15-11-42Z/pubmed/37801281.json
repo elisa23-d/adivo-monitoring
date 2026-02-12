@@ -1,0 +1,28 @@
+{
+  "pmid": "37801281",
+  "title": "Short-, Mid-, and Long-Term Efficacy of Deucravacitinib Versus Biologics and Nonbiologics for Plaque Psoriasis: A Network Meta-Analysis.",
+  "abstract": "Deucravacitinib, a newly approved oral medication for the treatment of patients with moderate to severe plaque psoriasis, demonstrated efficacy versus apremilast and placebo in two phase 3 randomized controlled trials (RCTs). A systematic review and network meta-analysis (NMA) indirectly compared deucravacitinib with other relevant systemic biologic/nonbiologic treatments.\nOnline databases were searched for RCTs published through October 2021. Eligible studies were head-to-head comparisons between systemic therapies and/or placebo reporting 50%, 75%, 90%, or 100% improvement in Psoriasis Area and Severity Index (PASI) from baseline in adults with moderate to severe plaque psoriasis. Comparisons included tumor necrosis factor inhibitors, interleukin (IL)-17, IL-23, and IL 12/23 inhibitors, and systemic nonbiologics. A multinomial Bayesian NMA was used to derive estimates of the relative efficacy of deucravacitinib and other systemic therapies. Response probabilities for each treatment and corresponding 95% credible intervals (CrIs) for achieving a PASI response were calculated over short-, mid-, and long-term follow-up (weeks 10-16, 24-28, and 44-60).\nThe NMA included 47 RCTs. Deucravacitinib showed the highest PASI 75 response rates among nonbiologic systemic therapies across time points. Deucravacitinib PASI 75 response rate (95% CrI) over short-term follow-up was 54.1% (46.5-61.6), within the range of first-generation biologics (etanercept, 39.7% [31.6-48.3]; infliximab, 79.0% [74.0-83.5]). At mid-term follow-up, deucravacitinib PASI 75 increased to 63.3% (58.0-68.4). At long-term follow-up, deucravacitinib PASI 75 was 65.9% (58.0-73.4), comparable to first-generation biologics adalimumab (62.8%; 55.3-69.6) and ustekinumab (68.0%; 64.6-71.5).\nPatients receiving deucravacitinib were more likely to achieve PASI 75 response versus apremilast and methotrexate across all time points. The long-term PASI 75 response rate for deucravacitinib was similar to those of adalimumab and ustekinumab. The approval of deucravacitinib offers patients the choice of an oral therapy with long-term efficacy similar to that of some biologics.",
+  "pub_date": "2023-10-06",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "University of California Los Angeles, Los Angeles, CA, USA. aprilarmstrong@post.harvard.edu.",
+    "Division of Dermatology, David Geffen Department of Medicine, University of California Los Angeles, 2001 Santa Monica Boulevard, Suite 1090, Santa Monica, CA, 90404, USA. aprilarmstrong@post.harvard.edu.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust, Manchester, UK.",
+    "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Evidera, a part of Thermo Fisher Scientific, Waltham, MA, USA.",
+    "Evidera, a part of Thermo Fisher Scientific, Waltham, MA, USA.",
+    "Evidera, a part of Thermo Fisher Scientific, Waltham, MA, USA.",
+    "Evidera, a part of Thermo Fisher Scientific, Waltham, MA, USA.",
+    "Lumanity, Sheffield, UK.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Bristol Myers Squibb, Princeton, NJ, USA.",
+    "Institute for Health Services Research in Dermatology and Nursing, University Medical Center, Hamburg, Germany."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37801281/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

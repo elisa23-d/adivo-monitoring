@@ -1,0 +1,27 @@
+{
+  "pmid": "40833728",
+  "title": "Comparative Risk of Infection and Prevalence of Combination Targeted Therapy in Psoriatic Arthritis.",
+  "abstract": "Achieving good disease control in psoriatic arthritis (PsA) remains a major challenge. Combining multiple systemic immunomodulatory therapies has been shown to be beneficial in other immune-mediated diseases with reasonable safety profiles, but data on the current use and safety of combination targeted therapy among individuals with PsA are limited.\nTo evaluate the use and safety of combination targeted therapies among adults with PsA.\nData from the IBM MarketScan Commercial Claims Database from January 2015 to December 2024 were used to describe use patterns and perform safety analyses. Data were analyzed from April 2024 to June 2025. A validated claims algorithm was used to identify adults with PsA, who were separated into a standard therapy control cohort that was matched 2:1 with the combination targeted therapy cohort.\nDescriptive analysis of the use of combination targeted therapies. The safety analysis included a comparison of frequencies of International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes for serious or opportunistic infections requiring an inpatient level of care. Relative risks (RRs) were calculated before and after propensity score matching.\nAmong 82 399 individuals identified with PsA, 542 individuals (median [IQR] age, 52.5 [44.0-59.0] years; 341 female individuals [62.9%]) were receiving combination targeted therapy for 3 consecutive months and 200 (median [IQR] age, 55.0 [45.0-61.0] years; 114 female individuals [57.0%]) were receiving combination therapy for 6 consecutive months. The 2 most common combinations used were a tumor necrosis factor inhibitor with apremilast (34%-37%) and an interleukin 17 inhibitor with apremilast (27%-29%). The serious infection incidence rate among patients receiving combination targeted therapy ranged from 7.38 to 15.00 events per 1000 patients; the opportunistic infection incidence rate ranged from 0 to 1.85 events per 1000 patients. Patients receiving combination targeted therapy did not have a significantly increased risk of serious infection (propensity score-matched 3-month and 6-month RRs, 0.53 [95% CI, 0.17-1.63] and 1.50 [95% CI, 0.34-6.65], respectively) or opportunistic infection (adjusted 3-month and 6-month RRs, 1.00 [95% CI, 0.09-11.02] and not applicable, respectively) across all analyses.\nThe results of this cohort study suggest that among commercially insured adults with PsA, around 1% of individuals were receiving combination targeted therapy. The most common combinations used different biologics with apremilast. This study found no significant difference between the incidence of serious bacterial and opportunistic infections requiring hospitalization compared with standard therapy, suggesting that combination targeted therapy may not be associated with significantly increased infection risk, but further larger studies are needed.",
+  "pub_date": "2025-11-01",
+  "publication_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "affiliations": [
+    "Department of Dermatology, University of Texas Southwestern Medical Center, Dallas.",
+    "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Quantitative Biomedical Research Center, Peter O'Donnell School of Public Health, University of Texas Southwestern Medical Center, Dallas.",
+    "Quantitative Biomedical Research Center, Peter O'Donnell School of Public Health, University of Texas Southwestern Medical Center, Dallas.",
+    "Quantitative Biomedical Research Center, Peter O'Donnell School of Public Health, University of Texas Southwestern Medical Center, Dallas.",
+    "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Department of Medicine, Division of Rheumatology, Center for Clinical Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia.",
+    "Department of Medicine and Rheumatology, New York University Langone Health, New York.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, New York.",
+    "Department of Medicine and Rheumatology, New York University Langone Health, New York.",
+    "Department of Dermatology, University of Texas Southwestern Medical Center, Dallas.",
+    "Department of Medicine, Division of Rheumatology, University of Texas Southwestern Medical Center, Dallas."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40833728/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

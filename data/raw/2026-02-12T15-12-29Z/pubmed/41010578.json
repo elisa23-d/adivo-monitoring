@@ -1,0 +1,32 @@
+{
+  "pmid": "41010578",
+  "title": "Predictors of Super-Responder Status to Anti-IL-23 Therapies in Moderate-to-Severe Plaque Psoriasis: A Real-World Monocenter Study.",
+  "abstract": "Background/Objectives: Psoriasis is a chronic immune-mediated skin disease with an estimated global prevalence of 3%. Real-world studies have demonstrated that biologic therapies have transformed the management of moderate-to-severe psoriasis by providing optimal disease control and a favorable safety profile. However, a new challenge lies in identifying those most likely to achieve an early and sustained response, defined as 'super-responders' (SRs). This is particularly relevant given recent evidence suggesting that IL-23 inhibitors may have long-term disease-modifying effects by acting on tissue-resident memory T cells. Identifying positive and negative baseline predictors associated with achieving SR status in patients treated with anti-IL-23 agents. Methods: This retrospective observational study analyzed data from the electronic medical records of IRCCS Humanitas Research Hospital between June 2021 and June 2025. A total of 611 patients with moderate-to-severe psoriasis who were treated with risankizumab, guselkumab or tildrakizumab were included in the study. Clinical assessments were conducted at baseline and weeks 16, 28 and 52. SR status was defined as achieving a PASI score of ≤1 at week 16, with this score being maintained through weeks 28 and 52. Results: Of the 611 enrolled patients, 390 (63.8 %) achieved SR status. In multivariate logistic regression, disease duration ≤ 2 years was the strongest independent predictor (Odds Ratio [OR] 2.47, p = 0.025), followed by bio-naïve status (OR 1.53, p = 0.019). Obesity (OR 0.71, 95 % CI 0.45-1.13) and cardiometabolic comorbidities (OR 0.93, 95 % CI 0.63-1.38) were not significantly associated with response after adjustments. No serious adverse events or treatment discontinuations occurred during 52 weeks of follow-up. Conclusions: Shorter disease duration (≤2 years) and bio-naïve status were identified as independent predictors of SR status. Identifying these patients could inform the development of personalized treatment strategies, including dose optimization and extended dosing intervals.",
+  "pub_date": "2025-09-10",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy.",
+    "Dermatology Unit, IRCCS Humanitas Research Hospital, 20089 Rozzano, Italy.",
+    "Department of Biomedical Sciences, Humanitas University, 20072 Pieve Emanuele, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41010578/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "37578217",
+  "title": "Progress on the Pharmacological Targeting of Janus Pseudokinases.",
+  "abstract": "The Janus kinases (JAKs) are key components of the JAK-STAT signaling pathway and are involved in myriad physiological processes. Though they are the molecular targets of many FDA-approved drugs, these drugs manifest adverse effects due in part to their inhibition of the requisite JAK kinase activity. However, the JAKs uniquely possess an integrated pseudokinase domain (JH2) that regulates the adjacent kinase domain (JH1). The therapeutic targeting of JH2 domains has been less thoroughly explored and may present an avenue to modulate the JAKs without the adverse effects associated with targeting the adjacent JH1 domain. The potential of this strategy was recently demonstrated with the FDA approval of the TYK2 JH2 ligand deucravacitinib for treating plaque psoriasis. In this light, the structure and targetability of the JAK pseudokinases are discussed, in conjunction with the state of development of ligands that bind to these domains.",
+  "pub_date": "2023-08-14",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ],
+  "affiliations": [
+    "Department of Chemistry, Yale University, New Haven, Connecticut 06520-8107, United States.",
+    "Department of Chemistry, Yale University, New Haven, Connecticut 06520-8107, United States."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37578217/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

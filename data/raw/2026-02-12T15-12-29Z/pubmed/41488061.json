@@ -1,0 +1,21 @@
+{
+  "pmid": "41488061",
+  "title": "Bullous pemphigoid induced by anti-IL-23 monoclonal antibody in a psoriatic patient: a case report.",
+  "abstract": "Psoriasis, a chronic immune-mediated inflammatory skin disorder, is increasingly managed with anti-IL-23 biologics, such as guselkumab. Nevertheless, their rare adverse effects remain poorly understood. This study presents the case of a 78-year-old woman with moderate-to-severe psoriasis who presented with bullous pemphigoid (BP) 2 weeks after initiating guselkumab therapy. The clinical presentation was characterized by generalized bullae with epidermal-dermal separation and eosinophilic infiltration, despite negative anti-BP180 or BP230 antibodies. Single-cell RNA sequencing (scRNA-seq) of psoriatic versus BP lesions exhibited distinct cellular profiles: BP lesions were enriched in epidermal stem cells (44.32%) and endothelial cells (21.38%), in contrast to keratinocyte predominance (77.3%) noted in psoriasis. Differential gene analysis revealed the upregulation of keratinocyte stress markers (KRT6B and MMP7) and interferon-related genes (IFI6) in BP. Immune dysregulation was reflected in the activation of macrophages/T cells expressing pro-inflammatory factors (SPP1 and GZMB). Tissue stem cells demonstrated PTX3 upregulation, linking complement activation and extracellular matrix remodeling to epidermal damage. Collectively, these findings reveal dual mechanisms of guselkumab-induced BP: immune imbalance and defective epidermal repair. Future studies should validate these pathways in larger cohorts and investigate IL-23/interferon signaling crosstalk.",
+  "pub_date": "2025-12-18",
+  "publication_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "affiliations": [
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+    "The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41488061/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

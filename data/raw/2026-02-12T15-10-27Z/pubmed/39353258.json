@@ -1,0 +1,17 @@
+{
+  "pmid": "39353258",
+  "title": "The multiple-action allosteric inhibition of TYK2 by deucravacitinib: Insights from computational simulations.",
+  "abstract": "Participating in the Janus kinase-signal transducer and activator of transcription (JAK-STAT) pathway, TYK2 emerges as a promising therapy target in controlling various autoimmune diseases, including psoriasis and multiple sclerosis. Deucravacitinib (DEU) is a novel oral TYK2-specific inhibitor approved in 2022 that is clinically effective in moderate to severe psoriasis trials. Upon the AlphaFold2 predicted TYK2 pseudokinase domain (JH2) and kinase domain (JH1), we explored the details of the underlined allosteric inhibition mechanism on TYK2 JH2-JH1 with the aid of molecular dynamics simulation. Our results suggest that the allosteric inhibition of DEU on TYK2 is accomplished by affecting the JH2-JH1 interface and hampering the state transition and ATP binding in JH1. Particularly, DEU binding stabilized the autoinhibitory interface between JH2 and JH1 while disrupting the formation of the activation interface. As a result, the negative regulation of JH2 on JH1 was greatly enhanced. These findings offer additional details on the pseudokinase-dependent autoinhibition of the JAK kinase domain and provide theoretical support for the JH2-targeted drug discovery in JAK members.",
+  "pub_date": "2024-09-27",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Biomedical Informatics, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China. Electronic address: baoyq@bjmu.edu.cn.",
+    "Centre for Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao 999078, China. Electronic address: p2314443@mpu.edu.mo.",
+    "Centre for Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao 999078, China; Engineering Research Centre of Applied Technology on Machine Translation and Artificial Intelligence, Macao Polytechnic University, Macao 999078, China. Electronic address: jguo@mpu.edu.mo."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39353258/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

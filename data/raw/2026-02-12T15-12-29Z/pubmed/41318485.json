@@ -1,0 +1,31 @@
+{
+  "pmid": "41318485",
+  "title": "Efficacy of Risankizumab across distinct PsA phenotypes identified with machine learning analytics using data from biologic DMARD-Naïve patients in two phase 3 clinical trials.",
+  "abstract": "The development of personalized approaches in psoriatic arthritis (PsA) is challenging due to unclear patient phenotypes and trajectories. Machine learning (ML) could help to identify homogeneous patient groups. The objective of this analysis was to classify patients with PsA into distinct phenotypes using ML.\nA post hoc analysis of PsA patients treated with risankizumab for ≤ 4 years (196 weeks) from KEEPsAKE 1 and KEEPsAKE 2. The phenotypes were based on baseline demographics and clinical characteristics using unsupervised ML (a finite mixture model). Response to risankizumab at 4 years was defined as minimal disease activity (MDA) and Disease Activity in PsA (DAPSA) low disease activity (LDA).\nA total of 1119 patients were classified into 5 distinct PsA phenotypes: Moderate to High Disease Activity (40.3% of patients) - characterized by lower tender joint count (TJC) and swollen joint count (SJC), dactylitis, and enthesitis; Enthesitis and Large Joints Dominant (20.8% of patients) - characterized by enthesitis and mainly active large joints; Very High Disease Activity (14.0% of patients) - characterized by high TJC/SJC, dactylitis, and enthesitis; Hand Dominant (13.8% of patients) - characterized by active joints primarily in the hands; Dactylitis and Feet Dominant (11.1% of patients) - characterized by dactylitis and active joints primarily in the feet. At 4 years, risankizumab demonstrated efficacy across all phenotypes (MDA and DAPSA LDA; range: 42.9% to 58.8% of patients and 66.0% to 82.0% of patients, respectively), with highest responses observed in the Moderate to High Disease Activity and Dactylitis and Feet Dominant phenotypes.\nFive distinct PsA phenotypes were identified in patients starting risankizumab. Moderate to High Disease Activity, the most frequent phenotype, showed the highest response, though risankizumab demonstrated efficacy across all phenotypes. These results are a first step toward more personalized medicine for patients with PsA.\nClinicalTrials.gov: KEEPsAKE 1, NCT03675308; KEEPsAKE 2, NCT03671148.",
+  "pub_date": "2025-11-29",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Randomized Controlled Trial"
+  ],
+  "affiliations": [
+    "Sorbonne Université, INSERM, Institut Pierre Louis d'Epidémiologie et de Santé Publique, Team Pepites, Paris, France. laure.gossec@aphp.fr.",
+    "Rheumatology Department, AP-HP, Pitié-Salpêtrière hospital, Paris, France. laure.gossec@aphp.fr.",
+    "Service de Rhumatologie, Hôpital Pitié Salpétrière, 47-83, boulevard de l'Hôpital, Paris, 75013, France. laure.gossec@aphp.fr.",
+    "\"Sf. Maria\" Hospital, Department of Rheumatology and Internal Medicine, \"Carol Davila\" University of Medicine and Pharmacy, Bucharest, Romania.",
+    "Rheumatology Division, Department of Geriatrics, Rheumatology, and Orthopedic Sciences, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, Italy.",
+    "Università Cattolica del Sacro Cuore, Largo Agostino Gemelli, Rome, Italy.",
+    "Department of Rheumatology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+    "Rheumazentrum Ruhrgebiet, Ruhr University Bochum, Bochum, Germany.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie GK, Tokyo, Japan.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "Department of Nephrology and Rheumatology, Kyorin University School of Medicine, Tokyo, Japan."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41318485/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

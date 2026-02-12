@@ -1,0 +1,37 @@
+{
+  "pmid": "40985896",
+  "title": "Th17 cells with regulatory phenotype are the main IL-17F and IL-26 producers in palmoplantar pustulosis.",
+  "abstract": "Palmoplantar pustulosis (PPP) is a chronic inflammatory skin disorder marked by erythematous pustules and desquamation on the palms and soles. While IL-17 pathways are implicated in PPP, IL-17 blockers have shown modest efficacy, underscoring the need for a deeper understanding of IL-17 involvement. To dissect the cellular and spatial architecture of PPP, we performed single-cell RNA-Seq (scRNA-Seq) on lesional, nonlesional, and healthy acral skin to examine cellular composition, transcriptomic profiles, and cell-cell interactions. Unbiased clustering revealed 9 major cell types, including an inflammatory keratinocyte subset enriched in IL-17A/TNF signatures and marked by high IL-36G expression. Within the lymphocyte compartment, we identified a hybrid \"regTh17\" population coexpressing regulatory markers (FOXP3, CTLA4, TIGIT), IL17F, and IL26. This regTh17 subset was distinguished by elevated IL1R1 and CD39, suggesting an IL-1β-driven differentiation. Spatial analyses demonstrated significant neighborhood enrichment of regTh17 cells with IL-36G+ supraspinous keratinocytes. RegTh17 cells were the predominant source of IL-17F and IL-26 signals, whereas keratinocytes were predicted as their main receivers. We further observed regTh17 coexpressing TNFRSF4 (OX40) and TNFRSF18 (GITR) specifically at sites of IL36G+ keratinocyte interactions, implicating these pathways in amplification of the IL-17/IL-36 inflammatory loop. Together, our integrated single-cell and spatial profiling uncovers Th17 plasticity in PPP, identifies a regTh17-keratinocyte interaction, and highlights IL-17F, IL-26, OX40/OX40L, and GITR/GITRL as candidate targets for precision therapies in this challenging disease.",
+  "pub_date": "2025-09-23",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Almirall SA, R&D Center, Sant Feliu de Llobregat, Barcelona, Spain.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Pathology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology and Venereology, University Hospital of Lausanne, Lausanne, Switzerland.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Internal Medicine, Division of Rheumatology, University of Michigan, Ann Arbor, Michigan, USA.",
+    "A. Alfred Taubman Medical Research Institute, Ann Arbor, Michigan, USA.",
+    "Division of Dermatology, UCLA, Los Angeles, California, USA.",
+    "Almirall SA, R&D Center, Sant Feliu de Llobregat, Barcelona, Spain.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+    "Department of Internal Medicine, Division of Rheumatology, University of Michigan, Ann Arbor, Michigan, USA.",
+    "A. Alfred Taubman Medical Research Institute, Ann Arbor, Michigan, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40985896/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

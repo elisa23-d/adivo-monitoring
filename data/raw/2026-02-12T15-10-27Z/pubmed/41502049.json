@@ -1,0 +1,21 @@
+{
+  "pmid": "41502049",
+  "title": "The Relative Effects of Monotherapies for Psoriatic Nails: A Network Meta-Analysis Study.",
+  "abstract": "Various treatments exist for nail psoriasis (NP). We determined the relative efficacy of various monotherapies through Bayesian network meta-analyses (NMAs).\nWe systematically reviewed the literature to identify eligible studies which-within the patient, intervention, comparator, outcome (PICO) context-determined the impact of biologic monotherapies on NP in terms of two outcome measures, namely, (1) the 16 to 24-week mean change in the Nail Psoriasis Severity Index (NAPSI) (i.e., outcome 1), and (2) the proportion who attained a Physician Global Assessment of fingernails (PGA-f) of \"0\" or \"1\" (i.e., \"clear\" or \"almost clear\") between 16 and 24 weeks (i.e., outcome 2). Our NMAs estimated the surface under the cumulative ranking curve (SUCRA) values and pairwise relative effects. We also determined relative effects of comparators that had never been compared for this condition, including \"deucravacitinib 6mg daily\", \"risankizumab 150 mg at weeks 0, 4, 16\", and \"golimumab 2mg/kg at weeks 0, 4, then every 8 weeks\".\nWe identified 22 active comparators; \"tofacitinib 10 mg twice daily\" was ranked most efficacious in terms of 16 to 24-week mean change in NAPSI (SUCRA = 99.71%)-while \"ixekizumab 160 mg at week 0 followed by 80 mg every 4 weeks\" was ranked most efficacious (SUCRA = 95.67%) for proportion attaining PGA-f of 0 or 1 (i.e., outcome 2). Our analyses produced comparative evidence for the relative efficacy of monotherapies with various agents, including biologics and non-biologics. Our findings would guide clinical decision-making.",
+  "pub_date": "2026-01",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+  ],
+  "affiliations": [
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "Division of Dermatology, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "Mediprobe Research Inc., London, Ontario, Canada.",
+    "School of Pharmacy, BRAC University, Dhaka, Bangladesh."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41502049/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

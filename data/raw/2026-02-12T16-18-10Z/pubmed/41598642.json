@@ -1,0 +1,28 @@
+{
+  "pmid": "41598642",
+  "title": "Factors Predicting Guselkumab Treatment Response in Patients with Moderate-to-Severe Plaque Psoriasis: A Post Hoc Analysis of Korean Real-World Data.",
+  "abstract": "Background: This study aimed to identify the baseline characteristics predictive of Psoriasis Area and Sensitivity Index (PASI) 90 response to guselkumab and assess treatment effectiveness outcomes for PASI 90 responders and PASI 90 non-responders. Methods: This post hoc analysis used data from a prospective, multicenter, observational study of guselkumab in Korean patients with moderate-to-severe psoriasis conducted between February 2019 and March 2022. Stepwise logistic regression analysis was used to identify baseline characteristics predictive of PASI 90 response. Results: Of 339 patients, 245 (72.3%) week-28 PASI 90 responders and 94 (27.7%) non-responders were identified. Baseline characteristics significantly predictive of PASI 90 response in multivariate logistic regression were absence of family history of psoriasis (odds ratio [OR]: 0.35; p = 0.0266), higher PASI score (OR: 1.22; p = 0.0006), higher body surface area of psoriasis involvement (OR: 0.95; p = 0.0127), prior phototherapy use (OR: 2.44; p = 0.0108), and reduced concomitant topical agent use (OR: 0.41; p = 0.0044). More PASI 90 responders versus non-responders achieved absolute PASI score ≤ 2 by week 44 (95.8% vs. 67.5%) and Dermatology Life Quality Index scores of 0 or 1 by week 28 (72.2% vs. 34.0%). Conclusions: Guselkumab PASI 90 responders had unique baseline characteristics that may predict positive treatment outcomes.",
+  "pub_date": "2026-01-15",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Uijeongbu St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Uijeongbu 11765, Republic of Korea.",
+    "Department of Dermatology, Chosun University College of Medicine, Gwangju 61453, Republic of Korea.",
+    "Department of Dermatology, Yeouido St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul 07345, Republic of Korea.",
+    "Department of Dermatology, Dongguk University College of Medicine, Gyeongju 38067, Republic of Korea.",
+    "Department of Dermatology, Seoul National University College of Medicine, Seoul National University Bundang Hospital, Seongnam 13620, Republic of Korea.",
+    "Department of Dermatology, College of Medicine, Chungbuk National University, Cheongju 28644, Republic of Korea.",
+    "Department of Dermatology, Kangdong Sacred Heart Hospital, Hallym University College of Medicine, Seoul 05355, Republic of Korea.",
+    "Department of Dermatology, Kangbuk Samsung Hospital, Sungkyunkwan University School of Medicine, Seoul 03181, Republic of Korea.",
+    "Department of Dermatology, Hallym University Sacred Heart Hospital, Hallym University College of Medicine, Anyang 14068, Republic of Korea.",
+    "Medical Affairs, Johnson & Johnson, Seoul 04386, Republic of Korea.",
+    "Medical Affairs, Johnson & Johnson, Seoul 04386, Republic of Korea.",
+    "Department of Dermatology, Hallym University Sacred Heart Hospital, Hallym University College of Medicine, Anyang 14068, Republic of Korea.",
+    "Department of Dermatology, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam 13496, Republic of Korea.",
+    "Department of Dermatology, Korea University Ansan Hospital, 516, Gojan 1-dong, Danwon-gu, Ansan 15355, Republic of Korea."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41598642/",
+  "snapshot_id": "2026-02-12T16-18-10Z",
+  "ingested_at": "2026-02-12T16:18:11.791314+00:00"
+}

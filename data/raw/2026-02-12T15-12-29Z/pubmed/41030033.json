@@ -1,0 +1,27 @@
+{
+  "pmid": "41030033",
+  "title": "Real-world efficacy and retention of guselkumab in psoriatic arthritis: insights from a 12-month multicenter study.",
+  "abstract": "Psoriatic arthritis (PsA) is a chronic inflammatory disease that affects joints, skin, and other structures. Guselkumab, an IL-23 inhibitor, has shown efficacy in clinical trials, but real-world data on its long-term use in PsA are limited. This study aimed to assess the efficacy, safety, and retention rate of guselkumab in a real-world cohort of PsA patients over 12 months.\nThis retrospective study included PsA patients treated with guselkumab for at least 12 months across three medical centers. Patients were assessed at baseline and at 12 months using PsA disease activity scores. Retention rate at 12 months and reasons for discontinuation were recorded. Statistical analyses included descriptive statistics, Mann-Whitney tests for changes in disease activity, and Cox regression for identifying factors associated with treatment discontinuation.\nWe included 70 PsA patients. Significant reductions in disease activity were observed at 12 months for DAS28, DAPSA, MASES and ASDAS. The 12-month retention rate was 79%, with discontinuation primarily due to inefficacy. No significant adverse events were reported. Cox regression analysis found no significant associations between baseline characteristics and treatment discontinuation.\nGuselkumab demonstrated significant efficacy in reducing disease activity and a favorable retention rate over 12 months in a real-world PsA cohort. These findings support guselkumab as an effective treatment for PsA, although further prospective studies are needed to confirm long-term safety and efficacy.",
+  "pub_date": "2025",
+  "publication_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "affiliations": [
+    "IRCCS San Raffaele Hospital.",
+    "IRCCS San Raffaele Hospital.",
+    "ASST Grande Ospedale Metropolitano Niguarda.",
+    "ASST Sette Laghi, Ospedale Di Circolo-Fondazione Macchi.",
+    "IRCCS San Raffaele Hospital.",
+    "IRCCS San Raffaele Hospital.",
+    "IRCCS San Raffaele Hospital.",
+    "IRCCS San Raffaele Hospital.",
+    "IRCCS San Raffaele Hospital.",
+    "ASST Sette Laghi, Ospedale Di Circolo-Fondazione Macchi.",
+    "ASST Grande Ospedale Metropolitano Niguarda.",
+    "IRCCS San Raffaele Hospital."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41030033/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

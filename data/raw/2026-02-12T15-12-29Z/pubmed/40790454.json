@@ -1,0 +1,35 @@
+{
+  "pmid": "40790454",
+  "title": "Impact of Disease Activity-Guided Dose Reduction on IL-17 and IL-23 Inhibitors in Psoriasis: A Real-World Assessment of Efficacy, Safety, and Economic Benefits.",
+  "abstract": "Psoriasis is a chronic inflammatory multisystem disease for which IL-17 and IL-23 inhibitors have transformed treatment. However, high costs and the possibility of overtreatment in patients with excellent and sustained responses have driven interest in dose reduction (DR) to lower expenses without compromising efficacy.\nWe conducted a multicenter observational trial assessing the efficacy and safety of DRs for secukinumab, brodalumab, guselkumab, and risankizumab in adults with stable plaque psoriasis. Eligible participants were adults with low disease activity (PASI ≤ 3, DLQI ≤ 3 for at least 9 months). DR involved lengthening intervals to approximately 67% of the authorized standard dose. From the 361 enrolled (March 2023-January 2025), we analyzed data on 156 participants with ≥12 months of follow-up or early discontinuation due to DR failure.\nSeventy of these patients (44.87%) received IL-17 inhibitors, and 86 (55.13%) received IL-23 inhibitors. After 52 weeks, the overall dose-reduction survival was 0.75 (95% CI: 0.69-0.82). For IL-23 inhibitor and IL-17 inhibitor cohorts, the dose-reduction survival was 0.83 (95% CI: 0.75-0.91) and 0.66 (95% CI: 0.55-0.78), respectively. Moreover, Kaplan-Meier curves suggested significant (p-value log-rank test=0.018) higher dose reduction survival for IL-23 inhibitors compared to IL-17.\nOur preliminary findings suggest that extended dosing intervals for IL-17 and IL-23 inhibitors can effectively maintain disease control in stable plaque psoriasis. Larger randomized trials are needed to confirm these results, identify predictive markers of DR success, and optimize patient selection for safe and cost-effective management of psoriasis.",
+  "pub_date": "2025-07-31",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "SCDU Dermatologia, AOU Maggiore della Carità, Novara, Italy.",
+    "Dept of Translational Medicine, University of Eastern Piedmont, Novara, Italy.",
+    "SCDU Dermatologia, AOU Maggiore della Carità, Novara, Italy.",
+    "Hospital Pharmacy, AOU Maggiore della Carità, Novara, Italy.",
+    "Dermatologic Clinic, Department of Clinical Medicine, University of Turin, Turin, Italy.",
+    "SSD Dermatologia, AO Santa Croce e Carle Hospital, Cuneo, Italy.",
+    "SS Dermatologia, AOU SS. Antonio e Biagio e Cesare Arrigo, Alessandria, Italy.",
+    "UO Dermatologia, Ospedale Koelliker, Torino, Italy.",
+    "SSD Dermatologia, AO Santa Croce e Carle Hospital, Cuneo, Italy.",
+    "SSD Dermatologia, Ospedale degli Infermi, Biella, Italy.",
+    "SS Dermatologia, AOU SS. Antonio e Biagio e Cesare Arrigo, Alessandria, Italy.",
+    "Dermatologic Clinic, Department of Clinical Medicine, University of Turin, Turin, Italy.",
+    "SSD Dermatologia, Ospedale degli Infermi, Biella, Italy.",
+    "SC Dermatologia, S. Andrea Hospital, ASL Vercelli, Vercelli.",
+    "Hospital Pharmacy, AOU Maggiore della Carità, Novara, Italy.",
+    "Dermatologic Clinic, Department of Clinical Medicine, University of Turin, Turin, Italy.",
+    "Dermatologic Clinic, Department of Clinical Medicine, University of Turin, Turin, Italy.",
+    "SSD Dermatologia, Cardinal Massaia Hospital, Asti, Italy.",
+    "SC Dermatologia, S. Andrea Hospital, ASL Vercelli, Vercelli.",
+    "Dermatologic Clinic, Department of Clinical Medicine, University of Turin, Turin, Italy.",
+    "Dept. of Health Science, University of Eastern Piedmont, Novara, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40790454/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

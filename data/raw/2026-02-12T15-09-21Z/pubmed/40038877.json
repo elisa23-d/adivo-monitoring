@@ -1,0 +1,28 @@
+{
+  "pmid": "40038877",
+  "title": "Topical TYK2 inhibitor ameliorates psoriasis-like dermatitis via the AKT-SP1-NGFR-AP1 pathway in keratinocytes.",
+  "abstract": "Tyrosine kinase 2 (TYK2)-dependent cytokine signalling is integral to the pathogenesis of psoriasis. While BMS-986165, a highly selective TYK2 inhibitor, has recently been approved for oral treatment of psoriasis, its therapeutic potential via topical application remains unexplored.\nWe aim to investigate the efficacy of topically applying TYK2 inhibitor in psoriasis and to elucidate the underlying mechanisms driving the therapeutic effects of this delivery approach.\n1.5% BMS-986165 ointment was applied topically to the back skin of imiquimod (IMQ)-induced psoriatic mice. To identify potential target cells influenced by the topical TYK2 inhibitor, we performed single cell RNA sequencing (scRNA-seq) and flow cytometry on mouse lesions. The role of TYK2 in vitro was assessed by silencing its expression or administering BMS-986165 in human keratinocytes (KCs). Mechanistic insights into TYK2 function in KCs were further investigated using RNA-seq, dual luciferase reporter assay and ChIP-qPCR.\nExternal use of 1.5% BMS-986165 ointment significantly ameliorated the IMQ-induced psoriasis-like dermatitis. Importantly, topical TYK2 inhibitor attenuated proinflammatory capability of KCs. In vitro, TYK2 inhibition suppressed the transcription of nerve growth factor receptor (NGFR) by disrupting the AKT-SP1 signalling pathway. This impairment hindered the activation of activator protein 1 (AP1), thereby weakening the proinflammatory potential of KCs.\nThis study reveals a novel therapeutic potential for selective TYK2 inhibitor in topical manner on psoriasis therapy, which might prompt the development of topical treatment for psoriasis. Crucially, our findings provide an underexplored regulatory mechanism of TYK2 inhibitor in psoriasis.\nTopical TYK2 inhibitor alleviates psoriasis-like dermatitis. Topical TYK2 inhibitor reduces psoriasis progression through restraining the inflammatory responses of keratinocytes. The inhibition of TYK2 regulates the inflammatory response of keratinocytes through AKT-SP1-NGFR-AP1 pathway.",
+  "pub_date": "2025-03",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "National Engineering Research Center of Personalized Diagnostic and Therapeutic Technology, Central South University, Changsha, Hunan, China.",
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "National Engineering Research Center of Personalized Diagnostic and Therapeutic Technology, Central South University, Changsha, Hunan, China.",
+    "Department of Dermatology, University of Michigan, Ann Arbor, Michigan, USA.",
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Clinical Medicine Eight-Year Program, Xiangya School of Medicine, Central South University, Changsha, Hunan, China.",
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "National Engineering Research Center of Personalized Diagnostic and Therapeutic Technology, Central South University, Changsha, Hunan, China.",
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "National Engineering Research Center of Personalized Diagnostic and Therapeutic Technology, Central South University, Changsha, Hunan, China.",
+    "Department of Dermatology, Hunan Engineering Research Center of Skin Health and Disease, Hunan Key Laboratory of Skin Cancer and Psoriasis, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "National Engineering Research Center of Personalized Diagnostic and Therapeutic Technology, Central South University, Changsha, Hunan, China.",
+    "Clinical Research Center, Medical Pathology Center, Cancer Early Detection and Treatment Center, Chongqing University Three Gorges Hospital, Chongqing University, Wanzhou, Chongqing, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40038877/",
+  "snapshot_id": "2026-02-12T15-09-21Z",
+  "ingested_at": "2026-02-12T15:09:25.497525+00:00"
+}

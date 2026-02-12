@@ -1,0 +1,20 @@
+{
+  "pmid": "40751361",
+  "title": "Pharmacometric Model-Based Sample Size Allocation for a Region of Interest in a Multi-Regional Phase 2 Trial: A Case Study of an Anti-Psoriatic Drug.",
+  "abstract": "Phase 2 trials have historically focused on characterizing the dose-exposure-response relationship in relatively homogeneous patient populations before proceeding to confirmatory trials. However, with the rise of multi-regional Phase 2 trials, it is important to strike a balance between this goal and the requirement to make sure that the optimal doses are chosen for patients from various geographic areas. This study uses a dose-ranging trial for an anti-psoriatic drug, featuring a typical design with a total sample size of N = 175, to highlight key considerations regarding sample size in multi-regional exploratory studies. The allocation of sample size to a region of interest (Region X) was evaluated using both a conventional statistical approach and a pharmacometric model-based (PMx) approach, predicated on the assumption of a minimum treatment improvement in Region X. Further evaluation was performed to assess the probability of reaching reliable conclusions regarding clinically relevant inter-regional differences in treatment response. The statistical approach, relying solely on end-of-trial observations from a single dose group, exhibited a maximum power of less than 40% in detecting treatment differences across regions when Region X accounts for 50% of the total sample size. In contrast, the PMx approach, employing data from multiple dose groups across trial duration, demonstrated that 26% of the total sample size yielded over 80% power to identify the inter-regional difference. The PMx approach has also been shown to offer a more efficient characterization of the clinical relevance of inter-regional differences, and has potential to improve decision-making in development progression by integrating prior knowledge.",
+  "pub_date": "2025-08-01",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial, Phase II"
+  ],
+  "affiliations": [
+    "GSK, Shanghai, China.",
+    "GSK, Shanghai, China.",
+    "GSK, Shanghai, China.",
+    "GSK, Stevenage, Hertfordshire, UK.",
+    "GSK, Shanghai, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40751361/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

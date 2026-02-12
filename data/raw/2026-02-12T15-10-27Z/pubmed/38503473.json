@@ -1,0 +1,33 @@
+{
+  "pmid": "38503473",
+  "title": "Efficacy and safety of pharmacological treatment of psoriatic arthritis: a systematic literature research informing the 2023 update of the EULAR recommendations for the management of psoriatic arthritis.",
+  "abstract": "To obtain an overview of recent evidence on efficacy and safety of pharmacological treatments in psoriatic arthritis (PsA).\nThis systematic literature research (SLR) investigated the efficacy and safety of conventional synthetic (cs), biological (b) and targeted synthetic (ts) disease-modifying antirheumatic drugs (DMARDs) in patients with PsA. A systematic database search using Medline, EMBASE, Cochrane CENTRAL was conducted to identify relevant articles published since the previous update in 2019 until 28 December 2022. Efficacy was assessed in trials while for safety observational data were also considered. Adverse events of special interest were infections (including herpes zoster, influenza and tuberculosis), malignancies, major adverse cardiovascular events, venous thromboembolisms, liver disease, laboratory changes and psychiatric adverse events. No meta-analyses were performed.\nFor efficacy, of 3946 articles screened, 38 articles (30 trials) were analysed. The compounds investigated included csDMARDs (leflunomide, methotrexate), bDMARDs inhibiting IL17 (bimekizumab, brodalumab, ixekizumab, izokibep, secukinumab,), IL-23 (guselkumab, risankizumab, tildrakizumab), IL-12/23 (ustekinumab) as well as TNF (adalimumab, certolizumab-pegol, etanercept, infliximab, golimumab) and Janus Kinase inhibitors (JAKi) (brepocitinib, deucravacitinib, tofacitinib, upadacitinib). The compounds investigated were efficacious in improving signs and symptoms of PsA, improving physical functioning and quality of life. For safety, 2055 abstracts were screened, and 24 articles analysed: 15 observational studies and 9 long-term follow-ups of trials, assessing glucocorticoids, TNFi, IL-17i, JAKi, IL-12/23i and PDE4i (apremilast). Safety indicators were generally coherent with the previous SLR in 2019.\nThe results of this SLR informed the task force responsible for the 2023 update of the European Alliance of Associations for Rheumatology recommendations for pharmacological management of PsA.",
+  "pub_date": "2024-05-15",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "affiliations": [
+    "Department of Medicine 3, Division of Rheumatology, Medical University of Vienna, Vienna, Austria andreas.kerschbaumer@meduniwien.ac.at.",
+    "Department of Medicine 3, Division of Rheumatology, Medical University of Vienna, Vienna, Austria.",
+    "Nursing Research, Innovation and Development Centre of Lisbon (CIDNUR), Higher School of Nursing of Lisbon, Lisboa, Portugal.",
+    "Rheumatology Department, Centro Hospitalar e Universitario de Coimbra EPE, Coimbra, Portugal.",
+    "EULAR Patient Research Partner, Oslo, Norway.",
+    "Rheumazentrum Ruhrgebiet, Ruhr University Bochum, Herne, Germany.",
+    "Department of Medicine 3, Division of Rheumatology, Medical University of Vienna, Vienna, Austria.",
+    "NIHR Leeds Musculoskeletal Biomedical Research Unit, Leeds, UK.",
+    "Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, Leeds, UK.",
+    "Department of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands.",
+    "College of Medical Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.",
+    "Copenhagen Center for Arthritis Research, Center for Rheumatology and Spine Diseases, Rigshospitalet, Glostrup, Denmark.",
+    "Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.",
+    "School of Medicine, School of Public Health, Oregon Health & Science University, Portland, Oregon, USA.",
+    "Division of Dermatology and Venereology, Geneva University Hospitals, Geneva, Switzerland.",
+    "Walaeus Library, Leiden University Medical Center, Leiden, The Netherlands.",
+    "INSERM, Institut Pierre Louis d'Epidémiologie et de Santé Publique, Sorbonne Universite, Paris, France.",
+    "APHP, Rheumatology Department, Hopital Universitaire Pitie Salpetriere, Paris, France."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38503473/",
+  "snapshot_id": "2026-02-12T15-10-27Z",
+  "ingested_at": "2026-02-12T15:10:32.228780+00:00"
+}

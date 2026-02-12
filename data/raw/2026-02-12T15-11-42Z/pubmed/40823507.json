@@ -1,0 +1,20 @@
+{
+  "pmid": "40823507",
+  "title": "TYK2 rs34536443 (P1104A) Variant Suppresses ICAM1-Mediated Inflammation: Insights From Mendelian Randomization and Functional Analyses.",
+  "abstract": "Genetic susceptibility to psoriasis involves multiple loci, including TYK2 (Tyrosine Kinase 2), which is associated with various autoimmune diseases. However, its specific role and mechanisms in psoriasis remain unclear. This study aimed to identify psoriasis-associated proteins using Summary-based Mendelian Randomization (SMR) and to explore their regulatory mechanisms.\nSMR analysis integrating pQTL data was conducted to identify proteins linked to psoriasis, revealing ICAM1 (Intercellular Adhesion Molecule 1) as a potential pathogenic factor. A key SNP, rs34536443 (P1104A), located in TYK2, was found to regulate ICAM1. To assess its function, THP-1 cells carrying the TYK2-P1104A mutation were generated, and ICAM1 and cytokine expression were analyzed following LPS stimulation. The effect of the TYK2 inhibitor Deucravacitinib was tested in an imiquimod (IMQ)-induced psoriasis mouse model.\nSMR identified ICAM1 as a causal protein for psoriasis, regulated by the TYK2 SNP rs34536443. In TYK2-P1104A mutant THP-1 cells, LPS-induced ICAM1 expression was significantly reduced, with ICAM5 unaffected. The mutation also suppressed IL-1β, TNF-α, IL-6, and IL-18 expression, suggesting anti-inflammatory effects. Single-cell RNA-seq revealed enrichment of TYK2, ICAM1, and ICAM5 in dendritic cells and monocytes. In vivo, Deucravacitinib significantly downregulated ICAM1 in the IMQ-induced psoriasis model, with minimal effect on ICAM5.\nThis study identifies ICAM1 as a key mediator in psoriasis via SMR analysis and implicates the TYK2 SNP rs34536443 in its regulation. The TYK2-P1104A variant attenuates ICAM1 and cytokine expression, and Deucravacitinib downregulates ICAM1 in vivo. These findings provide mechanistic insights into the TYK2-ICAM1 axis and support the therapeutic potential of TYK2 inhibitors for psoriasis.",
+  "pub_date": "2025-08-12",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China.",
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China.",
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China.",
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China.",
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China.",
+    "Department of Surgery VIII, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 200071, People's Republic of China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40823507/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

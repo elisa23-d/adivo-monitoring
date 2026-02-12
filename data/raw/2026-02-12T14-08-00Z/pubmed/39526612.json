@@ -1,0 +1,30 @@
+{
+  "pmid": "39526612",
+  "title": "Indirect comparison of deucravacitinib and other systemic treatments for moderate to severe plaque psoriasis in Asian populations: A systematic literature review and network meta-analysis.",
+  "abstract": "Expanding the systemic treatment options for patients with psoriasis, deucravacitinib, an oral, selective, allosteric tyrosine kinase 2 inhibitor is approved in the United States, European Union, China, Japan, Taiwan, Korea, and other countries for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy. Evidence suggests the comparative efficacy of systemic therapies may be different in Asian versus White patients. This systematic review and network meta-analysis (NMA) evaluated the clinical efficacy associated with deucravacitinib and other biologic or non-biologic systemic treatments for moderate to severe plaque psoriasis in Asian populations. Electronic databases were searched to identify randomized trials of the interventions of interest. Multinomial random effects models adjusting for baseline placebo risk were used to estimate Psoriasis Area and Severity Index (PASI) responses at weeks 10-16. Of 8596 studies identified, 20 were included in the NMA. The estimated PASI 75 and 90 (95% credible interval) response rates for deucravacitinib were estimated to be 66% (49%-80%) and 40% (24%-58%) in Asian populations, notably higher than placebo (6% [4%-9%] and 1% [0.8-2%]) and apremilast (24% [12%-40%] and 9% [4%-20%]). No statistically significant difference was observed in PASI 75 and 90 responses between deucravacitinib and adalimumab, certolizumab pegol, infliximab, ustekinumab, and tildrakizumab. Deucravacitinib demonstrated robust efficacy in the Asian population, with PASI 75 and 90 responses comparable to some biologics. Deucravacitinib provides a convenient oral therapy with efficacy similar to several biologic therapies.",
+  "pub_date": "2024-11-11",
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+  ],
+  "affiliations": [
+    "Department of Dermatology, National Taiwan University Hospital, Taipei, Taiwan.",
+    "Department of Dermatology, Teikyo University School of Medicine, Tokyo, Japan.",
+    "Global Medical Affairs, Bristol Myers Squibb, Taipei, Taiwan.",
+    "Worldwide HEOR, Bristol Myers Squibb, Princeton, New Jersey, USA.",
+    "Evidera, Evidence Synthesis, Modeling and Communication, Waltham, Massachusetts, USA.",
+    "Evidence Synthesis, Modeling and Communication, PPD Poland, Warsaw, Poland.",
+    "Evidera, Evidence Synthesis, Modeling and Communication, Waltham, Massachusetts, USA.",
+    "Bristol Myers Squibb, Princeton, New Jersey, USA.",
+    "Department of Dermatology, Chang Ghang Memorial Hospital and Chang Gung University, Taoyuan, Taiwan.",
+    "Department of Dermatology, First Hospital of China Medical University, Shenyang, China.",
+    "Department of Dermatology, First Hospital of China Medical University, Shenyang, China.",
+    "Department of Dermatology, Seoul National University College of Medicine, Seoul, South Korea.",
+    "Department of Medicine, University of California Los Angeles, Los Angeles, California, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39526612/",
+  "snapshot_id": "2026-02-12T14-08-00Z",
+  "ingested_at": "2026-02-12T14:08:04.327151+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "41112262",
+  "title": "Comprehensive disproportionality analysis of individual case safety reports associated with Janus kinase inhibitors in psoriasis and psoriatic arthritis using the FAERS database.",
+  "abstract": "The development of Janus kinase (JAK) inhibitors has significantly expanded the therapeutic options for patients with psoriasis and psoriatic arthritis (PsA). However, the distinct pharmacological profiles and target selectivity of these agents result in varying safety implications. This study systematically evaluates the safety of different JAK inhibitors in psoriasis and PsA patients.\nA retrospective pharmacovigilance study was conducted using the Food and Drug Administration Adverse Event Reporting System (FAERS) database. The disproportionality analysis methods, including reporting odds ratio (ROR) and information component (IC), were used to evaluate the adverse events (AEs) associated with the use of JAK inhibitors (deucravacitinib, upadacitinib, tofacitinib) in patients with psoriasis and PsA. To reduce potential confounding factors, sensitivity analysis was carried out.\nA total of 167,807 worldwide individual case safety reports (ICSRs) of JAK inhibitors (Q4-2014 to Q3-2024) from 10,616 psoriasis and PsA patients were identified. Skin and subcutaneous tissue disorders, infections and infestations, and gastrointestinal disorders were frequently reported AE signals for JAK inhibitors. Musculoskeletal and connective tissue disorders were prominent AEs associated with upadacitinib and tofacitinib. The reporting rates of skin and subcutaneous tissue disorder AEs for deucravacitinib were higher than those for the other two drugs, whereas most other AE reporting rates for deucravacitinib were lower. Some AEs that have not been reported in the drug prescribing information deserve further attention. Subgroup analysis suggested that female subjects had a higher likelihood of developing skin and subcutaneous tissue disorders after taking tofacitinib. Comparisons between psoriasis and PsA indicated that AE signals were generally comparable across the two indications.\nThis research offers practical evidence for assessing the safety of JAK inhibitors used in psoriasis and PsA. Since disproportionality analysis serves as a hypothesis-generating approach, the results necessitate further validation in studies with denominator data to assess causal relationships.",
+  "pub_date": "2025-10-02",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Department of Radiology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "School of Applied Mathematics, Guangdong University of Technology, Guangzhou, Guangdong, China.",
+    "School of Clinical Medicine, Youjiang Medical University for Nationalities, Baise, Guangxi, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+    "Center of Clinical Pharmacology, The Third Xiangya Hospital, Central South University, Changsha, Hunan, China."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41112262/",
+  "snapshot_id": "2026-02-12T15-06-31Z",
+  "ingested_at": "2026-02-12T15:06:35.632022+00:00"
+}

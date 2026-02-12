@@ -1,0 +1,18 @@
+{
+  "pmid": "40378946",
+  "title": "A Triple-Action Inhibitory Mechanism of Allosteric TYK2-Specific Inhibitors.",
+  "abstract": "Deucravacitinib is a highly selective allosteric inhibitor of the protein TYK2. It targets the Jak-signal transducer and activator of transcription pathway. Despite its selectivity, the structural basis for its inhibition mechanism remains poorly understood. In this study, we analyze available atomic resolution structures relevant to the Jak-signal transducer and activator of transcription pathway to investigate the TYK2 inhibition mechanism. Our computational analysis suggests a mechanistic hypothesis for the relatively rapid IFN-induced gene expression mediated by TYK2 compared with that of other cytokine pathways. We find that deucravacitinib and other TYK2-specific allosteric drugs inhibit TYK2 kinase in 3 distinct states: an autoinhibited state and 2 activated states. The activated states are involved in autophosphorylation and the phosphorylation of downstream proteins. In the autoinhibited state, deucravacitinib binds to the TYK2 pseudokinase domain. This binding restricts essential dynamics of the TYK2 kinase domain needed for kinase activity. In addition, deucravacitinib competes with adenosine triphosphate binding in the pseudokinase domain. This competitive binding directly prevents the formation of the active TYK2 state through steric clashes.",
+  "pub_date": "2025-05-14",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA; Department of Dermatology, Yale School of Medicine, New Haven, Connecticut, USA. Electronic address: jimin.wang@yale.edu.",
+    "Department of Dermatology, Yale School of Medicine, New Haven, Connecticut, USA.",
+    "Department of Chemistry, Yale University, New Haven, Connecticut, USA.",
+    "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA; Department of Dermatology, Yale School of Medicine, New Haven, Connecticut, USA; Program in Translational Biomedicine, Yale School of Medicine, New Haven, Connecticut, USA. Electronic address: christopher.bunick@yale.edu."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40378946/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

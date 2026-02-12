@@ -1,0 +1,37 @@
+{
+  "pmid": "39084258",
+  "title": "Augmentative effects of leukemia inhibitory factor reveal a critical role for TYK2 signaling in vascular calcification.",
+  "abstract": "Medial vascular calcification in chronic kidney disease (CKD) involves pro-inflammatory pathways induced by hyperphosphatemia. Several interleukin 6 family members have been associated with pro-calcific effects in vascular smooth muscle cells (VSMCs) and are considered as therapeutic targets. Therefore, we investigated the role of leukemia inhibitory factor (LIF) during VSMC calcification. LIF expression was found to be increased following phosphate exposure of VSMCs. LIF supplementation aggravated, while silencing of endogenous LIF or LIF receptor (LIFR) ameliorated the pro-calcific effects of phosphate in VSMCs. The soluble LIFR mediated antagonistic effects towards LIF and reduced VSMC calcification. Mechanistically, LIF induced phosphorylation of the non-receptor tyrosine-protein kinase 2 (TYK2) and signal transducer and activator of transcription-3 (STAT3) in VSMCs. TYK2 inhibition by deucravacitinib, a selective, allosteric oral immunosuppressant used in psoriasis treatment, not only blunted the effects of LIF, but also interfered with the pro-calcific effects induced by phosphate. Conversely, TYK2 overexpression aggravated VSMC calcification. Ex vivo calcification of mouse aortic rings was ameliorated by Tyk2 pharmacological inhibition and genetic deficiency. Cholecalciferol-induced vascular calcification in mice was improved by Tyk2 inhibition and in the Tyk2-deficient mice. Similarly, calcification was ameliorated in Abcc6/Tyk2-deficient mice after adenine/high phosphorus-induced CKD. Thus, our observations indicate a role for LIF in CKD-associated vascular calcification. Hence, the effects of LIF identify a central pro-calcific role of TYK2 signaling, which may be a future target to reduce the burden of vascular calcification in CKD.",
+  "pub_date": "2024-07-30",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Department of Internal Medicine and Cardiology, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Department of Internal Medicine and Cardiology, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Department of Nephrology and Medical Intensive Care, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany.",
+    "Department of Nephrology and Medical Intensive Care, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany; Faculty of Medicine, Medical School Berlin, Berlin, Germany.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria.",
+    "Center of Systems Biology, Biomedical Research Foundation Academy of Athens, Athens, Greece.",
+    "Department for Cardiac Surgery, Medical University of Innsbruck, Innsbruck, Austria.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria; Calciscon AG, Biel, Switzerland.",
+    "Internal Medicine III-Nephrology, Transplantation Medicine, Rheumatology, Ordensklinikum Linz, Linz, Austria.",
+    "Red Cross Transfusion Service of Upper Austria, Linz, Austria.",
+    "Department of Internal Medicine 2, Kepler University Hospital and Johannes Kepler University, Linz, Austria.",
+    "Division of Nephrology and Dialysis, Department of Medicine III, Medical University of Vienna, Vienna, Austria.",
+    "Institute of Animal Breeding and Genetics, University of Veterinary Medicine Vienna, Vienna, Austria.",
+    "Center of Systems Biology, Biomedical Research Foundation Academy of Athens, Athens, Greece.",
+    "Department for Cardiac Surgery, Medical University of Innsbruck, Innsbruck, Austria.",
+    "Department of Nephrology and Medical Intensive Care, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany.",
+    "Institute for Physiology and Pathophysiology, Johannes Kepler University Linz, Linz, Austria; Department of Nephrology and Medical Intensive Care, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany; DZHK (German Centre for Cardiovascular Research), Partner Site Berlin, Berlin, Germany. Electronic address: jakob.voelkl@jku.at."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39084258/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

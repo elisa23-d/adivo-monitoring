@@ -1,0 +1,22 @@
+{
+  "pmid": "40846809",
+  "title": "A systematic review and network meta-analysis comparing the efficacy and safety of deucravacitinib versus selected treatments for moderate to severe plaque psoriasis.",
+  "abstract": "To assess deucravacitinib's efficacy and safety against selected treatments for moderate-to-severe plaque psoriasis via network meta-analysis.\nRelevant studies were selected via a systematic literature search in PubMed, EMBASE, Web of Science, and Cochrane Library databases. To assess the ORs with corresponding 95% CIs for outcomes including PASI 75, PASI 90, sPGA 0/1, and treatment discontinuation due to adverse events over the 10-16-week timeframe, a network meta-analysis was performed utilizing R software. Treatment efficacy and safety were comparatively ranked by calculating the surface under the cumulative ranking curve (SUCRA).\nThis study included 66 trials of 27,074 patients. All interventions outperformed placebo in short-term outcomes. Infliximab ranked the highest for achieving PASI 75 (OR, 0.01; 95% CI, 0.00 to 0.01, moderate-to-high-quality evidence). Bimekizumab ranked the highest for achieving PASI 90 (OR, 0.00; 95% CI, 0.00 to 0.01, moderate-to-high-quality evidence). Tildrakizumab ranked the highest for achieving sPGA 0/1 (OR, 0.01; 95% CI, 0.00 to 0.05, low-to-high-quality evidence). Brodalumab had the highest risk of discontinuation due to adverse events (OR, 1.28; 95% CI, 0.36 to 5.04, moderate-to-high-quality evidence).\nAccumulating research, albeit of differing robustness, suggests that bimekizumab could potentially offer superior efficacy compared to other therapies in attaining both the PASI 75 and PASI 90 response thresholds in psoriasis treatment. Tildrakizumab appears to have achieved the highest proportion of participants reaching a static Physician's Global Assessment (sPGA) score of clear or almost clear (sPGA 0/1). Deucravacitinib has demonstrated moderate efficacy and tolerability; however, additional head-to-head comparative trials are warranted to substantiate its effects due to the paucity of existing studies. Key Points • The NMA of 66 RCTs reveals that infliximab, bimekizumab, and tildrakizumab are superior in achieving PASI 75, PASI 90, and sPGA 0/1, respectively, in moderate-to-severe plaque psoriasis, underscoring their therapeutic significance. • Deucravacitinib, an oral TYK2 inhibitor, outperforms placebo and apremilast in efficacy for moderate-to-severe plaque psoriasis. Its once-daily dosing may enhance adherence, presenting a promising oral therapy. • The study's strengths are its assessment of deucravacitinib's short-term effects, use of high-quality RCTs, and analytical rigor. Limitations involve varying trial durations and reporting biases. Sensitivity analyses were conducted to ensure robust findings.",
+  "pub_date": "2025-08-22",
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+  ],
+  "affiliations": [
+    "Department of Dermatology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+    "Xiangya Hospital Central South University, Changsha, China.",
+    "Department of Dermatology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+    "Department of Dermatology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+    "Department of Dermatology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. tangjun0212@ustc.edu.cn."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40846809/",
+  "snapshot_id": "2026-02-12T14-09-47Z",
+  "ingested_at": "2026-02-12T14:09:51.284857+00:00"
+}

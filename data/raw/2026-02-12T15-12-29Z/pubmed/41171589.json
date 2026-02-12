@@ -1,0 +1,26 @@
+{
+  "pmid": "41171589",
+  "title": "Serious Infection Risk with Systemic Treatments for Psoriasis: A Systematic Review and Network Meta-analysis Combining Randomised and Non-randomised Evidence.",
+  "abstract": "Systemic treatments including standard and targeted drugs for psoriasis could increase the risk of serious infections. In this study we assessed the serious infection risk associated with systemic treatments in patients with psoriasis.\nA systematic review of randomised controlled trials (RCTs) and non-randomised studies of interventions (NRSIs) comparing systemic treatments with placebo or each other was performed. Studies included in Medline, Embase, Cochrane register, CINAHL and ClinicalTrials.gov until September 2024 were eligible if at least 50 adults or children with plaque psoriasis were studied. The primary outcome was serious infection defined as any infection resulting in hospitalization, administration of intravenous antibiotics, death or classified as serious by study authors. Two authors independently performed screening for study eligibility. A frequentist network meta-analysis (NMA) was performed using random effects model. RCT, NRSI and combined (RCT and NRSI) networks were created.\nFrom 119 eligible RCTs, 76 with at least one serious infection event (n = 39,044) and out of 33 eligible NRSIs, 6 without critical risk of bias (n = 306,762) were included in the NMA. Patients were predominantly male (up to 85%) with a mean age ranging from 13 to 52 years. The RCT network showed no increase in serious infection risk with any drug or drug class when compared with each other. The NRSI network showed higher risk with infliximab and adalimumab compared to several other drugs, especially infliximab vs methotrexate (IRR 2.85; 95% CI 1.48, 5.46), and adalimumab vs ustekinumab (IRR 1.51; 95% CI 1.25, 1.83). In the combined NMA, infliximab and adalimumab were additionally shown to have significantly higher risk than acitretin, bimekizumab, methotrexate, placebo, risankizumab, and secukinumab.\nThe tumour necrosis factor alpha (TNFα) inhibitors adalimumab and infliximab had higher risk of serious infections in the combined NMA. Our findings may inform clinicians and patients concerned about the risk of emergent serious infection on therapy.",
+  "pub_date": "2025-10-31",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "affiliations": [
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "St John's Institute of Dermatology, King's College London and Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "Willan House, British Association of Dermatologists, London, UK.",
+    "Willan House, British Association of Dermatologists, London, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK.",
+    "Dermatology Centre, Northern Care Alliance NHS Foundation Trust and Division of Musculoskeletal and Dermatological Sciences, Manchester NIHR Biomedical Research Centre, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK. zenas.yiu@manchester.ac.uk."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41171589/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "37997745",
+  "title": "Efficacy of tyrosine-kinase-2 and phosphodiesterase-4 inhibitors for scalp psoriasis: a systematic review and meta-analysis.",
+  "abstract": "Psoriasis of the scalp is challenging to manage. The only approved oral tyrosine kinase 2 and phosphodiesterase 4 inhibitors for psoriasis are deucravacitinib and apremilast. The aim of this study was to explore their efficacy for scalp psoriasis utilizing data from randomized controlled trials.\nWe searched Medline, Scopus, Web of Science, CENTRAL, and ClinicalTrials.gov up to August 4, 2023. To determine risk of bias, the revised Risk of Bias assessment tool 2.0 was used. Inverse variance random effects meta-analyses were executed. Heterogeneity was assessed utilizing Q and I2 statistics. Pre-determined outcomes included the proportion of participants with cleared scalp skin (Scalp Physician's Global Assessment [ScPGA] of 0/1), mean change in Psoriasis Scalp Severity Index (PSSI), and mean improvement in Dermatology Life Quality Index (DLQI).\nTen RCTs fulfilled inclusion criteria. Both apremilast (RR = 2.41, 95% CI = 2.08-2.79, Tau2 = 0, I2 = 0) and deucravacitinib (RR = 3.86, 95% CI = 3.02-4.94, Tau2 = 0, I2 = 0) were more effective in inducing ScPGA of 0/1 at 16 weeks compared to placebo. Furthermore, deucravacitinib was more effective than apremilast (RR = 1.70, 95% CI = 1.44-2.00, Tau2 = 0, I2 = 0). An analysis could not be executed for the rest of the outcomes.\nApremilast and deucravacitinib are effective for scalp psoriasis. Deucravacitinib may be more efficient in clearing the scalp.",
+  "pub_date": "2024-01-24",
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Rheumatology and Clinical Immunology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Larissa, Greece.",
+    "Primary Health Center of Mouzaki, Karditsa, Greece.",
+    "Department of Rheumatology and Clinical Immunology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Larissa, Greece.",
+    "Department of Dermatology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Larissa, Greece.",
+    "Department of Rheumatology and Clinical Immunology, Faculty of Medicine, School of Health Sciences, University of Thessaly, Larissa, Greece."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37997745/",
+  "snapshot_id": "2026-02-12T15-11-42Z",
+  "ingested_at": "2026-02-12T15:11:45.771210+00:00"
+}

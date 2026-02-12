@@ -1,0 +1,16 @@
+{
+  "pmid": "40200906",
+  "title": "Computational insights of deucravacitinib's selectivity for TYK2 pseudokinase vs. JAK kinase domain via molecular modeling studies.",
+  "abstract": "Deucravacitinib (Sotyktu) stands out as a novel and highly specific oral inhibitor targeting tyrosine kinase 2 (TYK2). Its mechanism of action involves an allosteric binding, to catalytically inactive pseudokinase domain of TYK2, this stabilizes an inhibitory contact between the catalytic and regulatory domains. This inhibition of Janus kinase (JAK) is associated with suppression of cytokine signaling using diverse molecules defining wide importance in current research. In our recent investigation, we examined the selectivity of the TYK2JH2 inhibitor, deucravacitinib, against four JAK kinases (JAK1, JAK2, JAK3, TYK2) and TYK2 pseudokinases utilizing a merged approach involving molecular docking, molecular dynamics analysis (300 ns), and binding free energy calculation through the molecular mechanics Poisson - Boltzmann surface area (MM-PBSA) scheme. The results obtained indicate that deucravacitinib effectively interacts with the ATP-binding site of four JAK kinases and TYK2 pseudokinase through hydrogen bond formation, electrostatic attraction, and notably, van der Waals interaction. We found the calculated binding affinity demonstrates a reduction in the TYK2JH2-deucravacitinib complex due to an increased favorable intermolecular electrostatic contribution. Consequently, deucravacitinib exhibits greater selectivity for the TYK2 pseudokinase domain compared to the other four JAKs. Moreover, the interaction with DPG motif residues and the hinge region contributed to the stabilization of deucravacitinib through robustly formed hydrogen bonds. The interaction with the hydrophobic catalytic region caused the ATP-binding site to adopt a closed conformation, thereby minimizing protein movement at the glycine loop of the JAK pseudokinase protein. In summary, our study holds significant potential for informing the strategic design of TYK2 inhibitors with enhanced affinity.",
+  "pub_date": "2025-04-09",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Pharmacy, School of Chemical Sciences, Central University of Rajasthan, Ajmer, India.",
+    "Department of Pharmacy, School of Chemical Sciences, Central University of Rajasthan, Ajmer, India."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40200906/",
+  "snapshot_id": "2026-02-12T15-06-31Z",
+  "ingested_at": "2026-02-12T15:06:35.632022+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "41152645",
+  "title": "Extrapolating Guselkumab Efficacy to Juvenile Psoriatic Arthritis from Adult Psoriatic Arthritis and Adult and Pediatric Psoriasis Data.",
+  "abstract": "Psoriatic arthritis (PsA) and juvenile PsA (jPsA) are chronic inflammatory diseases with similar features that differ by age and sequence of symptom onset. PsA and psoriasis (PsO) share comparable pathology across ages, with interleukin (IL)-23 as a key mediator. Prior to the recent US FDA approval of guselkumab for treatment of pediatric plaque PsO and active jPsA, no approved pediatric treatment selectively targeted IL-23 signaling. Guselkumab (a fully human, dual-acting, IL-23p19 subunit inhibitor) was shown to be safe and effective in adult PsO and PsA, with consistent clinical benefits and safety in pediatric PsO. As jPsA shares features, including clinical characteristics and pathogenesis, with PsO and PsA, findings were extrapolated to jPsA using a similar approach previously applied to support ustekinumab and golimumab use in jPsA, which served as precedents for these analyses with guselkumab.\nThe aim of this study was to demonstrate the similarity of serum guselkumab concentrations, clinical response, and safety among children and adults with PsO and/or PsA in guselkumab randomized controlled trials.\nOne-year data from participants receiving guselkumab at Week (W)0, W4, then every 8 weeks in VOYAGE 1/2 (adult PsO; N = 1221), DISCOVER-1/-2 (adult PsA; N = 375), and PROTOSTAR (pediatric PsO; N = 92; n = 3 with concurrent jPsA) were included. Serum guselkumab concentrations, Investigator Global Assessment of clear/minimal (IGA 0/1) and Psoriasis Area and Severity Index (PASI) 75/90/100 response rates and safety outcomes were summarized.\nSerum guselkumab concentrations over 1 year were similar between pediatric (max median: 3.2 µg/mL) and adult PsO (3.7 µg/mL), adult PsO and PsA (4.2 µg/mL), and pediatric PsO and adult PsA. IGA 0/1 response rates at W16 were approximately similar in guselkumab-treated participants with pediatric PsO (66%), adult PsO (84%), and adult PsA (77%). W16 PASI 75/90/100 response rates were comparable across guselkumab-treated participants with pediatric PsO without jPsA (PASI 75: 77%; PASI 90: 56%; PASI 100: 33%), pediatric PsO with jPsA (1 of 2 participants achieved all PASI improvement levels), and adult PsA (77%; 55%; 22%). Guselkumab safety outcomes were similar across ages and diseases.\nComparable pharmacokinetic and clinical findings with guselkumab in children with PsO (3 with concurrent jPsA) and adults with PsO and PsA support the extrapolation of efficacy and safety data from adults to children with jPsA, supporting guselkumab use in jPsA.\nThe clinical trials included in this analysis are registered at www.\ngov with the identifiers: NCT02207231 (VOYAGE 1), NCT02207244 (VOYAGE 2), NCT03162796 (DISCOVER-1), NCT03158285 (DISCOVER-2), and NCT03451851 (PROTOSTAR).",
+  "pub_date": "2025-10-28",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "affiliations": [
+    "Johnson & Johnson, Beerse, Belgium.",
+    "Johnson & Johnson, Spring House, PA, USA.",
+    "Johnson & Johnson, High Wycombe, UK.",
+    "Johnson & Johnson, Leiden, The Netherlands.",
+    "Johnson & Johnson, Spring House, PA, USA.",
+    "Johnson & Johnson, Spring House, PA, USA.",
+    "Johnson & Johnson, Beerse, Belgium.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Johnson & Johnson, Horsham, PA, USA.",
+    "Drexel University College of Medicine, Philadelphia, PA, USA.",
+    "Johnson & Johnson, Spring House, PA, USA. jleu@its.jnj.com."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41152645/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "40875187",
+  "title": "Safety Profile of Upadacitinib: Descriptive Analysis in Over 27,000 Patient-Years Across Rheumatoid Arthritis, Psoriatic Arthritis, Axial Spondyloarthritis, Atopic Dermatitis, and Inflammatory Bowel Disease.",
+  "abstract": "We report the long-term safety of upadacitinib (oral, selective, and reversible Janus kinase inhibitor) in rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), non-radiographic axial spondyloarthritis (nr-axSpA), atopic dermatitis (AD), Crohn's disease (CD), and ulcerative colitis (UC).\nData were analyzed from 16 studies (data cutoff August 15, 2024). Each treatment group was pooled across studies within each indication. Active comparator arms included adalimumab (RA/PsA) and methotrexate (RA). Treatment-emergent adverse events (TEAEs) were reported as exposure-adjusted incidence rates per 100 patient-years (n/100 PY).\nThis analysis included 8632 (RA, n = 3209; PsA, n = 907; AS, n = 596; nr-axSpA, n = 286; AD, n = 2683; CD, n = 450; UC, n = 501) upadacitinib-treated patients over 27,164.2 patient-years (range 199.4-12,315.8 PY across indications). Rates (n/100 PY) of any TEAEs ranged from 112.0 (AS) to 401.1 (RA). Most frequently reported TEAEs included COVID-19, upper respiratory tract infection, nasopharyngitis, herpes zoster, urinary tract infection, and acne (primarily patients with AD). Serious TEAEs ranged from 4.5 (AD) to 11.0 (UC), and those leading to discontinuation ranged from 2.9 (AS) to 8.3 (UC). TEAEs leading to death ranged from 0 (nr-axSpA, UC) to 0.7 (RA). Among upadacitinib-treated patients across indications, rates of adverse events of special interest ranged from 1.3 to 4.6 (serious infection), 2.4-6.6 (herpes zoster), 0.2-0.9 (malignancy excluding nonmelanoma skin cancer [NMSC]), 0-1.4 (NMSC), 0-0.5 (major adverse cardiovascular event [MACE]), 0-0.9 (venous thromboembolism [VTE]), and 0-9.2 (elevated creatine kinase). In RA and PsA, herpes zoster, NMSC, and elevated creatine kinase rates were numerically higher with upadacitinib vs active comparators. Serious infection, herpes zoster, malignancy (excluding NMSC), NMSC, MACE, and VTE rates remained stable over time.\nThis descriptive analysis indicates a long-term safety profile of upadacitinib consistent with previous reports, further supporting long-term treatment of chronic diseases with upadacitinib. Variations in TEAE rates across indications likely reflected differences in populations and underlying comorbidities.\nClinicalTrials.gov identifiers NCT02675426, NCT02706951, NCT02706847, NCT02629159, NCT02706873, NCT03086343, NCT03104374, NCT03104400, NCT03178487, NCT04169373, NCT03569293, NCT03568318, NCT03607422, NCT03345823, NCT02819635.",
+  "pub_date": "2025-08-28",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Rheumatology and Clinical Immunology, Freie Universität Berlin and Humboldt-Universität zu Berlin, Charité Universitätsmedizin Berlin, Berlin, Germany. gerd.burmester@charite.de.",
+    "Division of Arthritis and Rheumatic Diseases, Oregon Health and Science University, Portland, OR, USA.",
+    "Department of Clinical Medicine, Trinity College Dublin, Dublin, Ireland.",
+    "Wellcome-HRB Clinical Research Facility, St. James' Hospital, Dublin, Ireland.",
+    "Inflammatory Bowel Disease Unit, Division of Gastroenterology and Hepatology, University of Calgary, Calgary, AB, Canada.",
+    "Division of Infectious Diseases, School of Medicine, School of Public Health, Oregon Health and Science University, Portland, OR, USA.",
+    "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+    "Dermatology Program, Division of Immunology, Boston Children's Hospital, Boston, MA, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Inc., North Chicago, IL, USA.",
+    "AbbVie Deutschland GmbH & Co. KG, Ludwigshafen, Germany.",
+    "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+    "Laboratory for Investigative Dermatology, Rockefeller University, New York, NY, USA."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40875187/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

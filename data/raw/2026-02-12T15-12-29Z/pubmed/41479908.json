@@ -1,0 +1,31 @@
+{
+  "pmid": "41479908",
+  "title": "Keratinocytes as active regulators of cutaneous and mucosal immunity: a systematic review across inflammatory epithelial disorders.",
+  "abstract": "Keratinocytes are increasingly recognized as active regulators of immunity in both skin and mucosal inflammation. Although numerous studies have described their functions in individual conditions, no systematic synthesis has compiled keratinocyte-driven immune mechanisms across the major categories of epithelial injury disorders. We conducted a systematic review to fill this gap and identify both shared and disease-specific pathways that underlie keratinocyte-immune crosstalk in prototypical inflammatory dermatoses.\nA PRISMA-compliant systematic review of studies investigating the role of keratinocytes in immune-mediated skin diseases marked by epithelial injury was performed in MEDLINE, EMBASE, and CENTRAL databases. Included conditions spanned atopic dermatitis (AD), psoriasis, lichen planus (LP), bullous pemphigoid (BP), lupus erythematosus (LE), and graft-versus-host disease (GvHD). These were chosen a priori because they are among the most common and clinically relevant inflammatory dermatoses, many with mucosal involvement, and together reflect diverse autoimmune, autoinflammatory, and alloimmune mechanisms. Key outcomes included keratinocyte signaling pathways, immune interactions, and tissue-specific responses.\nEighty-two studies met inclusion criteria: AD (n=49), psoriasis (n=11), LP (n=10), BP (n=3), LE (n=6), and GvHD (n=4). Keratinocytes were consistently implicated in cytokine production (e.g., IL-1β, IL-6, TNF-α, TSLP, IL-33), immune cell recruitment, and antigen presentation (via upregulation of MHC class II and costimulatory molecules such as ICAM-1 or B7). Shared activation pathways included NF-κB, JAK/STAT, and MAPK. Distinct immune profiles emerged across diseases: Th2-skewed responses in AD and BP, Th1/Th17 in psoriasis and LP, and type I interferons in LE and GvHD. Stress keratins (KRT6, KRT16, KRT17) were frequently upregulated and acted as amplifiers of inflammatory signaling. Of the included studies, the majority investigated skin, while mucosal data were largely limited to oral lichen planus and GvHD; mucosal keratinocytes were more often linked to type I interferon-driven apoptosis, whereas cutaneous keratinocytes predominantly amplified inflammation through cytokine and chemokine release, with lupus as an exception.\nThis systematic review highlights keratinocytes as active regulators rather than passive bystanders in epithelial injury disorders. By integrating diverse inflammatory cues, keratinocytes engage shared and disease-specific pathways that shape immune responses across the spectrum of cutaneous and mucosal inflammation.",
+  "pub_date": "2025-12-17",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "affiliations": [
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Department of Hand, Replantation, and Microsurgery, Burns and Plastic Surgery, BG Trauma Center Berlin, Chair of Hand, Replantation, and Microsurgery, Charité - Universitätsmedizin Berlin, Berlin, Germany.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Program in Dermatopathology, Department of Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, United States.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Departments of Dermatology and Pathology, Yale School of Medicine, New Haven, CT, United States.",
+    "Section of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, Yale School of Medicine, New Haven, CT, United States.",
+    "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, United States.",
+    "Section of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, Yale School of Medicine, New Haven, CT, United States.",
+    "Section of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, Yale School of Medicine, New Haven, CT, United States.",
+    "Program in Dermatopathology, Department of Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, United States.",
+    "Program in Dermatopathology, Department of Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, United States.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States.",
+    "Department of Surgery, Division of Plastic Surgery, Yale School of Medicine, New Haven, CT, United States."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41479908/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}

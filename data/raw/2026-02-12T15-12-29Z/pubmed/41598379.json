@@ -1,0 +1,25 @@
+{
+  "pmid": "41598379",
+  "title": "Long-Term Impact of Guselkumab on Systemic Inflammation Indices in Moderate-to-Severe Psoriasis.",
+  "abstract": "Background/Objectives: Psoriasis is a chronic immune-mediated inflammatory disease associated with systemic inflammation and comorbidities such as cardiovascular disease and metabolic syndrome. Blood-derived inflammatory indices like neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), systemic immune-inflammation index (SII), systemic inflammation response index (SIRI), and pan-immune-inflammation value (PIV) have been proposed as biomarkers of systemic inflammation and disease severity. This retrospective and prospective observational study aimed to evaluate the long-term effects of guselkumab, an IL-23 inhibitor, on these indices in moderate-to-severe psoriasis. Methods: We analyzed 208 patients with moderate-to-severe psoriasis treated with guselkumab, with hematologic evaluations available for 208 patients at baseline, 208 at week 52, 129 at week 104, and 94 at week 156. Systemic inflammatory indices were calculated from routine annual blood tests. Patients were stratified by obesity, cardiovascular comorbidities, treatment response, and prior biologic therapy. Longitudinal changes were assessed using Friedman tests with Wilcoxon post hoc comparisons, and correlations between PASI and inflammatory indices were evaluated using Spearman's coefficients. Results: SIRI and PLR showed significant reductions at week 156 (p = 0.038 and p = 0.018, respectively), while MLR also decreased over time without reaching consistent significance. NLR and PIV showed minimal or inconsistent changes. Obese patients and those with cardiovascular disease had higher baseline SII and SIRI and less pronounced improvements. No significant differences were observed between super responders and others. Correlation between baseline PASI and most inflammatory markers was weak, except for a weak but significant correlation with PIV (ρ = 0.119, p = 0.049). Conclusions: Guselkumab treatment is associated with long-term reduction in systemic inflammatory indices, particularly SIRI. The weak correlation of these markers with skin severity highlights a dissociation between cutaneous and systemic inflammation. SIRI and SII may serve as useful biomarkers to monitor systemic inflammation and guide comprehensive management in psoriasis patients.",
+  "pub_date": "2026-01-06",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "affiliations": [
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "School of Medicine and Surgery, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Dermatology Unit, Fondazione Policlinico \"Tor Vergata\", 00133 Rome, Italy.",
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Dermatology Unit, Fondazione Policlinico \"Tor Vergata\", 00133 Rome, Italy.",
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Dermatology Unit, Fondazione Policlinico \"Tor Vergata\", 00133 Rome, Italy.",
+    "Department of Systems Medicine, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+    "Dermatology Unit, Fondazione Policlinico \"Tor Vergata\", 00133 Rome, Italy."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41598379/",
+  "snapshot_id": "2026-02-12T15-12-29Z",
+  "ingested_at": "2026-02-12T15:12:33.030557+00:00"
+}
