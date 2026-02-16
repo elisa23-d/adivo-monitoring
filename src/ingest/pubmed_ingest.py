@@ -130,13 +130,26 @@ def _parse_date_to_ordinal(s: Optional[str]) -> Optional[int]:
     return None
 
 
-def esearch(query: str, retmax: int = 200) -> list[str]:
-    # Define explicit [start, end] window: last 30 days by publication date
-    today = datetime.now(timezone.utc).date()
-    start_date = today - timedelta(days=30)
-    # PubMed eutils expects YYYY/MM/DD format for mindate/maxdate
-    mindate = start_date.strftime("%Y/%m/%d")
-    maxdate = today.strftime("%Y/%m/%d")
+def esearch(
+    query: str,
+    retmax: int = 200,
+    mindate: Optional[str] = None,
+    maxdate: Optional[str] = None,
+) -> list[str]:
+    """
+    Run PubMed esearch for a query.
+
+    - If mindate/maxdate are provided, they should be in the same format PubMed expects,
+      e.g. "2026/01/01" and "2026/02/16".
+    - If they are omitted, we default to a 30-day window ending today (same behaviour as before).
+    """
+    # If no explicit dates are passed, default to last 30 days
+    if mindate is None or maxdate is None:
+        today = datetime.now(timezone.utc).date()
+        start_date = today - timedelta(days=30)
+        # PubMed eutils expects YYYY/MM/DD format for mindate/maxdate
+        mindate = start_date.strftime("%Y/%m/%d")
+        maxdate = today.strftime("%Y/%m/%d")
 
     params = {
         "db": "pubmed",
@@ -144,7 +157,7 @@ def esearch(query: str, retmax: int = 200) -> list[str]:
         "retmax": str(retmax),
         "retmode": "json",
         "sort": "pub+date",  # sort by publication date
-        # Explicit publication date window: last 30 days
+        # Explicit publication date window
         "datetype": "pdat",
         "mindate": mindate,
         "maxdate": maxdate,
@@ -389,22 +402,173 @@ def ingest_profile(profile_id: int, snapshot_id: Optional[str] = None, retmax: i
     return snapshot_id
 
 
-if __name__ == "__main__":
-    # Default run: most recently created active profile
+def one_off_search_with_competitors(
+    query: str,
+    mindate: str,
+    maxdate: str,
+    retmax: int = 200,
+) -> str:
+    """
+    One-off helper to:
+    - run a PubMed query with an explicit [mindate, maxdate] window (same format as PubMed, e.g. "2026/01/01"),
+    - ingest the results into the database,
+    - tag competitor mentions using affiliations,
+    - and print only the papers whose sponsors (affiliations) match COMPETITORS.
+
+    Returns the created snapshot_id.
+    """
+    snapshot_id = ensure_snapshot(
+        snapshot_id=None,
+        notes=f"One-off PubMed ingest for query='{query}' ({mindate} to {maxdate})",
+    )
+    print(f"📌 snapshot_id = {snapshot_id}")
+    print(f"🔎 PubMed query = {query}")
+    print(f"📅 Date window (pdat) = {mindate} -> {maxdate}")
+
+    pmids = esearch(query=query, retmax=retmax, mindate=mindate, maxdate=maxdate)
+    print(f"📥 esearch returned {len(pmids)} PMIDs")
+
+    # Derive ordinal range from mindate/maxdate for a consistent first-publication filter
+    start_ord = end_ord = None
+    try:
+        start_date = datetime.strptime(mindate, "%Y/%m/%d").date()
+        end_date = datetime.strptime(maxdate, "%Y/%m/%d").date()
+        start_ord = start_date.toordinal()
+        end_ord = end_date.toordinal()
+    except ValueError:
+        # If parsing fails, we skip the additional first-publication filtering
+        pass
+
+    all_records: list[PubMedRecord] = []
+    batch_size = 100
+    for i in range(0, len(pmids), batch_size):
+        batch = pmids[i : i + batch_size]
+        xml_text = efetch(batch)
+        records = parse_pubmed_xml(xml_text)
+        all_records.extend(records)
+        time.sleep(0.34)
+
+    # Optional additional filter using first publication (epub or print) within [start_ord, end_ord]
+    in_window: list[PubMedRecord] = []
+    if start_ord is not None and end_ord is not None:
+        for rec in all_records:
+            first_pub = rec.epub_date or rec.pub_date
+            ord_val = _parse_date_to_ordinal(first_pub)
+            if ord_val is None or (start_ord <= ord_val <= end_ord):
+                in_window.append(rec)
+    else:
+        in_window = all_records
+
+    dropped = len(all_records) - len(in_window)
+    if dropped:
+        print(
+            f"📅 filtered out {dropped} papers with first publication outside {mindate}–{maxdate} (epub/print)"
+        )
+    print(f"🧾 ingesting {len(in_window)} PubMed records")
+    upsert_pubmed_records(in_window, snapshot_id=snapshot_id)
+
+    mentions = tag_competitors(snapshot_id=snapshot_id)
+    print(f"🏷️ competitor mentions inserted (affiliation matches): {mentions}")
+
+    # Show only papers whose sponsors are in COMPETITORS (i.e., have competitor_mentions)
     with connect() as conn:
-        row = conn.execute(
+        rows = conn.execute(
             """
-            SELECT profile_id
-            FROM monitoring_profiles
-            WHERE is_active = 1
-            ORDER BY created_at DESC
-            LIMIT 1
-            """
-        ).fetchone()
+            SELECT
+              d.doc_id,
+              d.title,
+              d.url,
+              COALESCE(GROUP_CONCAT(DISTINCT c.canonical_name), '') AS competitors
+            FROM documents d
+            JOIN competitor_mentions cm ON cm.doc_id = d.doc_id
+            JOIN competitors c ON c.competitor_id = cm.competitor_id
+            WHERE d.snapshot_id = ?
+            GROUP BY d.doc_id, d.title, d.url
+            ORDER BY d.published_date DESC, d.doc_id
+            """,
+            (snapshot_id,),
+        ).fetchall()
 
-    if not row:
-        raise SystemExit("No active monitoring profiles found. Create one with src.monitoring.create_profile.")
+    print("\n📄 Papers with competitor sponsors in affiliations:\n")
+    if not rows:
+        print("(none found)")
+    else:
+        for doc_id, title, url, competitors in rows:
+            print(f"- {doc_id}: {title}")
+            print(f"  {url}")
+            if competitors:
+                print(f"  sponsors: {competitors}")
+            print()
 
-    latest_profile_id = row[0]
-    sid = ingest_profile(profile_id=latest_profile_id, retmax=200)
-    print(f"✅ Done. snapshot_id={sid} (profile_id={latest_profile_id})")
+    return snapshot_id
+
+
+if __name__ == "__main__":
+    """
+    Two modes:
+    - No CLI arguments  -> run the latest active monitoring profile (backwards compatible).
+    - With arguments    -> run a one-off query with explicit dates and competitor filtering, e.g.:
+
+        python -m src.ingest.pubmed_ingest \\
+          --query "psoriasis AND Risankizumab" \\
+          --mindate 2026/01/01 \\
+          --maxdate 2026/02/16
+    """
+    import argparse
+    import sys
+
+    if len(sys.argv) == 1:
+        # Default run: most recently created active profile
+        with connect() as conn:
+            row = conn.execute(
+                """
+                SELECT profile_id
+                FROM monitoring_profiles
+                WHERE is_active = 1
+                ORDER BY created_at DESC
+                LIMIT 1
+                """
+            ).fetchone()
+
+        if not row:
+            raise SystemExit(
+                "No active monitoring profiles found. Create one with src.monitoring.create_profile."
+            )
+
+        latest_profile_id = row[0]
+        sid = ingest_profile(profile_id=latest_profile_id, retmax=200)
+        print(f"✅ Done. snapshot_id={sid} (profile_id={latest_profile_id})")
+    else:
+        parser = argparse.ArgumentParser(
+            description="One-off PubMed search with explicit dates and competitor filtering."
+        )
+        parser.add_argument(
+            "--query",
+            required=True,
+            help='PubMed query string, e.g. "psoriasis AND Risankizumab"',
+        )
+        parser.add_argument(
+            "--mindate",
+            required=True,
+            help='Start date (PubMed pdat format), e.g. "2026/01/01"',
+        )
+        parser.add_argument(
+            "--maxdate",
+            required=True,
+            help='End date (PubMed pdat format), e.g. "2026/02/16"',
+        )
+        parser.add_argument(
+            "--retmax",
+            type=int,
+            default=200,
+            help="Maximum number of PMIDs to fetch (default: 200).",
+        )
+        args = parser.parse_args()
+
+        sid = one_off_search_with_competitors(
+            query=args.query,
+            mindate=args.mindate,
+            maxdate=args.maxdate,
+            retmax=args.retmax,
+        )
+        print(f"✅ Done. snapshot_id={sid} (one-off query)")
