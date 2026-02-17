@@ -65,6 +65,20 @@ CREATE INDEX IF NOT EXISTS idx_documents_snapshot ON documents(snapshot_id);
 CREATE INDEX IF NOT EXISTS idx_documents_source_snapshot ON documents(source, snapshot_id);
 CREATE INDEX IF NOT EXISTS idx_documents_published_date ON documents(published_date);
 
+-- LLM-generated summaries per document (one row per doc_id)
+CREATE TABLE IF NOT EXISTS document_summaries (
+  doc_id         TEXT PRIMARY KEY,   -- matches documents.doc_id
+  snapshot_id    TEXT NOT NULL,      -- snapshot at the time of summarisation
+  study_summary  TEXT NOT NULL,      -- 2–3 bullet summary of study design & key results
+  slide_summary  TEXT,               -- short narrative suitable for slides
+  created_at     TEXT NOT NULL,      -- ISO timestamp
+  model          TEXT,               -- e.g. "gpt-4.1-mini"
+  FOREIGN KEY (doc_id) REFERENCES documents(doc_id) ON DELETE CASCADE,
+  FOREIGN KEY (snapshot_id) REFERENCES snapshots(snapshot_id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_document_summaries_snapshot ON document_summaries(snapshot_id);
+
 -- Store raw affiliations text (PubMed metadata); keep it simple and inclusive
 CREATE TABLE IF NOT EXISTS affiliations (
   affiliation_id  INTEGER PRIMARY KEY AUTOINCREMENT,

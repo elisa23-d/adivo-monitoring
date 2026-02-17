@@ -470,6 +470,21 @@ def one_off_search_with_competitors(
     mentions = tag_competitors(snapshot_id=snapshot_id)
     print(f"🏷️ competitor mentions inserted (affiliation matches): {mentions}")
 
+    # Start AI summaries in the background so we return immediately; they write to DB when done.
+    if mentions > 0:
+        import subprocess
+        import sys
+        try:
+            subprocess.Popen(
+                [sys.executable, "-m", "src.summarization.generate_summaries", "--snapshot-id", snapshot_id, "--limit", "100"],
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.PIPE,
+                start_new_session=True,
+            )
+            print(f"📝 AI summaries are generating in the background. Refresh the dashboard or re-export in a minute.")
+        except Exception as e:
+            print(f"⚠️ Could not start background summarisation: {e}")
+
     # Show only papers whose sponsors are in COMPETITORS (i.e., have competitor_mentions)
     with connect() as conn:
         rows = conn.execute(

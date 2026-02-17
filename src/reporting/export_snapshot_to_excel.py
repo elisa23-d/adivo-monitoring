@@ -41,7 +41,9 @@ class ExportRow:
     link: str
     article_title: str
     study_summary: str
+    slide_summary: str
     competitors: str
+    source: str  # pubmed / ctgov / etc.
 
 
 def get_latest_snapshot_id() -> Optional[str]:
@@ -77,31 +79,44 @@ def fetch_rows_for_snapshot(snapshot_id: str) -> list[ExportRow]:
               d.title,
               d.abstract,
               d.url,
-              COALESCE(GROUP_CONCAT(DISTINCT c.canonical_name), '') AS competitors
+              COALESCE(ds.study_summary, d.abstract, '') AS study_summary,
+              COALESCE(ds.slide_summary, '') AS slide_summary,
+              COALESCE(GROUP_CONCAT(DISTINCT c.canonical_name), '') AS competitors,
+              d.source
             FROM documents d
             JOIN competitor_mentions cm ON cm.doc_id = d.doc_id
             JOIN competitors c ON c.competitor_id = cm.competitor_id
+            LEFT JOIN document_summaries ds ON ds.doc_id = d.doc_id
             WHERE d.snapshot_id = ?
-            GROUP BY d.doc_id, d.title, d.abstract, d.url
+            GROUP BY d.doc_id, d.title, d.abstract, d.url, ds.study_summary, ds.slide_summary, d.source
             ORDER BY d.published_date DESC, d.doc_id
             """,
             (snapshot_id,),
         ).fetchall()
 
     export_rows: list[ExportRow] = []
-    for title, abstract, url, competitors in rows:
+    for title, abstract, url, study_summary_db, slide_summary_db, competitors, source in rows:
         # Fallbacks for safety
         link = url or ""
         article_title = title or ""
-        study_summary = abstract or ""
+        # Prefer LLM summary; fall back to abstract for study_summary
+        study_summary = study_summary_db or abstract or ""
+        # Prefer LLM slide_summary; if missing, show study_summary so column is never empty (same behaviour as study_summary)
+        slide_summary = slide_summary_db or study_summary or ""
         competitors_str = competitors or ""
+
+        # Human-friendly source label
+        s = (source or "").strip().lower()
+        source_label = "ClinicalTrials.gov" if s == "ctgov" else ("PubMed" if s == "pubmed" else (source or "PubMed"))
 
         export_rows.append(
             ExportRow(
                 link=link,
                 article_title=article_title,
                 study_summary=study_summary,
+                slide_summary=slide_summary,
                 competitors=competitors_str,
+                source=source_label,
             )
         )
 
@@ -112,7 +127,7 @@ def write_csv(rows: list[ExportRow], output_path: Path) -> None:
     """Write export rows to a CSV file with a fixed header."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    fieldnames = ["link", "article_title", "study_summary", "competitors"]
+    fieldnames = ["link", "article_title", "study_summary", "slide_summary", "competitors", "source"]
 
     with output_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -123,7 +138,9 @@ def write_csv(rows: list[ExportRow], output_path: Path) -> None:
                     "link": row.link,
                     "article_title": row.article_title,
                     "study_summary": row.study_summary,
+                    "slide_summary": row.slide_summary,
                     "competitors": row.competitors,
+                    "source": row.source,
                 }
             )
 
